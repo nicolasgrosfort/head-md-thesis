@@ -11,24 +11,10 @@
             "id": "f2d36ebd2300cc6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "références/installations/vulcan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "vulcan"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -104,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "références/installations/vulcan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vulcan"
+              "title": "Backlinks"
             }
           },
           {
@@ -123,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "références/installations/vulcan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from vulcan"
+              "title": "Outgoing links"
             }
           },
           {
@@ -166,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "références/installations/vulcan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of vulcan"
+              "title": "Outline"
             }
           },
           {
@@ -180,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "références/installations/vulcan.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -192,11 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "références/installations/vulcan.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for vulcan"
+              "title": "File properties"
             }
           }
         ],
@@ -221,11 +200,12 @@
   },
   "active": "f2d36ebd2300cc6d",
   "lastOpenFiles": [
-    "références/articles/dérive (philosophie).md",
-    "références/installations/vulcan.md",
     "références/livres/de la bêtise artificielle.md",
-    "processus/recherche.canvas",
+    "observations/citations/automatisation des savoir-penser.md",
     "journal/2025-11-28.md",
+    "références/installations/vulcan.md",
+    "références/articles/dérive (philosophie).md",
+    "processus/recherche.canvas",
     "références/articles",
     "idées/paysage sonore urbain.md",
     "idées/actuateurs sensoriels.md",
@@ -241,7 +221,6 @@
     "références/références.base",
     "références/assets/de la bêtise artificielle.png",
     "références/livres",
-    "observations/citations/automatisation des savoir-penser.md",
     "références/assets",
     "références",
     "Untitled.md"

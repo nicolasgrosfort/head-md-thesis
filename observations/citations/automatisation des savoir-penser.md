@@ -1,5 +1,6 @@
 ---
-références: "[[../../références/livres/de la bêtise artificielle|de la bêtise artificielle]]"
+références:
+  - "[[../../références/livres/de la bêtise artificielle|de la bêtise artificielle]]"
 tags:
   - savoir
   - automatisation
