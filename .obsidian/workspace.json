@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "références/articles/ma (esthétique).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "ma (esthétique)"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "processus/recherche.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for readme"
+              "title": "Backlinks for recherche"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "processus/recherche.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from readme"
+              "title": "Outgoing links from recherche"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md",
+                "file": "processus/recherche.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of readme"
+              "title": "Outline of recherche"
             }
           },
           {
@@ -181,7 +181,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "readme.md"
+                "file": "processus/recherche.canvas"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -193,10 +193,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "readme.md"
+                "file": "processus/recherche.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for readme"
+              "title": "File properties for recherche"
             }
           }
         ],
@@ -221,13 +221,18 @@
   },
   "active": "f2d36ebd2300cc6d",
   "lastOpenFiles": [
-    "databases/références.base",
+    "databases/Untitled.base",
+    "références/articles/ma (esthétique).md",
+    "références/assets/ma (esthétique).jpg",
+    "idées/Untitled.md",
+    "processus/recherche.canvas",
     "databases/glossaire.base",
     "databases/citations.base",
+    "readme.md",
+    "databases/références.base",
     "databases",
     "observations/glossaire/pharmakon.md",
     "observations/glossaire",
-    "readme.md",
     "idées/ln langage spécialement adapté au dialogue homme-machine.md",
     "observations/citations/automatisation de la pensée.md",
     "références/workshops/beyond bézier.md",
@@ -242,7 +247,6 @@
     "observations/citations/l'écriture comme mémoire artificielle.md",
     "observations/citations/la technique conditionne la manière dont le réel nous apparaît.md",
     "références/livres/l'être et l'écran.md",
-    "processus/recherche.canvas",
     "références/assets/l'être et l'écran.jpg",
     "références/livres/ce que sait la main.md",
     "journal/2025-11-28.md",
@@ -261,13 +265,8 @@
     "références/assets/persistance du merveilleux.png",
     "références/livres/de la bêtise artificielle.md",
     "références/assets/de la bêtise artificielle.png",
-    "journal/assets/metro-haneda-airport.webp",
-    "journal/ssets.md",
     "journal/assets/eki-melo-haneda.m4a",
     "journal/assets",
-    "références/installations/vulcan.md",
-    "références/articles",
-    "idées/Untitled",
     "journal/Untitled.canvas"
   ]
 }
