@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "30fdf025c85acc87",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "journal/assets/metro-haneda-airport.webp"
+              },
+              "icon": "lucide-image",
+              "title": "metro-haneda-airport"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "journal/assets/metro-haneda-airport.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for metro-haneda-airport"
             }
           },
           {
@@ -108,11 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "journal/assets/metro-haneda-airport.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from metro-haneda-airport"
             }
           },
           {
@@ -150,12 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "journal/assets/metro-haneda-airport.webp",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of metro-haneda-airport"
             }
           },
           {
@@ -163,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "journal/assets/metro-haneda-airport.webp"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -173,9 +191,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "journal/assets/metro-haneda-airport.webp"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for metro-haneda-airport"
             }
           }
         ],
@@ -198,11 +218,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f2d36ebd2300cc6d",
+  "active": "c2c650e7627166e3",
   "lastOpenFiles": [
+    "journal/2025-08-07.md",
+    "journal/assets/metro-haneda-airport.webp",
+    "journal/ssets.md",
+    "journal/assets/eki-melo-haneda.m4a",
+    "journal/assets",
+    "références/articles/les musiques de gare japonaises.md",
+    "journal/2025-11-28.md",
     "références/livres/de la bêtise artificielle.md",
     "observations/citations/automatisation des savoir-penser.md",
-    "journal/2025-11-28.md",
     "références/installations/vulcan.md",
     "références/articles/dérive (philosophie).md",
     "processus/recherche.canvas",
@@ -220,9 +246,6 @@
     "observations",
     "références/références.base",
     "références/assets/de la bêtise artificielle.png",
-    "références/livres",
-    "références/assets",
-    "références",
-    "Untitled.md"
+    "références/livres"
   ]
 }
