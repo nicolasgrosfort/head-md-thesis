@@ -7,7 +7,6 @@ tags:
   - mélodie
   - train
 ---
-
 # Paysage sonore urbain
 
 Explorer le bruit, les sons, des villes des mondes. Étude de cas au Japon ? 

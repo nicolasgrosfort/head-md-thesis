@@ -1,0 +1,14 @@
+views:
+  - type: list
+    name: Liste
+    filters:
+      and:
+        - file.inFolder("observations/glossaire")
+        - file.ext == "md"
+    order:
+      - file.name
+      - tags
+      - références
+    markers: none
+    indentProperties: false
+    separator: " - "

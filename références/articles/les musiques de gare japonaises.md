@@ -1,4 +1,5 @@
 ---
+apa: Legastelois, A. (2016, 9 mai). Les musiques de gare japonaises 駅メロディ. Japan-Experience. https://www.japan-experience.com/fr/preparer-voyage/savoir/comprendre-le-japon/les-musiques-de-gare-japonaises
 url: https://www.japan-experience.com/fr/preparer-voyage/savoir/comprendre-le-japon/les-musiques-de-gare-japonaises
 tags:
   - gare

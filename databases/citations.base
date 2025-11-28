@@ -1,0 +1,12 @@
+views:
+  - type: list
+    name: Liste
+    filters:
+      and:
+        - file.inFolder("observations/citations")
+    order:
+      - file.name
+      - tags
+      - références
+    markers: none
+    separator: " - "

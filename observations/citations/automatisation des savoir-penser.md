@@ -1,9 +1,12 @@
 ---
 références:
   - "[[../../références/livres/de la bêtise artificielle|de la bêtise artificielle]]"
+page:
+  - "22"
 tags:
   - savoir
   - automatisation
+  - délégation
 ---
 # Automatisation des savoir-penser
 

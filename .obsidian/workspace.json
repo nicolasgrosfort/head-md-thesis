@@ -11,26 +11,27 @@
             "id": "f2d36ebd2300cc6d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "30fdf025c85acc87",
-            "type": "leaf",
-            "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "journal/assets/metro-haneda-airport.webp"
+                "file": "readme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "metro-haneda-airport"
+              "icon": "lucide-file",
+              "title": "readme"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/assets/metro-haneda-airport.webp",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for metro-haneda-airport"
+              "title": "Backlinks for readme"
             }
           },
           {
@@ -122,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/assets/metro-haneda-airport.webp",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from metro-haneda-airport"
+              "title": "Outgoing links from readme"
             }
           },
           {
@@ -165,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/assets/metro-haneda-airport.webp",
+                "file": "readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of metro-haneda-airport"
+              "title": "Outline of readme"
             }
           },
           {
@@ -180,7 +181,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "journal/assets/metro-haneda-airport.webp"
+                "file": "readme.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -192,10 +193,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "journal/assets/metro-haneda-airport.webp"
+                "file": "readme.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for metro-haneda-airport"
+              "title": "File properties for readme"
             }
           }
         ],
@@ -218,34 +219,55 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c2c650e7627166e3",
+  "active": "f2d36ebd2300cc6d",
   "lastOpenFiles": [
+    "databases/références.base",
+    "databases/glossaire.base",
+    "databases/citations.base",
+    "databases",
+    "observations/glossaire/pharmakon.md",
+    "observations/glossaire",
+    "readme.md",
+    "idées/ln langage spécialement adapté au dialogue homme-machine.md",
+    "observations/citations/automatisation de la pensée.md",
+    "références/workshops/beyond bézier.md",
+    "observations/citations/exploitation des ressources symboliques et culturelles.md",
+    "références/plateforme/beyond bézier.md",
+    "références/workshops",
+    "références/livres/système 1, système 2.md",
+    "références/assets/système 1, système 2.jpg",
+    "références/livres/schizophrénie numérique.md",
+    "références/assets/schizophrénie numérique.jpg",
+    "observations/citations/automatisation des savoir-penser.md",
+    "observations/citations/l'écriture comme mémoire artificielle.md",
+    "observations/citations/la technique conditionne la manière dont le réel nous apparaît.md",
+    "références/livres/l'être et l'écran.md",
+    "processus/recherche.canvas",
+    "références/assets/l'être et l'écran.jpg",
+    "références/livres/ce que sait la main.md",
+    "journal/2025-11-28.md",
     "journal/2025-08-07.md",
+    "références/articles/les musiques de gare japonaises.md",
+    "références/plateforme/japan 2025.md",
+    "références/assets/beyond bézier.svg",
+    "références/plateforme/bb-vector-greyscale 1.svg",
+    "références/plateforme",
+    "références/assets/ce que sait la main.jpg",
+    "idées/paysage sonore urbain.md",
+    "idées/conte, meveilleux, mythe et haiku.md",
+    "idées/actuateurs sensoriels.md",
+    "références/livres/persistance du merveilleux.md",
+    "références/assets/vulcan.png",
+    "références/assets/persistance du merveilleux.png",
+    "références/livres/de la bêtise artificielle.md",
+    "références/assets/de la bêtise artificielle.png",
     "journal/assets/metro-haneda-airport.webp",
     "journal/ssets.md",
     "journal/assets/eki-melo-haneda.m4a",
     "journal/assets",
-    "références/articles/les musiques de gare japonaises.md",
-    "journal/2025-11-28.md",
-    "références/livres/de la bêtise artificielle.md",
-    "observations/citations/automatisation des savoir-penser.md",
     "références/installations/vulcan.md",
-    "références/articles/dérive (philosophie).md",
-    "processus/recherche.canvas",
     "références/articles",
-    "idées/paysage sonore urbain.md",
-    "idées/actuateurs sensoriels.md",
     "idées/Untitled",
-    "processus",
-    "références/assets/vulcan.png",
-    "références/installations",
-    "journal/Untitled.canvas",
-    "idées",
-    "readme.md",
-    "ressources/références/Untitled.md",
-    "observations",
-    "références/références.base",
-    "références/assets/de la bêtise artificielle.png",
-    "références/livres"
+    "journal/Untitled.canvas"
   ]
 }

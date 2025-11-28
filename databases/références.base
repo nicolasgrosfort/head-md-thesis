@@ -3,10 +3,13 @@ views:
     name: Liste
     filters:
       and:
-        - file.folder == "ressources/références"
         - file.ext == "md"
+        - file.path.startsWith("références/")
     order:
+      - file.name
       - apa
       - tags
     image: file.file
     imageFit: contain
+    markers: none
+    separator: " - "
