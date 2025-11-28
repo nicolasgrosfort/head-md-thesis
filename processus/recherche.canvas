@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"fd02099cc09c483d","x":-560,"y":-400,"width":920,"height":440,"color":"3","type":"group","label":"Idées et pistes"},
+		{"id":"5211255642188607","type":"file","file":"idées/actuateurs sensoriels.md","x":-540,"y":-380,"width":400,"height":400},
+		{"id":"939d376316e4a775","x":-60,"y":-380,"width":400,"height":400,"type":"file","file":"idées/paysage sonore urbain.md"}
+	],
+	"edges":[]
+}
