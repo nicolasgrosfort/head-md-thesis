@@ -1,0 +1,12 @@
+views:
+  - type: list
+    name: Liste
+    filters:
+      and:
+        - file.folder == "ressources/références"
+        - file.ext == "md"
+    order:
+      - apa
+      - tags
+    image: file.file
+    imageFit: contain
