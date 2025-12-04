@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "références/articles/ma (esthétique).md",
+                "file": "références/livres/de la bêtise artificielle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ma (esthétique)"
+              "title": "de la bêtise artificielle"
             }
           }
         ]
@@ -221,8 +221,8 @@
   },
   "active": "f2d36ebd2300cc6d",
   "lastOpenFiles": [
-    "databases/Untitled.base",
     "références/articles/ma (esthétique).md",
+    "databases/Untitled.base",
     "références/assets/ma (esthétique).jpg",
     "idées/Untitled.md",
     "processus/recherche.canvas",
