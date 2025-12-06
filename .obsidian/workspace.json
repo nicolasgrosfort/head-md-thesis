@@ -11,12 +11,47 @@
             "id": "f2d36ebd2300cc6d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/beyond bézier.svg"
+                "file": "références/videos/remix jr yamanote line tokyo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "beyond bézier"
+              "icon": "lucide-file",
+              "title": "remix jr yamanote line tokyo"
+            }
+          }
+        ]
+      },
+      {
+        "id": "830813fd8a5d91a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cfb8ce50f662089",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "processus/moodboard.canvas",
+                "viewState": {
+                  "x": -560,
+                  "y": -59,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "moodboard"
             }
           }
         ]
@@ -207,19 +242,33 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c2c650e7627166e3",
+  "active": "6cfb8ce50f662089",
   "lastOpenFiles": [
+    "assets/metro-haneda-airport.webp",
+    "assets/ma (esthétique).jpg",
+    "assets/persistance du merveilleux.png",
+    "assets/système 1, système 2.jpg",
     "assets/eki-melo-haneda.m4a",
+    "assets/l'être et l'écran.jpg",
+    "assets/de la bêtise artificielle.png",
+    "assets/ce que sait la main.jpg",
+    "assets/beyond bézier.svg",
+    "assets/2025-12-06-yamanote-line-remix.mp4",
+    "processus/moodboard.canvas",
+    "assets/schizophrénie numérique.jpg",
+    "assets/vulcan.png",
+    "références/videos/remix jr yamanote line tokyo.md",
+    "références/articles/dérive (philosophie).md",
+    "références/videos",
+    "processus/recherche.canvas",
+    "readme.md",
     "références/livres/de la bêtise artificielle.md",
     "assets",
     "références/articles/ma (esthétique).md",
     "databases/Untitled.base",
-    "assets/ma (esthétique).jpg",
     "idées/Untitled.md",
-    "processus/recherche.canvas",
     "databases/glossaire.base",
     "databases/citations.base",
-    "readme.md",
     "databases/références.base",
     "databases",
     "observations/glossaire/pharmakon.md",
@@ -229,32 +278,19 @@
     "références/workshops/beyond bézier.md",
     "observations/citations/exploitation des ressources symboliques et culturelles.md",
     "références/plateforme/beyond bézier.md",
-    "références/workshops",
     "références/livres/système 1, système 2.md",
-    "assets/système 1, système 2.jpg",
     "références/livres/schizophrénie numérique.md",
-    "assets/schizophrénie numérique.jpg",
     "observations/citations/automatisation des savoir-penser.md",
     "observations/citations/l'écriture comme mémoire artificielle.md",
     "observations/citations/la technique conditionne la manière dont le réel nous apparaît.md",
     "références/livres/l'être et l'écran.md",
-    "assets/l'être et l'écran.jpg",
     "références/livres/ce que sait la main.md",
     "journal/2025-11-28.md",
     "journal/2025-08-07.md",
     "références/articles/les musiques de gare japonaises.md",
     "références/plateforme/japan 2025.md",
-    "assets/beyond bézier.svg",
-    "références/plateforme/bb-vector-greyscale 1.svg",
-    "références/plateforme",
-    "assets/ce que sait la main.jpg",
     "idées/paysage sonore urbain.md",
     "idées/conte, meveilleux, mythe et haiku.md",
-    "idées/actuateurs sensoriels.md",
-    "références/livres/persistance du merveilleux.md",
-    "assets/vulcan.png",
-    "assets/persistance du merveilleux.png",
-    "assets/de la bêtise artificielle.png",
     "journal/Untitled.canvas"
   ]
 }

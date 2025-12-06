@@ -5,6 +5,7 @@
     "tags": "tags",
     "apa": "text",
     "références": "multitext",
-    "page": "multitext"
+    "page": "multitext",
+    "date": "date"
   }
 }

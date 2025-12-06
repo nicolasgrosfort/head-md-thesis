@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d3b3724b81bf7595","type":"group","x":-860,"y":-440,"width":600,"height":840,"label":"Jingle train japon"},
+		{"id":"61ede7a6eaecb66c","x":-820,"y":-400,"width":400,"height":267,"type":"file","file":"assets/metro-haneda-airport.webp"},
+		{"id":"74dc8eb06c32c023","type":"file","file":"assets/eki-melo-haneda.m4a","x":-820,"y":-100,"width":400,"height":42},
+		{"id":"948c10eb4da379ee","type":"file","file":"assets/2025-12-06-yamanote-line-remix.mp4","x":-820,"y":-20,"width":225,"height":400}
+	],
+	"edges":[]
+}
