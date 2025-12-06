@@ -9,4 +9,4 @@ tags:
 # Système 1, système 2
 Les deux vitesses de la pensées
 
-![Système 1, système 2](../assets/système%201,%20système%202.jpg)
+![Système 1, système 2](../../assets/système%201,%20système%202.jpg)

@@ -9,4 +9,4 @@ tags:
 ---
 # L'être et l'écran
 
-![L'être et l'écran](../assets/l'être%20et%20l'écran.jpg)
+![L'être et l'écran](../../assets/l'être%20et%20l'écran.jpg)

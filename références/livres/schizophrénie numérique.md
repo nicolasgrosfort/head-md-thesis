@@ -7,4 +7,4 @@ tags:
 ---
 # Schizophrénie numérique
 
-![Schizophrénie numérique](../assets/schizophrénie%20numérique.jpg)
+![Schizophrénie numérique](../../assets/schizophrénie%20numérique.jpg)

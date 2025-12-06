@@ -12,4 +12,4 @@ tags:
 ---
 # Persistance du merveilleux
 
-![](../assets/persistance%20du%20merveilleux.png)
+![](../../assets/persistance%20du%20merveilleux.png)

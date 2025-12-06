@@ -13,7 +13,7 @@ tags:
 ---
 # Ma (esthétique)
 
-![Ma (esthétique)](../assets/ma%20(esthétique).jpg)
+![Ma (esthétique)](../../assets/ma%20(esthétique).jpg)
 
 Ma (間?) est un terme japonais qui signifie « intervalle », « espace », « durée », « distance ». Son kanji symbolise un soleil entouré par une porte. Ce terme est employé comme concept d'esthétique, il fait référence aux variations subjectives du vide (silence, espace, durée, etc.) qui relie deux objets, deux phénomènes séparés.
 

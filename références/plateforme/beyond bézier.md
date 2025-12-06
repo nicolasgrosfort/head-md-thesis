@@ -9,4 +9,4 @@ tags:
 
 Découvert le 2025-11-28 à l'écal, pendant le workshop Training to Research. Présenté par Alice Savoie.
 
-![Beyond Bézier](../assets/beyond%20bézier.svg)
+![Beyond Bézier](../../assets/beyond%20bézier.svg)

@@ -10,4 +10,4 @@ tags:
 ---
 # De la bêtise artificielle
 
-![](../assets/de%20la%20bêtise%20artificielle.png)
+![](../../assets/de%20la%20bêtise%20artificielle.png)

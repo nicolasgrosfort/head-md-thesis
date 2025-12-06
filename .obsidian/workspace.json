@@ -11,24 +11,12 @@
             "id": "f2d36ebd2300cc6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "références/livres/de la bêtise artificielle.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "assets/beyond bézier.svg"
               },
-              "icon": "lucide-file",
-              "title": "de la bêtise artificielle"
+              "icon": "lucide-image",
+              "title": "beyond bézier"
             }
           }
         ]
@@ -219,11 +207,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f2d36ebd2300cc6d",
+  "active": "c2c650e7627166e3",
   "lastOpenFiles": [
+    "assets/eki-melo-haneda.m4a",
+    "références/livres/de la bêtise artificielle.md",
+    "assets",
     "références/articles/ma (esthétique).md",
     "databases/Untitled.base",
-    "références/assets/ma (esthétique).jpg",
+    "assets/ma (esthétique).jpg",
     "idées/Untitled.md",
     "processus/recherche.canvas",
     "databases/glossaire.base",
@@ -240,33 +231,30 @@
     "références/plateforme/beyond bézier.md",
     "références/workshops",
     "références/livres/système 1, système 2.md",
-    "références/assets/système 1, système 2.jpg",
+    "assets/système 1, système 2.jpg",
     "références/livres/schizophrénie numérique.md",
-    "références/assets/schizophrénie numérique.jpg",
+    "assets/schizophrénie numérique.jpg",
     "observations/citations/automatisation des savoir-penser.md",
     "observations/citations/l'écriture comme mémoire artificielle.md",
     "observations/citations/la technique conditionne la manière dont le réel nous apparaît.md",
     "références/livres/l'être et l'écran.md",
-    "références/assets/l'être et l'écran.jpg",
+    "assets/l'être et l'écran.jpg",
     "références/livres/ce que sait la main.md",
     "journal/2025-11-28.md",
     "journal/2025-08-07.md",
     "références/articles/les musiques de gare japonaises.md",
     "références/plateforme/japan 2025.md",
-    "références/assets/beyond bézier.svg",
+    "assets/beyond bézier.svg",
     "références/plateforme/bb-vector-greyscale 1.svg",
     "références/plateforme",
-    "références/assets/ce que sait la main.jpg",
+    "assets/ce que sait la main.jpg",
     "idées/paysage sonore urbain.md",
     "idées/conte, meveilleux, mythe et haiku.md",
     "idées/actuateurs sensoriels.md",
     "références/livres/persistance du merveilleux.md",
-    "références/assets/vulcan.png",
-    "références/assets/persistance du merveilleux.png",
-    "références/livres/de la bêtise artificielle.md",
-    "références/assets/de la bêtise artificielle.png",
-    "journal/assets/eki-melo-haneda.m4a",
-    "journal/assets",
+    "assets/vulcan.png",
+    "assets/persistance du merveilleux.png",
+    "assets/de la bêtise artificielle.png",
     "journal/Untitled.canvas"
   ]
 }

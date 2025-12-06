@@ -5,4 +5,4 @@ tags:
 ---
 # Ce que sait la main
 
-![Ce que sait la main](../assets/ce%20que%20sait%20la%20main.jpg)
+![Ce que sait la main](../../assets/ce%20que%20sait%20la%20main.jpg)
