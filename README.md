@@ -1,5 +1,7 @@
 # Master Thesis
 
+> Projet migré dans mes notes Obsidian le 22.12.2025
+
 Espace de réflexion, de recherche, et de collecte de données, observations, idées ou méthodologie concernant ma thèse de Master en Media Design à la Haute École d'Art et de Design de Genève. 
 
 ## Methodes

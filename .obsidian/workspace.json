@@ -4,39 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "bdd94f5d747a1dc4",
-        "type": "tabs",
-        "dimension": 41.48372445117335,
-        "children": [
-          {
-            "id": "f2d36ebd2300cc6d",
-            "type": "leaf",
-            "state": {
-              "type": "video",
-              "state": {
-                "file": "assets/2025-12-06-yamanote-line-remix.mp4"
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-06-yamanote-line-remix"
-            }
-          }
-        ]
-      },
-      {
         "id": "830813fd8a5d91a5",
         "type": "tabs",
-        "dimension": 58.51627554882665,
         "children": [
           {
             "id": "6cfb8ce50f662089",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "assets/2025-12-06-yamanote-line-remix.mp4"
+                "file": "readme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2025-12-06-yamanote-line-remix"
+              "title": "readme"
             }
           }
         ]
@@ -227,31 +219,39 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f2d36ebd2300cc6d",
+  "active": "6cfb8ce50f662089",
   "lastOpenFiles": [
-    "références/videos/remix jr yamanote line tokyo.md",
-    "assets/2025-12-06-yamanote-line-remix.mp4",
-    "références/articles/dérive (philosophie).md",
+    "observations/citations/automatisation de la pensée.md",
+    "observations/citations/automatisation des savoir-penser.md",
+    "idées/ln langage spécialement adapté au dialogue homme-machine.md",
+    "idées/conte, meveilleux, mythe et haiku.md",
+    "observations/citations/l'écriture comme mémoire artificielle.md",
+    "readme.md",
+    "observations/citations/exploitation des ressources symboliques et culturelles.md",
+    "références/livres/persistance du merveilleux.md",
+    "databases/références.base",
     "databases/glossaire.base",
     "databases/citations.base",
-    "databases/références.base",
-    "idées/paysage sonore urbain.md",
+    "références/livres/de la bêtise artificielle.md",
+    "références/livres/ce que sait la main.md",
+    "processus/recherche.canvas",
+    "processus/moodboard.canvas",
+    "références/livres/schizophrénie numérique.md",
+    "références/livres/système 1, système 2.md",
+    "références/workshops/beyond bézier.md",
+    "références/plateforme/beyond bézier.md",
+    "références/videos/remix jr yamanote line tokyo.md",
+    "références/livres/l'être et l'écran.md",
+    "observations/citations/la technique conditionne la manière dont le réel nous apparaît.md",
+    "références/articles/ma (esthétique).md",
     "journal/2025-11-28.md",
     "journal/2025-08-07.md",
-    "références/articles/les musiques de gare japonaises.md",
-    "références/articles/ma (esthétique).md",
-    "références/plateforme/beyond bézier.md",
+    "assets/2025-12-06-yamanote-line-remix.mp4",
     "références/plateforme/japan 2025.md",
-    "processus/moodboard.canvas",
-    "processus/recherche.canvas",
-    "observations/citations/l'écriture comme mémoire artificielle.md",
-    "observations/citations/exploitation des ressources symboliques et culturelles.md",
-    "observations/citations/automatisation des savoir-penser.md",
-    "observations/citations/automatisation de la pensée.md",
-    "readme.md",
+    "références/articles/les musiques de gare japonaises.md",
+    "références/articles/dérive (philosophie).md",
+    "idées/paysage sonore urbain.md",
     "idées/actuateurs sensoriels.md",
-    "idées/conte, meveilleux, mythe et haiku.md",
-    "idées/ln langage spécialement adapté au dialogue homme-machine.md",
     "assets/metro-haneda-airport.webp",
     "assets/ma (esthétique).jpg",
     "assets/persistance du merveilleux.png",
@@ -264,18 +264,10 @@
     "assets/schizophrénie numérique.jpg",
     "assets/vulcan.png",
     "références/videos",
-    "références/livres/de la bêtise artificielle.md",
     "assets",
     "databases/Untitled.base",
-    "idées/Untitled.md",
     "databases",
-    "observations/glossaire/pharmakon.md",
     "observations/glossaire",
-    "références/workshops/beyond bézier.md",
-    "références/livres/système 1, système 2.md",
-    "références/livres/schizophrénie numérique.md",
-    "observations/citations/la technique conditionne la manière dont le réel nous apparaît.md",
-    "références/livres/l'être et l'écran.md",
     "journal/Untitled.canvas"
   ]
 }
