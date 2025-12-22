@@ -14,9 +14,11 @@ Les métros, les pachinko, les machines.
 
 Comment est-ce que je son fabrique du sens ? Fabrique des souvenirs ? Guide l'expérience ? 
 
+
+
 ## Pourquoi c'est important ?
 
-Intérêt pour le lien entre son et les émotions
+Intérêt pour le lien entre son et les émotions, et entre les émotions et l'action. 
 Voyage au japon très marquant, notamment pour son paysage sonore
 
 ## Sources à explorer
