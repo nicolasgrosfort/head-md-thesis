@@ -278,7 +278,7 @@ Il s'agira notamment d'explorer la "[...] *capacité des objets fictionnels à f
 
 *Citées ou utilisées dans le présent document.*
 
-[^2]: COSSIN, Isabelle,  OCNARESCU, Ioana  et , Li-Cam,  2025. Quand le design et la science-fiction s’enrichissent : aller-retour entre récits et prototypes. Sciences du Design, 2025/1 N° 21, p.88-107. DOI : 10.3917/sdd.021.0088. Disponible à l'adresse : https://shs.cairn.info/revue-sciences-du-design-2025-1-page-88?lang=fr.
+[^2]: COSSIN, Isabelle,  OCNARESCU, Ioana  et, Li-Cam,  2025. Quand le design et la science-fiction s’enrichissent : aller-retour entre récits et prototypes. Sciences du Design, 2025/1 N° 21, p.88-107. DOI : 10.3917/sdd.021.0088. Disponible à l'adresse : https://shs.cairn.info/revue-sciences-du-design-2025-1-page-88?lang=fr.
 
 [^4]: NOVA, Nicolas, 2022. *Exercices d’observation*. Édition Premier Parallèle 
 
@@ -298,7 +298,7 @@ Il s'agira notamment d'explorer la "[...] *capacité des objets fictionnels à f
 
 [^12]: MASURE, Anthony, 2001. *Panne des imaginaires technologiques ou design pour un monde réel ?*. [en ligne]. 1 mai 2001. Disponible à l'adresse : https://www.anthonymasure.com/articles/2017-09-panne-imaginaires-technologiques-design-monde-reel
 
-[^13]: MAUDET, Nolwenn, 2026. *Cultures du design numérique : Histoire des idées et enjeux contemporains*. Édition 205.
+[^13]: MAUDET, Nolwenn, 2026. *Cultures du design numérique : Histoire des idées et enjeux contemporains*. Éditions 205.
 
 [^14]: BRUNER, Jérôme Seymour,  2006. La culture, l'esprit, les récits. *Enfance*, 2006/2 Vol. 58, p.118-125. DOI : 10.3917/enf.582.0118. Disponible à l'adresse : https://shs.cairn.info/revue-enfance1-2006-2-page-118?lang=fr.
 
