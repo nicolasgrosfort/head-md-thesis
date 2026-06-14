@@ -254,6 +254,7 @@ Le dispositif pourra être parcouru selon plusieurs niveaux de lecture : la tram
 | **Septembre** | Entretiens, écriture, présentation          | Présentation intermédiaire, 30'000 caractères                                         | Kyoto        |
 | **Octobre**   | Écriture, mise en page                      | Bestiaire interactif, présentation intermédiaire                                      | Genève       |
 | **Novembre**  | Relecture, finalisation                     | Présentation finale, 50'000 caractères                                                | Genève       |
+
 ### Backlog
 
 *Liste des prochaines étapes.*
@@ -262,6 +263,7 @@ Le dispositif pourra être parcouru selon plusieurs niveaux de lecture : la tram
 - [ ] Mieux définir le concept de délégation cognitive  
 - [ ] Ancrer davantage la recherche dans mes terrains  
 - [ ] Préparer les grilles d'entretien et d'observation  
+
 ## Projet pratique
 
 *Perspectives de projet pratique prolongeant le travail de thèse.*
@@ -276,64 +278,64 @@ Il s'agira notamment d'explorer la "[...] *capacité des objets fictionnels à f
 
 *Citées ou utilisées dans le présent document.*
 
-[^2]: COSSIN, Isabelle, OCNARESCU, Ioana et , Li-Cam, 2025. Quand le design et la science-fiction s'enrichissent : aller-retour entre récits et prototypes. Sciences du Design, 2025/1 N° 21, p.88-107. DOI : 10.3917/sdd.021.0088. URL : https://shs.cairn.info/revue-sciences-du-design-2025-1-page-88.
+[^2]: COSSIN, Isabelle,  OCNARESCU, Ioana  et , Li-Cam,  2025. Quand le design et la science-fiction s’enrichissent : aller-retour entre récits et prototypes. Sciences du Design, 2025/1 N° 21, p.88-107. DOI : 10.3917/sdd.021.0088. Disponible à l'adresse : https://shs.cairn.info/revue-sciences-du-design-2025-1-page-88?lang=fr.
 
-[^4]: Julie Enckell Julliard, Nicolas Nova, « Exercices d'observation – Entretien avec Nicolas Nova », _Issue_, 06 février 2023
+[^4]: NOVA, Nicolas, 2022. *Exercices d’observation*. Édition Premier Parallèle 
 
-[^5]: SMITH, Keri E. Iyall, 2008. _How to Be an Explorer of the World : Portable Life Museum_ [en ligne]. Disponible à l'adresse : http://ci.nii.ac.jp/ncid/BB18334776
+[^5]: SMITH, Keri, 2011. *How to be an Explorer of the World : Portable Life Museum*. Particular Books.
 
-[^6]: BAILLY, Arnaud. Arnaud Bailly - Sur « L'invention du quotidien » . [en ligne]. Disponible à l'adresse : https://abailly.github.io/posts/invention-du-quotidien.html
+[^6]: BAILLY, Arnaud. *Sur "L'invention du quotidien"*. [en ligne]. 26 septembre 2021. Disponible à l'adresse : https://abailly.github.io/posts/invention-du-quotidien.html
 
-[^7]: Aurélien Berlan, « Terre et Liberté » (conclusion), 2023b_Les Amis de Bartleby_ [en ligne]. Disponible à l'adresse : https://lesamisdebartleby.wordpress.com/2023/05/03/aurelien-berlan-terre-et-liberte-conclusion/
+[^7]: BERLAN, Aurélien. *« Terre et Liberté » (conclusion)*. [en ligne]. 3 mai 2023. Disponible à l'adresse : https://lesamisdebartleby.wordpress.com/2023/05/03/aurelien-berlan-terre-et-liberte-conclusion/
 
-[^8]: L'IA générative et la prolétarisation de la pensée, 2025_Spotify_ [en ligne]. Disponible à l'adresse : https://open.spotify.com/episode/3IN48so6CKUJLiCfu06M2b?si=vnVHIVcdQiKhLOSkDRjsog
+[^8]: BARBEY, Grégoire. *L'IA générative et la prolétarisation de la pensée*. [en ligne]. IA qu'à m'expliquer. 10 novembre 2025. Disponible à l'adresse : https://open.spotify.com/episode/3IN48so6CKUJLiCfu06M2b?si=vnVHIVcdQiKhLOSkDRjsog
 
-[^9]: SIMONDON, Gilbert, 2012. Du mode d'existence des objets techniques. Editions Aubier.
+[^9]: SIMONDON, Gilbert, 2012. *Du mode d'existence des objets techniques*. Editions Aubier.
 
-[^10]: Flichy Patrice, « La place de l'imaginaire dans l'action technique » Le cas de l'internet, _Réseaux_, 2001/5 no 109, p. 52-73. DOI : 10.3917/res.109.0052
+[^10]: FLICHY, Patrice. « La place de l'imaginaire dans l'action technique » Le cas de l'internet, *Réseaux*, 2001/5 no 109, p. 52-73. DOI : 10.3917/res.109.0052
 
-[^11]: Yvon Keromnes. Les Métaphores - et leur traduction - dans la vie quotidienne. Revue SEPTET, 2013, 5, pp.68-87. ⟨hal-00944651⟩
+[^11]: KEROMNES, Yvon. 2013. Les Métaphores - et leur traduction - dans la vie quotidienne. *Revue SEPTET*, 5, pp.68-87. ⟨hal-00944651⟩
 
-[^12]: MASURE, Anthony, 2001. Panne des imaginaires technologiques ou design pour un monde réel ? | Anthony Masure. _Anthony Masure | Enseignant-chercheur En Design_ [en ligne]. 1 mai 2001. Disponible à l'adresse : https://www.anthonymasure.com/articles/2017-09-panne-imaginaires-technologiques-design-monde-reel
+[^12]: MASURE, Anthony, 2001. *Panne des imaginaires technologiques ou design pour un monde réel ?*. [en ligne]. 1 mai 2001. Disponible à l'adresse : https://www.anthonymasure.com/articles/2017-09-panne-imaginaires-technologiques-design-monde-reel
 
-[^13]: MAUDET, Nolwenn, 2026. _Cultures du design numérique : Histoire des idées et enjeux contemporains_.
+[^13]: MAUDET, Nolwenn, 2026. *Cultures du design numérique : Histoire des idées et enjeux contemporains*. Édition 205.
 
-[^14]: BRUNER, Jérôme Seymour,  2006. La culture, l'esprit, les récits. Enfance, 2006/2 Vol. 58, p.118-125. DOI : 10.3917/enf.582.0118. URL : https://shs.cairn.info/revue-enfance1-2006-2-page-118?lang=fr.
+[^14]: BRUNER, Jérôme Seymour,  2006. La culture, l'esprit, les récits. *Enfance*, 2006/2 Vol. 58, p.118-125. DOI : 10.3917/enf.582.0118. Disponible à l'adresse : https://shs.cairn.info/revue-enfance1-2006-2-page-118?lang=fr.
 
-[^15]: HTTPS : //INDIEWEB.SOCIAL/@TG, 2026. Phantom obligation. Terry Godier [en ligne]. 26 janvier 2026. Disponible à l'adresse : https://www.terrygodier.com/phantom-obligation
+[^15]: GODIER, Terry. *Phantom obligation*. [en ligne]. 26 janvier 2026. Disponible à l'adresse : https://www.terrygodier.com/phantom-obligation
 
-[^16]: Vial, S. (2014). Pour introduire le "playsir" : Pourquoi les appareils numériques sont "ludugènes". Interfaces numériques, 1, 149-161. Consulté le 15.06.2019 sur https://www.unilim.fr/interfaces-numeriques/index.php?id=1004
+[^16]: VIAL, Stéphane. 2014. Pour introduire le "playsir" : Pourquoi les appareils numériques sont "ludugènes". *Interfaces numériques*, 1, 149-161. Disponible à l'adresse: https://www.unilim.fr/interfaces-numeriques/index.php?id=1004 [consulté le 15 juin 2019]
 
-[^17]: NOVA, Nicolas, 2020. _Smartphones : Une enquête anthropologique_.
+[^17]: NOVA, Nicolas, 2020. *Smartphones : Une enquête anthropologique*.
 
-[^18]: Sennett Richard, _Ce que sait la main. La culture de l'artisanat_, traduit de l'américain par Pierre-Emmanuel Dauzat, Paris, Albin Michel, 2010, 403 p.
+[^18]: SENNET, Richard, 2010.  *Ce que sait la main. La culture de l'artisanat*, traduit de l'américain par Pierre-Emmanuel Dauzat, Paris, Albin Michel, 2010, 403 p.
 
-[^19]: Alombert, A. (2023). Schizophrénie numérique. Paris : Éditions Allia.
+[^19]: ALOMBERT, Anne. 2023. *Schizophrénie numérique*. Paris : Éditions Allia.
 
-[^20]: STEINBRÜCK, Alexa, 2026c. Talking about ‘AI' – a call for more nuanced terminology. _Alexa Steinbrück_ [en ligne]. 7 mai 2026. Disponible à l'adresse : https://alexasteinbrueck.substack.com/p/talking-about-ai-a-call-for-more
+[^20]: STEINBRÜCK, Alexa. 2026. *Talking about 'AI' – a call for more nuanced terminology*. [en ligne]. 7 mai 2026. Disponible à l'adresse : https://alexasteinbrueck.substack.com/p/talking-about-ai-a-call-for-more
 
-[^21]: Nova, N. (2024). Persistance du merveilleux : Le petit peuple de nos machines. Premier Parallèle.
+[^21]: NOVA, Nicolas. 2024. *Persistance du merveilleux : Le petit peuple de nos machines*. Premier Parallèle.
 
-[^22]: FLORIDI, Luciano, 2026b. AI and Semantic Pareidolia : When We See Intelligent Consciousness where there is None. _Philosophy & Technology_. Vol. 39, no 1. DOI 10.1007/s13347-026-01052-1.
+[^22]: FLORIDI, Luciano. 2026. AI and Semantic Pareidolia : When We See Intelligent Consciousness where there is None. *Philosophy & Technology*. Vol. 39, no 1. DOI 10.1007/s13347-026-01052-1.
 
-[^23]: How LLMs work — A visual deep dive, [en ligne]. Disponible à l'adresse : https://ynarwal.github.io/how-llms-work/index.html
+[^23]: KARAPATHY, Andrej. How LLMs work — A visual deep dive. [en ligne]. Disponible à l'adresse : https://ynarwal.github.io/how-llms-work/index.html
 
-[^24]: BENDER, Emily M. et al., 2021. On the Dangers of Stochastic Parrots. _Virtual Event_. pp. 610‑623. DOI 10.1145/3442188.3445922.
+[^24]: BENDER, Emily M. et al., 2021. On the Dangers of Stochastic Parrots. *Virtual Event*. pp. 610‑623. DOI 10.1145/3442188.3445922.
 
-[^25]: Alombert, A. (2025). De la bêtise artificielle. Éditions Allia.
+[^25]: ALOMBERT, Anne. 2025. *De la bêtise artificielle*. Éditions Allia.
 
-[^26]: BRIDLE, James, 2024. _Toutes les intelligences du monde : Animaux, plantes, machines_.
+[^26]: BRIDLE, James. 2024. *Toutes les intelligences du monde : Animaux, plantes, machines*. 
 
-[^27]: BLEECKER, Julian, 2026. Is AI 21st-century alchemy ? nearfuturelaboratory.com [en ligne]. 28 avril 2026. Disponible à l'adresse : https://nearfuturelaboratory.com/newsletters/2026/w18-y26/ [consulté le 30 avril 2026].
+[^27]: BLEECKER, Julian. 2026. *Is AI 21st-century alchemy ?*. [en ligne]. 28 avril 2026. Disponible à l'adresse : https://nearfuturelaboratory.com/newsletters/2026/w18-y26/ [consulté le 30 avril 2026].
 
-[^28]: MOROZOV, Evgeny V.., 2014. _Pour tout résoudre cliquez ici : L'aberration du solutionnisme technologique_.
+[^28]: MOROZOV, Evgeny. 2014. *Pour tout résoudre cliquez ici : L'aberration du solutionnisme technologique*. FYP Éditions.
 
-[^29]: AMANIEUX, Laureline,  2013. La puissance des mythes : les travaux du mythologue américain Joseph Campbell (1904-1987) Revue de littérature comparée, 2013/2 n° 346, p.167-176. DOI : 10.3917/rlc.346.0167. URL : https://shs.cairn.info/revue-de-litterature-comparee-2013-2-page-167?lang=fr.
+[^29]: AMANIEUX, Laureline,  2013. La puissance des mythes : les travaux du mythologue américain Joseph Campbell (1904-1987). *Revue de littérature comparée*, 2013/2 n° 346, p.167-176. DOI : 10.3917/rlc.346.0167. Disponible à l'adresse : https://shs.cairn.info/revue-de-litterature-comparee-2013-2-page-167?lang=fr.
 
-[^30]: ROOSEN, Christopher, 2026. Semantic Pareidolia, Artificial Intelligence and Minds Hijacked by Language — Christopher Roosen. _Christopher Roosen_ [en ligne]. 30 mars 2026. Disponible à l'adresse : https://www.christopherroosen.com/blog/2026/3/24/semantic-pareidolia-artificial-intelligence
+[^30]: ROOSEN, Christopher. 2026. *Semantic Pareidolia, Artificial Intelligence and Minds Hijacked by Language*. [en ligne]. 30 mars 2026. Disponible à l'adresse : https://www.christopherroosen.com/blog/2026/3/24/semantic-pareidolia-artificial-intelligence
 
-[^31]: TOURRET, Louise, 2026. Nos enfants après l'IA. Langage, curiosité, imagination et travail scolaire se transforment-ils, et comment ? _France Culture_ [en ligne]. 14 janvier 2026. Disponible à l'adresse : https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/nos-enfants-apres-l-ia-langage-curiosite-imagination-et-travail-scolaire-se-transforment-ils-et-comment-1463643
+[^31]: TOURRET, Louise. 2026. Nos enfants après l'IA. Langage, curiosité, imagination et travail scolaire se transforment-ils, et comment ? *France Culture* [en ligne]. 14 janvier 2026. Disponible à l'adresse : https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/nos-enfants-apres-l-ia-langage-curiosite-imagination-et-travail-scolaire-se-transforment-ils-et-comment-1463643
 
-[^32]: AlanTuring.net Turing's O-machines, [en ligne]. Disponible à l'adresse : https://www.alanturing.net/turing_archive/pages/reference%20articles/Turing's%20O-Machines.html
+[^32]: CPOELAND, Jack. *Turing's O-machines*. [en ligne]. Mai 2020. Disponible à l'adresse : https://www.alanturing.net/turing_archive/pages/reference%20articles/Turing's%20O-Machines.html
 
-[^33]: OUREDNIK, André, 2024. Robopoïèses : Les intelligences artificielles de la nature.
+[^33]: OUREDNIK, André. 2024. *Robopoïèses : Les intelligences artificielles de la nature*. Editions La Baconnière.
