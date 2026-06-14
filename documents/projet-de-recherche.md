@@ -1,12 +1,13 @@
 # Spiritual Stochasticism
 
 *Document d'intention de recherche et cadre méthodologique*.
+*Sous la direction de Sabrina Calvo.*
 
 ## TL;DR
 
 La notion même d'intelligence artificielle participe à l'opacification de son fonctionnement : elle crée des vides sémantiques que l'imaginaire vient combler par des mythes, des métaphores et des projections anthropomorphiques.
 
-*Spiritual Stochasticism* est un projet de recherche mené de juin à novembre 2026, entre Genève et Kyoto, qui cherche à cartographier les imaginaires gravitant autour des interfaces conversationnelles d'intelligence artificielle générative et à comprendre la manière dont ils influencent les pratiques de délégation cognitive.
+*Spiritual Stochasticism* est un projet de recherche mené de juin à novembre 2026, entre Genève et Kyoto, qui cherche à cartographier les imaginaires gravitant autour des interfaces conversationnelles d'IA générative et à comprendre la manière dont ils influencent les pratiques de délégation cognitive.
 
 À partir de lectures, d'observations, d'entretiens et d'un carnet de recherche, cette enquête prendra la forme d'un bestiaire interactif des imaginaires de l'intelligence artificielle générative.
 
@@ -243,6 +244,19 @@ La recherche sera restituée sous la forme d'un bestiaire interactif des imagina
 Chaque figure constituera un point d'entrée dans la recherche et articulera différents matériaux : récits d'usage, extraits d'entretiens, observations, références théoriques, représentations visuelles.
 
 Le dispositif pourra être parcouru selon plusieurs niveaux de lecture : la trame autobiographique de la recherche, les figures identifiées au cours de l'enquête, les concepts mobilisés, les personnes rencontrées ou les questionnements qui traversent le projet.
+
+## Calendrier
+
+| Mois          | Phases                             | Jalons                                                   | Localisation |
+| ------------- | ---------------------------------- | -------------------------------------------------------- | ------------ |
+| **Juin**      | Lecture, outils                    | Question de recherche, carnet de recherche               | Genève       |
+| **Juillet**   | Entretiens, observations, écriture | Grille d'entretien, grille d'observations, 10 entretiens | Genève       |
+| **Août**      | Entretiens, observations, écriture | Récits, analyses, 10 entretiens                          | Kyoto        |
+| **Septembre** | Entretiens, écriture, présentation | Présentation intermédiaire, 30'000 caractères            | Kyoto        |
+| **Octobre**   | Écriture, mise en page             | Bestiaire interactif , présentation intermédiaire        | Genève       |
+| **Novembre**  | Relecture, finalisation            | Présentation finale, 50'000 caractères                   | Genève       |
+
+
 
 ## Projet pratique
 
