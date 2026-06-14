@@ -253,7 +253,7 @@ Le dispositif pourra être parcouru selon plusieurs niveaux de lecture : la tram
 | **Juillet**   | Entretiens, observations, écriture | Grille d'entretien, grille d'observations, 10 entretiens | Genève       |
 | **Août**      | Entretiens, observations, écriture | Récits, analyses, 10 entretiens                          | Kyoto        |
 | **Septembre** | Entretiens, écriture, présentation | Présentation intermédiaire, 30'000 caractères            | Kyoto        |
-| **Octobre**   | Écriture, mise en page             | Bestiaire interactif , présentation intermédiaire        | Genève       |
+| **Octobre**   | Écriture, mise en page             | Bestiaire interactif, présentation intermédiaire         | Genève       |
 | **Novembre**  | Relecture, finalisation            | Présentation finale, 50'000 caractères                   | Genève       |
 
 ## Projet pratique
