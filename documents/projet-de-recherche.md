@@ -2,7 +2,7 @@
 
 *Document d'intention de recherche et cadre méthodologique*.
 
-## TLDR;
+## TL;DR
 
 La notion même d'intelligence artificielle participe à l'opacification de son fonctionnement : elle crée des vides sémantiques que l'imaginaire vient combler par des mythes, des métaphores et des projections anthropomorphiques.
 
@@ -30,7 +30,7 @@ Je suis donc, j'en ai bien peur, en "panne d'imaginaire". Mon regard est figé d
 
 Début 2025, je quitte mon job de développeur & designer UI/UX, déterminé à rompre avec l'approche solutionniste dans laquelle je baigne depuis de nombreuses années. J'ai besoin de repenser mon rapport à la technologie, d'en revoir le "script", d'imaginer une nouvelle narration, un nouveau "[...] *portail qui donne accès à un nouvel espace au-delà de l'écran*" [^13].
 
-Je ne suis certainement pas un *cas isolé*, et je m'interroge quand à la manière dont ma pratique de designer d'interaction pourrait contribuer à rendre visibles ces phénomènes, sachant que "*[...] les choix derrière les interfaces et les mots qui les décrivent intègrent des visions politiques et des imaginaires technologiques qui, loin d'être insignifiants, façonnent profondément notre rapport au numérique et, à travers lui, notre manière d'être au monde*"[^13].
+Je ne suis certainement pas un *cas isolé*, et je m'interroge quant à la manière dont ma pratique de designer d'interaction pourrait contribuer à rendre visibles ces phénomènes, sachant que "*[...] les choix derrière les interfaces et les mots qui les décrivent intègrent des visions politiques et des imaginaires technologiques qui, loin d'être insignifiants, façonnent profondément notre rapport au numérique et, à travers lui, notre manière d'être au monde*"[^13].
 
 ### Lien avec ma pratique
 
@@ -58,23 +58,23 @@ Après tout, ces artifices modernes de la pensée ne sont ni les seuls, ni les p
 
 Cette ambivalence d'une technologie, perçue tantôt comme une figure divine et révélatrice, tantôt comme un vulgaire robot d'autocomplétion avancé au potentiel destructeur, semble être symptomatique du concept de pharmakon : l'idée que l'intelligence artificielle générative puisse être à la fois un remède et un poison [^25]. 
 
-Dès lors, il s'agit - au delà d'une compréhension technique - de comprendre ce que ces dispositifs font faire, croire, imaginer ou déléguer. Si les interfaces conversationnelles sont silencieuses, opaques et ne disent rien de ce qu'elles font, alors les récits et imaginaires qui les entourent deviennent des lieux d'enquête privilégiés. L'intelligence artificielle semblerait en effet être devenue "[...] *un moyen de parler ou de s'interroger ou de tâtonner sur des questions liées à la conscience sans dire conscience, ou religion sans dire religion, ou culture sans dire culture, ou magie sans dire magie, et pouvoir sans dire pouvoir*" [^27]. Ces récits renferment peut-être l'expression d'une créativité du quotidien, "[...] *faite de ruses, de détournements et de détours, de "perruque", de braconnage*" [^6], à travers laquelle les individus composent avec l'intelligence artificielle générative.
+Dès lors, il s'agit - au-delà d'une compréhension technique - de comprendre ce que ces dispositifs font faire, croire, imaginer ou déléguer. Si les interfaces conversationnelles sont silencieuses, opaques et ne disent rien de ce qu'elles font, alors les récits et imaginaires qui les entourent deviennent des lieux d'enquête privilégiés. L'intelligence artificielle semblerait en effet être devenue "[...] *un moyen de parler ou de s'interroger ou de tâtonner sur des questions liées à la conscience sans dire conscience, ou religion sans dire religion, ou culture sans dire culture, ou magie sans dire magie, et pouvoir sans dire pouvoir*" [^27]. Ces récits renferment peut-être l'expression d'une créativité du quotidien, "[...] *faite de ruses, de détournements et de détours, de "perruque", de braconnage*" [^6], à travers laquelle les individus composent avec l'intelligence artificielle générative.
 
 Je fais donc le pari qu'une exploration fine de ces imaginaires puisse ouvrir de nouvelles portes conceptuelles et interactives. En effet, "[...] *s'engager avec les récits culturels autour de l'IA nous permet de mieux comprendre ses implications et la psyché collective, en allant au-delà des cadres opérationnels conventionnels*" [^27]. Ces mythologies personnelles constitueront alors la matière première de cette recherche, me permettant d'en faire émerger les figures et d'explorer la manière dont elles influencent les pratiques du quotidien. 
 
 ## Question de recherche
 
-*Les figures de la machine spirituelle et du perroquet stochastique sont envisagées ici comme deux pôles de tension servant à analyser les imaginaires projetés sur les interfaces conversationnelles d'IA générative et à observer la manière dont ceux-ci influencent les pratiques de délégation cognitive.*
+*Les figures de la machine spirituelle et du perroquet stochastique sont envisagées ici comme deux pôles de tension servant à analyser les imaginaires projetés sur les interfaces conversationnelles d'intelligence artificielle générative et à observer la manière dont ceux-ci influencent les pratiques de délégation cognitive.*
 
-> Comment les imaginaires associés aux agent conversationnel influencent-ils les pratiques de délégation cognitive ?
+> Comment les imaginaires associés aux interfaces conversationnelles d'intelligence artificielle générative influencent-ils les pratiques de délégation cognitive ?
 
 1. Quels imaginaires les utilisateurs projettent-ils sur les interfaces conversationnelles d'IA générative ?
 2. En quoi les discours, les interfaces, les usages et les contextes culturels façonnent-ils ces imaginaires ?
 3. Quelles formes de délégation cognitive peuvent être observées dans les usages des interfaces conversationnelles d'IA générative ?
 
-### Agent conversationnel
+### Interfaces conversationnelles
 
-Cette recherche s'intéressera aux agent conversationnel reposant sur le traitement du langage naturel. Les systèmes étudiés seront sélectionnés au fil de l'enquête selon les terrains et les opportunités de recherche.
+Cette recherche s'intéressera aux interfaces conversationnelles d'intelligence artificielle générative reposant principalement sur le traitement du langage naturel. Les systèmes étudiés seront sélectionnés au fil de l'enquête selon les terrains et les opportunités de recherche.
 
 
 ### Délégation cognitive
@@ -82,7 +82,7 @@ Cette recherche s'intéressera aux agent conversationnel reposant sur le traitem
 La notion de délégation cognitive sera abordée à travers les situations dans lesquelles une interface conversationnelle participe à un processus de choix, qu'il s'agisse d'un mot, d'une idée, d'une interprétation, d'une action ou d'une décision.
 
 
-## Etat des lieux
+## État des lieux
 
 *Références théoriques et pratiques qui seront mobilisées pour nourrir la réflexion et explorer la question de recherche.*
 
@@ -158,14 +158,14 @@ Les représentations de l'intelligence artificielle, les phénomènes d'anthropo
 
 ## Méthodologie
 
-*Le projet de recherche s'ancrera dans deux terrains d'enquête : Genève et Kyoto. Ce choix est notamment lié à une opportunité de stage qui se déroulera à Kyoto entre août et septembre 2026.*.
+*Le projet de recherche s'ancrera dans deux terrains d'enquête : Genève et Kyoto. Ce choix est notamment lié à une opportunité de stage qui se déroulera à Kyoto entre août et septembre 2026.*
 
 Je distingue 4 axes méthodologiques : 
 
 1. Lectures
 2. Observations
 3. Entretiens
-4. Ecriture
+4. Écriture
 
 ### 1. Lectures
 
@@ -180,7 +180,7 @@ Il s'agira de mobiliser différentes formes d'exercices d'observation afin de "[
 | **Cartographie** | Observer et comparer différentes interfaces conversationnelles d'IA générative.                                         |
 | **Lexique**      | Relever les termes techniques, métaphores et expressions utilisées pour décrire l'intelligence artificielle générative. |
 
-"*Les choses les plus importantes sont cachées car souvent les plus simple et familière*" [^5]
+"*Les choses les plus importantes sont cachées car souvent les plus simples et familières*" [^5]
 
 ### 3. Entretiens
 
@@ -202,7 +202,7 @@ Il s'agira de mobiliser différentes formes d'exercices d'observation afin de "[
 
 #### Entretiens libres
 
-Les entretiens libres viseront à comprendre comment "[...] *l'imaginaire permet d'instaurer un dialogue entre l'individu et le monde qui l'entoure, en façonnant son expérience et sa perception*" [^2]. Autrement dit,  comment les utilisateurs se représentent les interfaces conversationnelles d'IA générative et comment ces imaginaires influencent leurs usages quotidiens.*
+Les entretiens libres viseront à comprendre comment "[...] *l'imaginaire permet d'instaurer un dialogue entre l'individu et le monde qui l'entoure, en façonnant son expérience et sa perception*" [^2]. Autrement dit,  comment les utilisateurs se représentent les interfaces conversationnelles d'IA générative et comment ces imaginaires influencent leurs usages quotidiens.
 
 Il s'agira d'identifier les micro-pratiques, les formes de confiance, les détournements, les doutes, les dépendances ou les stratégies développées par les utilisateurs dans leur relation à ces systèmes "[...] *comme un moyen d'échapper à la routine, d'inventer ses propres usages qui ne soient pas prescrits d'en-haut*" [^6].
 
