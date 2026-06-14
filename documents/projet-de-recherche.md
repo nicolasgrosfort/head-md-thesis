@@ -55,7 +55,7 @@ Pourtant, lorsqu'on regarde de plus près, un LLM n'est au fond qu'un "[...] *mo
 
 D'un autre côté se manifeste l'idée d'une machine spirituelle qui permettrait de rompre avec une vision binaire du monde, et ce faisant, pourrait être "[...] *ce qui nous permet de voir ce que nous ne savons pas, de reconnaître notre propre ignorance* [...]" [^26]. Une forme de machine abstraite - parfois nommée o-machine [^32] - qui nous aiderait à mieux composer avec le monde en nous révélant que "*tout est intelligent et mérite nos égards et notre attention consciente*" [^26].
 
-Après tout, ces artifices modernes de la pensée ne sont ni les seuls, ni les premiers, étant donné que "*dieu est une intelligence artificielle de la nature*" [^33]. Toutefois, que ce soit à travers l'exercice d'écriture, le déplacement des boules d'un boulier ou l'interaction avec un LLM, ces dispositifs "[...] *ne pensent jamais de façon autonome. L'humain intervient toujours comme interprète* [...]" [^33]. 
+Après tout, ces artifices modernes de la pensée ne semblent être ni les seuls, ni les premiers, étant donné que "*dieu est une intelligence artificielle de la nature*" [^33]. Toutefois, que ce soit à travers l'exercice d'écriture, le déplacement des boules d'un boulier ou l'interaction avec un LLM, ces dispositifs "[...] *ne pensent jamais de façon autonome. L'humain intervient toujours comme interprète* [...]" [^33]. 
 
 Cette ambivalence d'une technologie, perçue tantôt comme une figure divine et révélatrice, tantôt comme un vulgaire robot d'autocomplétion avancé au potentiel destructeur, semble être symptomatique du concept de pharmakon : l'idée que l'intelligence artificielle générative puisse être à la fois un remède et un poison [^25]. 
 
@@ -73,15 +73,14 @@ Je fais donc le pari qu'une exploration fine de ces imaginaires puisse ouvrir de
 2. En quoi les discours, les interfaces, les usages et les contextes culturels façonnent-ils ces imaginaires ?
 3. Quelles formes de délégation cognitive peuvent être observées dans les usages des interfaces conversationnelles d'IA générative ?
 
-### Interfaces conversationnelles
+### Précisions conceptuelles
+#### Interfaces conversationnelles
 
 Cette recherche s'intéressera aux interfaces conversationnelles d'intelligence artificielle générative reposant principalement sur le traitement du langage naturel. Les systèmes étudiés seront sélectionnés au fil de l'enquête selon les terrains et les opportunités de recherche.
 
-
-### Délégation cognitive
+#### Délégation cognitive
 
 La notion de délégation cognitive sera abordée à travers les situations dans lesquelles une interface conversationnelle participe à un processus de choix, qu'il s'agisse d'un mot, d'une idée, d'une interprétation, d'une action ou d'une décision.
-
 
 ## État des lieux
 
@@ -209,10 +208,10 @@ Il s'agira d'identifier les micro-pratiques, les formes de confiance, les détou
 
 À travers ces échanges, je chercherai à cartographier les imaginaires à l'œuvre dans la pratique et à observer comment certaines figures - comme le perroquet stochastique ou la machine spirituelle - se manifestent dans les récits d'usage. 
 
-| Personnes     | Lieux  |
-| ------------- | ------ |
-| ~10 personnes | Genève |
-| ~10 personnes | Kyoto  |
+| Personnes       | Lieux  |
+| --------------- | ------ |
+| ~5-10 personnes | Genève |
+| ~5-10 personnes | Kyoto  |
 
 ### 4. Écriture
 
@@ -247,15 +246,22 @@ Le dispositif pourra être parcouru selon plusieurs niveaux de lecture : la tram
 
 ## Calendrier
 
-| Mois          | Phases                             | Jalons                                                   | Localisation |
-| ------------- | ---------------------------------- | -------------------------------------------------------- | ------------ |
-| **Juin**      | Lecture, outils                    | Question de recherche, carnet de recherche               | Genève       |
-| **Juillet**   | Entretiens, observations, écriture | Grille d'entretien, grille d'observations, 10 entretiens | Genève       |
-| **Août**      | Entretiens, observations, écriture | Récits, analyses, 10 entretiens                          | Kyoto        |
-| **Septembre** | Entretiens, écriture, présentation | Présentation intermédiaire, 30'000 caractères            | Kyoto        |
-| **Octobre**   | Écriture, mise en page             | Bestiaire interactif, présentation intermédiaire         | Genève       |
-| **Novembre**  | Relecture, finalisation            | Présentation finale, 50'000 caractères                   | Genève       |
+| Mois          | Phases                                      | Jalons                                                                                | Localisation |
+| ------------- | ------------------------------------------- | ------------------------------------------------------------------------------------- | ------------ |
+| **Juin**      | Lecture, préparation                        | Question de recherche, carnet de recherche, grille d'entretien, grille d'observations | Genève       |
+| **Juillet**   | Lecture, entretiens, observations, écriture | Entretiens spécialisés                                                                | Genève       |
+| **Août**      | Entretiens, observations, écriture          | Entretien libres                                                                      | Kyoto        |
+| **Septembre** | Entretiens, écriture, présentation          | Présentation intermédiaire, 30'000 caractères                                         | Kyoto        |
+| **Octobre**   | Écriture, mise en page                      | Bestiaire interactif, présentation intermédiaire                                      | Genève       |
+| **Novembre**  | Relecture, finalisation                     | Présentation finale, 50'000 caractères                                                | Genève       |
+### Backlog
 
+*Liste des prochaines étapes.*
+
+- [ ] Prévoir une discussion avec Sabrina  
+- [ ] Mieux définir le concept de délégation cognitive  
+- [ ] Ancrer davantage la recherche dans mes terrains  
+- [ ] Préparer les grilles d'entretien et d'observation  
 ## Projet pratique
 
 *Perspectives de projet pratique prolongeant le travail de thèse.*
@@ -271,8 +277,6 @@ Il s'agira notamment d'explorer la "[...] *capacité des objets fictionnels à f
 *Citées ou utilisées dans le présent document.*
 
 [^2]: COSSIN, Isabelle, OCNARESCU, Ioana et , Li-Cam, 2025. Quand le design et la science-fiction s'enrichissent : aller-retour entre récits et prototypes. Sciences du Design, 2025/1 N° 21, p.88-107. DOI : 10.3917/sdd.021.0088. URL : https://shs.cairn.info/revue-sciences-du-design-2025-1-page-88.
-
-[^3]: Nexa OFFICIEL, [en ligne]. Disponible à l'adresse : https://www.nexa.fr/blog/mind-uploading-definition-enjeux-et-perspectives-futures
 
 [^4]: Julie Enckell Julliard, Nicolas Nova, « Exercices d'observation – Entretien avec Nicolas Nova », _Issue_, 06 février 2023
 

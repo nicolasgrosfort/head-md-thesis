@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "documents/projet-de-recherche.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "projet-de-recherche"
             }
           }
         ]
@@ -84,11 +84,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "6bc2bf54ce21c62c",
@@ -221,12 +223,12 @@
   },
   "active": "6cfb8ce50f662089",
   "lastOpenFiles": [
+    "readme.md",
     "observations/citations/automatisation de la pensée.md",
     "observations/citations/automatisation des savoir-penser.md",
     "idées/ln langage spécialement adapté au dialogue homme-machine.md",
     "idées/conte, meveilleux, mythe et haiku.md",
     "observations/citations/l'écriture comme mémoire artificielle.md",
-    "readme.md",
     "observations/citations/exploitation des ressources symboliques et culturelles.md",
     "références/livres/persistance du merveilleux.md",
     "databases/références.base",
