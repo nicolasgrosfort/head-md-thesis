@@ -9,7 +9,7 @@ La notion même d'intelligence artificielle participe à l'opacification de son 
 
 *Spiritual Stochasticism* est un projet de recherche mené de juin à novembre 2026, entre Genève et Kyoto, qui cherche à cartographier les imaginaires gravitant autour des interfaces conversationnelles d'IA générative et à comprendre la manière dont ils influencent les pratiques de délégation cognitive.
 
-À partir de lectures, d'observations, d'entretiens et d'un carnet de recherche, cette enquête prendra la forme d'un bestiaire interactif des imaginaires de l'intelligence artificielle générative.
+À partir de lectures, d'observations, d'entretiens et d'un carnet de recherche, cette enquête prendra la forme d'un bestiaire interactif des imaginaires de l'IA générative.
 
 ## Introduction
 
@@ -255,8 +255,6 @@ Le dispositif pourra être parcouru selon plusieurs niveaux de lecture : la tram
 | **Septembre** | Entretiens, écriture, présentation | Présentation intermédiaire, 30'000 caractères            | Kyoto        |
 | **Octobre**   | Écriture, mise en page             | Bestiaire interactif , présentation intermédiaire        | Genève       |
 | **Novembre**  | Relecture, finalisation            | Présentation finale, 50'000 caractères                   | Genève       |
-
-
 
 ## Projet pratique
 
