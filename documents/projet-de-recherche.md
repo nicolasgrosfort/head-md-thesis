@@ -1,8 +1,3 @@
----
-création: 2026-06-14
-modification: 2026-06-14
----
-
 # Spiritual Stochasticism
 
 *Document d'intention de recherche et cadre méthodologique*.
