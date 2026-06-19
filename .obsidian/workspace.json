@@ -1,34 +1,20 @@
 {
   "main": {
-    "id": "83ce44939c1a1b03",
+    "id": "cf101d3bc10cce93",
     "type": "split",
     "children": [
       {
-        "id": "830813fd8a5d91a5",
+        "id": "f501db6f6fbac66d",
         "type": "tabs",
         "children": [
           {
-            "id": "6cfb8ce50f662089",
+            "id": "fc65a8e5e683b15a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documents/projet-de-recherche.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "projet-de-recherche"
+              "title": "New tab"
             }
           }
         ]
@@ -37,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "45f9591a4777446c",
+    "id": "8001bddaf3c87eff",
     "type": "split",
     "children": [
       {
-        "id": "bd3259836449259b",
+        "id": "531d63186a982c5c",
         "type": "tabs",
         "children": [
           {
-            "id": "c2c650e7627166e3",
+            "id": "72152527786690d6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,12 +44,12 @@
             }
           },
           {
-            "id": "c69a2ff625c92ddd",
+            "id": "7a26ea702a9ffbca",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"cssclasses\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +61,7 @@
             }
           },
           {
-            "id": "a6ed48e5548fbf80",
+            "id": "866d947c55ccb444",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,28 +70,26 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 300
   },
   "right": {
-    "id": "6bc2bf54ce21c62c",
+    "id": "e2ce155ca947964e",
     "type": "split",
     "children": [
       {
-        "id": "4cad5af9a13c68e7",
+        "id": "bbc5c8677102f7d6",
         "type": "tabs",
         "children": [
           {
-            "id": "5c18808710567a0f",
+            "id": "a50da2ee84998c96",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "processus/recherche.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for recherche"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "cc738f47797767ec",
+            "id": "fbc6eea38c33b7e1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "processus/recherche.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from recherche"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "bc141510e9399c57",
+            "id": "ff60c670628fd8d2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,7 +131,7 @@
             }
           },
           {
-            "id": "6b180dc54e0e5190",
+            "id": "f9604837048b423e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -162,113 +145,46 @@
             }
           },
           {
-            "id": "9569c4944baaebe1",
+            "id": "ff7bbab3ce4dbaa8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "processus/recherche.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of recherche"
-            }
-          },
-          {
-            "id": "c972784030ce2ec6",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "processus/recherche.canvas"
-              },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
-            }
-          },
-          {
-            "id": "771b5f4ed7d002e8",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "processus/recherche.canvas"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for recherche"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "audio-recorder:Start/stop recording": false
+      "bases:Create new base": false
     }
   },
-  "active": "6cfb8ce50f662089",
+  "active": "fc65a8e5e683b15a",
   "lastOpenFiles": [
-    "readme.md",
-    "observations/citations/automatisation de la pensée.md",
-    "observations/citations/automatisation des savoir-penser.md",
-    "idées/ln langage spécialement adapté au dialogue homme-machine.md",
-    "idées/conte, meveilleux, mythe et haiku.md",
-    "observations/citations/l'écriture comme mémoire artificielle.md",
-    "observations/citations/exploitation des ressources symboliques et culturelles.md",
-    "références/livres/persistance du merveilleux.md",
-    "databases/références.base",
-    "databases/glossaire.base",
-    "databases/citations.base",
-    "références/livres/de la bêtise artificielle.md",
-    "références/livres/ce que sait la main.md",
-    "processus/recherche.canvas",
-    "processus/moodboard.canvas",
-    "références/livres/schizophrénie numérique.md",
-    "références/livres/système 1, système 2.md",
-    "références/workshops/beyond bézier.md",
-    "références/plateforme/beyond bézier.md",
-    "références/videos/remix jr yamanote line tokyo.md",
-    "références/livres/l'être et l'écran.md",
-    "observations/citations/la technique conditionne la manière dont le réel nous apparaît.md",
-    "références/articles/ma (esthétique).md",
-    "journal/2025-11-28.md",
-    "journal/2025-08-07.md",
-    "assets/2025-12-06-yamanote-line-remix.mp4",
-    "références/plateforme/japan 2025.md",
-    "références/articles/les musiques de gare japonaises.md",
-    "références/articles/dérive (philosophie).md",
-    "idées/paysage sonore urbain.md",
-    "idées/actuateurs sensoriels.md",
-    "assets/metro-haneda-airport.webp",
-    "assets/ma (esthétique).jpg",
-    "assets/persistance du merveilleux.png",
-    "assets/système 1, système 2.jpg",
-    "assets/eki-melo-haneda.m4a",
-    "assets/l'être et l'écran.jpg",
-    "assets/de la bêtise artificielle.png",
-    "assets/ce que sait la main.jpg",
-    "assets/beyond bézier.svg",
-    "assets/schizophrénie numérique.jpg",
-    "assets/vulcan.png",
-    "références/videos",
-    "assets",
-    "databases/Untitled.base",
-    "databases",
-    "observations/glossaire",
-    "journal/Untitled.canvas"
+    "documents/projet-de-recherche.md",
+    "quartz/public/coucou.canvas.html",
+    "documents/Coucou.canvas",
+    "quartz/public/test.base.html",
+    "documents/Untitled.canvas",
+    "documents/Test.base",
+    "documents/Untitled.base"
   ]
 }
