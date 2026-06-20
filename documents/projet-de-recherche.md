@@ -155,6 +155,8 @@ Les représentations de l'intelligence artificielle, les phénomènes d'anthropo
 | [Folklore Fusion](https://www.folklore-fusion.net/)                                                                                       | Pauline Saglio         | Folklore numérique   |
 | [Not here, not now](https://dunneandraby.co.uk/content/projects/772/0)                                                                    | Dunne & Raby           | Design spéculatif    |
 | [Objectives Realities](https://recordings.designmatters.io/seeing-reality-from-an-objects-perspective-can-help-us-design-for-the-future/) | Simone Rebaudengo      | Design spéculatif    |
+| [Synthetic Spirits](https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/)              | Neil Mendoza           | Folklore numérique   |
+| [Techno Animism](https://www.emikusano.art/techno-animsm)                                                                                 | Emi Kusano             | Folklore numérique   |
 
 ## Méthodologie
 
