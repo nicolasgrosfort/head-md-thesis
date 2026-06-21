@@ -144,19 +144,21 @@ Les représentations de l'intelligence artificielle, les phénomènes d'anthropo
 
 *Les projets suivants servent de support à la fois dans la forme, la démarche et les modalités de restitution envisagées.*
 
-| Référence                                                                                                                                 | Auteur                 | Domaine              |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------- |
-| [101 unuseless Japanese inventions - the art of Chindogu](https://archive.org/details/101unuselessjapa0000kawa_j4v2)                      | Kenji Kawakami         | Chindōgu             |
-| [5th Dimensional Camera](https://superflux.in/index.php/work/5th-dimensional-camera/#)                                                    | Superflux              | Design spéculatif    |
-| [Bestiaire de l'anthropocène](https://artfiction.ch/produit/bestiaire-de-lanthropocene/)                                                  | Nicolas Nova           | Bestiaire spéculatif |
-| [Catalog for the post human](https://parsonscharlesworth.com/catalog-for-the-post-human-venice-architecture-biennale-2021/)               | Parsons & Charlesworth | Design spéculatif    |
-| [Eternal Us](https://collectifnumerus.com/copie-de-inner-composition)                                                                     | Hanieh Rashid          | Design spéculatif    |
-| [Ethical Things](https://www.simonerebaudengo.com/project/ethicalthings)                                                                  | Simone Rebaudengo      | Design spéculatif    |
-| [Folklore Fusion](https://www.folklore-fusion.net/)                                                                                       | Pauline Saglio         | Folklore numérique   |
-| [Not here, not now](https://dunneandraby.co.uk/content/projects/772/0)                                                                    | Dunne & Raby           | Design spéculatif    |
-| [Objectives Realities](https://recordings.designmatters.io/seeing-reality-from-an-objects-perspective-can-help-us-design-for-the-future/) | Simone Rebaudengo      | Design spéculatif    |
-| [Synthetic Spirits](https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/)              | Neil Mendoza           | Folklore numérique   |
-| [Techno Animism](https://www.emikusano.art/techno-animsm)                                                                                 | Emi Kusano             | Folklore numérique   |
+| Référence                                                                                                                                 | Auteur                      | Domaine              |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | -------------------- |
+| [101 unuseless Japanese inventions - the art of Chindogu](https://archive.org/details/101unuselessjapa0000kawa_j4v2)                      | Kenji Kawakami              | Chindōgu             |
+| [5th Dimensional Camera](https://superflux.in/index.php/work/5th-dimensional-camera/#)                                                    | Superflux                   | Design spéculatif    |
+| [Bestiaire de l'anthropocène](https://artfiction.ch/produit/bestiaire-de-lanthropocene/)                                                  | Nicolas Nova                | Bestiaire spéculatif |
+| [Catalog for the post human](https://parsonscharlesworth.com/catalog-for-the-post-human-venice-architecture-biennale-2021/)               | Parsons & Charlesworth      | Design spéculatif    |
+| [Eternal Us](https://collectifnumerus.com/copie-de-inner-composition)                                                                     | Hanieh Rashid               | Design spéculatif    |
+| [Ethical Things](https://www.simonerebaudengo.com/project/ethicalthings)                                                                  | Simone Rebaudengo           | Design spéculatif    |
+| [Folklore Fusion](https://www.folklore-fusion.net/)                                                                                       | Pauline Saglio              | Folklore numérique   |
+| [La Machine à Tubes](https://www.mynameisfuzzy.ch/machineatubes/)                                                                         | Bastien Bron                | Installation         |
+| [Narratron](https://www.creativeapplications.net/project/narratron-shadow-play-with-a-storytelling-ai/)                                   | Aria Xiying Bao & Yubo Zhao | LLO                  |
+| [Not here, not now](https://dunneandraby.co.uk/content/projects/772/0)                                                                    | Dunne & Raby                | Design spéculatif    |
+| [Objectives Realities](https://recordings.designmatters.io/seeing-reality-from-an-objects-perspective-can-help-us-design-for-the-future/) | Simone Rebaudengo           | Design spéculatif    |
+| [Synthetic Spirits](https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/)              | Neil Mendoza                | Folklore numérique   |
+| [Techno Animism](https://www.emikusano.art/techno-animsm)                                                                                 | Emi Kusano                  | Folklore numérique   |
 
 ## Méthodologie
 
