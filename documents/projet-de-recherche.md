@@ -155,6 +155,7 @@ Les représentations de l'intelligence artificielle, les phénomènes d'anthropo
 | [Folklore Fusion](https://www.folklore-fusion.net/)                                                                                       | Pauline Saglio              | Folklore numérique   |
 | [La Machine à Tubes](https://www.mynameisfuzzy.ch/machineatubes/)                                                                         | Bastien Bron                | Installation         |
 | [Narratron](https://www.creativeapplications.net/project/narratron-shadow-play-with-a-storytelling-ai/)                                   | Aria Xiying Bao & Yubo Zhao | LLO                  |
+| [Noema](https://www.creativeapplications.net/project/noema-rethinking-perception-with-ai-generated-spatial-soundscapes/)                  | Melo Chen & Nomy Yu         | LLO                  |
 | [Not here, not now](https://dunneandraby.co.uk/content/projects/772/0)                                                                    | Dunne & Raby                | Design spéculatif    |
 | [Objectives Realities](https://recordings.designmatters.io/seeing-reality-from-an-objects-perspective-can-help-us-design-for-the-future/) | Simone Rebaudengo           | Design spéculatif    |
 | [Synthetic Spirits](https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/)              | Neil Mendoza                | Folklore numérique   |
