@@ -154,12 +154,22 @@ Les représentations de l'intelligence artificielle, les phénomènes d'anthropo
 | [Ethical Things](https://www.simonerebaudengo.com/project/ethicalthings)                                                                  | Simone Rebaudengo           | Design spéculatif    |
 | [Folklore Fusion](https://www.folklore-fusion.net/)                                                                                       | Pauline Saglio              | Folklore numérique   |
 | [La Machine à Tubes](https://www.mynameisfuzzy.ch/machineatubes/)                                                                         | Bastien Bron                | Installation         |
+| [Mur Mur](https://www.murmur.living/)                                                                                                     | OIO Studio                  | Objet                |
 | [Narratron](https://www.creativeapplications.net/project/narratron-shadow-play-with-a-storytelling-ai/)                                   | Aria Xiying Bao & Yubo Zhao | LLO                  |
 | [Noema](https://www.creativeapplications.net/project/noema-rethinking-perception-with-ai-generated-spatial-soundscapes/)                  | Melo Chen & Nomy Yu         | LLO                  |
 | [Not here, not now](https://dunneandraby.co.uk/content/projects/772/0)                                                                    | Dunne & Raby                | Design spéculatif    |
 | [Objectives Realities](https://recordings.designmatters.io/seeing-reality-from-an-objects-perspective-can-help-us-design-for-the-future/) | Simone Rebaudengo           | Design spéculatif    |
 | [Synthetic Spirits](https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/)              | Neil Mendoza                | Folklore numérique   |
 | [Techno Animism](https://www.emikusano.art/techno-animsm)                                                                                 | Emi Kusano                  | Folklore numérique   |
+
+### Filmographie
+
+| Référence                                                                                                         | Auteur         | Domaine              |
+| ----------------------------------------------------------------------------------------------------------------- | -------------- | -------------------- |
+| [Her](https://fr.wikipedia.org/wiki/Her_(film))                                                                   | Spike Jonze    | Relation IA          |
+| [Mon voisin Totoro](https://fr.wikipedia.org/wiki/Mon_voisin_Totoro)                                              | Hayao Miyazaki | Monde plus-qu-humain |
+| [Nausicaä de la Vallée du Vent](https://fr.wikipedia.org/wiki/Nausicaä_de_la_Vallée_du_Vent_(film_d%27animation)) | Hayao Miyazaki | Anthropocène         |
+| [Le vent se lève](https://fr.wikipedia.org/wiki/Le_vent_se_lève_(film,_2013))                                     | Hayao Miyazaki | Techno-animisme      |
 
 ## Méthodologie
 
