@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documents/projet-de-recherche.md",
+                "file": "documents/one-pager.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "projet-de-recherche"
+              "title": "one-pager"
             }
           }
         ]

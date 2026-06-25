@@ -2,20 +2,19 @@
 création: 2026-06-24
 révision: 2026-06-24
 ---
-
-# TL;DR
+# Spritual Stochastism
 
 *Spiritual Stochasticism* est un projet de recherche mené dans le cadre d'un Master en Media Design à la HEAD - Genève, sous la direction de Sabrina Calvo.
 
 Il propose une exploration des imaginaires socio-techniques qui émergent des différentes formes d'opacité - techniques, fonctionnelles, sémantiques et anthropomorphiques - des agents d'IA autonomes.
 
-Plutôt que de considérer l'opacité comme un problème à résoudre, il propose de l'envisager comme le point de départ de nouvelles formes de relation avec la machine, à partir d'une approche techno-animiste.
+Plutôt que de considérer l'opacité comme un problème à résoudre, ce projet l'envisage comme un espace propice à l'émergence de nouvelles formes de relation avec la machine.
 
-Menée de juillet à novembre 2026, entre Genève et Kyoto, la recherche explore le sanctuaire shinto comme une nouvelle métaphore d'interface, comme alternative au modèle conversationnel du "chat".
+Menée entre Genève et Kyoto de juillet à novembre 2026, cette recherche explore le sanctuaire shinto comme une nouvelle métaphore d'interface, en alternative au modèle conversationnel dominant du « chat ».
 
 # Point de départ
 
-Le projet naît d'un double constat
+Le projet naît d'un double constat.
 
 ## Sur le plan personnel
 
