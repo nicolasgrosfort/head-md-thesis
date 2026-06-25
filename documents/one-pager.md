@@ -24,7 +24,7 @@ Aujourd'hui, je souhaite m'éloigner de cette quête d'efficience et explorer la
 
 ## Constat et hypothèse
 
-Cette quête d'efficience, dont je cherche aujourd'hui à m'éloigner, trouve une incarnation particulièrement forte dans les agents d'IA autonomes. Conçus pour agir « à la place de », de manière toujours plus autonome, ils promettent de prendre en charge des tâches cognitive complexes, tout en s'adaptant progressivement à leurs utilisateurs. Ils constituent, en un sens, l'aboutissement du fantasme de liberté par délivrance, porté par une volonté de contrôle, de domination et d'hyper-productivité.
+Cette quête d'efficience, dont je cherche aujourd'hui à m'éloigner, trouve une incarnation particulièrement forte dans les agents d'IA autonomes. Conçus pour agir « à la place de », de manière toujours plus autonome, ils promettent de prendre en charge des tâches cognitives complexes, tout en s'adaptant progressivement à leurs utilisateurs. Ils constituent, en un sens, l'aboutissement du fantasme de liberté par délivrance, porté par une volonté de contrôle, de domination et d'hyper-productivité.
 
 L'accès à ces agents est aujourd'hui presque toujours médiatisé par le « chat », une interface initialement conçue pour les échanges entre humains. Fondée sur la métaphore de la conversation humaine, cette interface façonne notre manière d'entrer en relation avec ces systèmes - ainsi que les imaginaires qui les accompagnent - en suggérant la présence d'un interlocuteur humain.
 
@@ -65,9 +65,9 @@ Cette restitution sera accompagnée d'un mémoire écrit de 50 000 signes, const
 
 Cette recherche s'appuie sur trois démarches complémentaires afin d'explorer comment le design peut proposer d'autres manières d'être en relation avec le monde technique.
 
-1. **Une pratique réflexive**, consistant à documenter quotidiennement la relation entretenue avec un agent d'IA autonome (Hermès), utilisé tout au long de la recherche comme support d'observation et d'expérimentation.. Cette démarche s'appuie sur une auto-ethnographie, à travers un journal de recherche, des observations et une documentation continue de mes interactions.
-2. **Des observations de terrain**, menées dans des sanctuaires shinto à Kyoto. Mobilisant également une approche auto-ethnographique, elles documentent l'architecture, les usages, les interactions et les dispositifs de médiation à l'aide de notes, de photographies, d'enregistrements sonores, de scans 3D et de relevés in situ. Ces matériaux alimenteront une cartographie relationnelle inspirée de la théorie de l'acteur-réseau, utilisée comme outil d'analyse pour rendre visibles les relations entre humains, objets, espaces, rites et médiations observés.
-3. **Une démarche expérimentale**, consistant à concevoir et prototyper de nouvelles métaphores d'interface afin d'explorer les formes de relation qu'elles permettent d'explorer.
+1. **Une pratique réflexive**, consistant à documenter quotidiennement la relation entretenue avec un agent d'IA autonome (Hermès), utilisé tout au long de la recherche comme support d'observation et d'expérimentation. Cette démarche s'appuie sur une auto-ethnographie, à travers un journal de recherche, des observations et une documentation continue de mes interactions.
+2. **Des observations de terrain**, menées dans des sanctuaires shinto à Kyoto. Mobilisant également une approche auto-ethnographique, elles documentent l'architecture, les usages, les interactions et les dispositifs de médiation à l'aide de notes, de photographies, d'enregistrements sonores, de scans 3D et de relevés in situ. Ces matériaux alimenteront une cartographie relationnelle inspirée de la théorie de l'acteur-réseau, utilisée comme outil d'analyse pour rendre visibles les relations entre humains, objets, espaces, rites et dispositifs de médiation observés sur le terrain.
+3. **Une démarche de conception**, consistant à prototyper et mettre à l'épreuve de nouvelles métaphores d'interface afin d'explorer les formes de relation qu'elles rendent possibles.
 
 ### Entretiens
 
