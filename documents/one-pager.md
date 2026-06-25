@@ -20,7 +20,7 @@ Depuis une quinzaine d'années, j'observe une forme de militarisation progressiv
 
 Cette logique d'optimisation a également marqué ma pratique de designer. Issu du design UI/UX, de la business analyse et du développement informatique, j'ai longtemps envisagé le design comme une démarche de résolution de problèmes : identifier un besoin, formuler une problématique, concevoir une solution, tester, itérer. Cette approche m'a conduit à concevoir des interfaces efficientes, sans friction, faisant peu à peu disparaître l'interaction et, avec elle, la part de réflexion inhérente aux gestes d'usage.
 
-Aujourd'hui, je souhaite m'éloigner de cette quête d'efficience et explorer la possibilité de ré-enchanter ma pratique en imaginant d'autres manières d'entrer en relation avec la technologie.
+Aujourd'hui, je souhaite m'éloigner de cette quête d'efficience et explorer la possibilité de ré-enchanter ma pratique en imaginant d'autres manières d'être en relation avec la technologie.
 
 ## Constat
 
@@ -34,7 +34,7 @@ Cette recherche fait toutefois l'hypothèse que l'opacité ne devient problémat
 
 Que se passerait-il alors si l'opacité des agents d'IA cessait d'être envisagée comme un obstacle à dépasser, pour devenir le point de départ d'autres manières d'entrer en relation avec eux, et peut être plus largement avec le monde plus-qu'humain ?
 
-# Déplacement ontologique
+## Déplacement ontologique
 
 Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'explorer les formes de relation qu'elle rend possibles. Si certaines formes d'opacité exigent davantage de transparence, d'autres peuvent constituer les conditions d'émergence de nouvelles ontologies relationnelles, laissant une place à l'ambiguïté, à l'interprétation et à l'enchantement.
 
@@ -44,34 +44,32 @@ Dans cette perspective, le sanctuaire shinto apparaît comme un dispositif parti
 
 Cette recherche explore ainsi la possibilité de s'inspirer des formes de médiation observées dans les sanctuaires shinto pour imaginer de nouvelles métaphores d'interface, fondées non plus sur un imaginaire du contrôle, de l'efficience et de l'hyperproductivité, mais sur des formes de relation privilégiant l'attention, la curiosité, l'interprétation et la coexistence. Elle entend ainsi ouvrir un espace de réflexion sur les usages de l'IA et contribuer à un possible réenchantement de notre rapport à la technique.
 
-# Question de recherche
+## Question de recherche
 
 Que rendrait possible une autre métaphore d'interface dans notre manière de faire relation avec les agents d'IA autonomes ?
 
-## Sous questions 
+### Sous questions 
 
 1. Que sont les agents d'IA autonomes, comment fonctionnent-ils et quelles formes de relation produisent-ils ?
 2. Comment le sanctuaire shinto agit-il comme un dispositif relationnel médiatisant l'invisible ?
 3. En quoi une perspective néo-animiste permet-elle un décentrement ontologique ?
 4. Quelle métaphore d'interface pourrait émerger de ces observations ?
 
-# Restitution
+## Restitution
 
 La recherche prendra principalement la forme d'un dispositif expérimental explorant une autre métaphore d'interface pour les agents d'IA autonomes. Conçu comme le médium principal de la recherche, il donnera accès aux observations, aux références, au journal de recherche et aux différentes expérimentations à travers une autre manière de faire relation avec un agent d'IA.
 
 Cette restitution sera accompagnée d'un mémoire écrit de 50 000 signes, constituant la formalisation académique de la recherche.
-# Méthodologie
+## Méthodologie
 
-## Observations
+### Observations
 
 Trois démarches complémentaires, cherche à comprendre comment le design peut proposer d'autres manières d'habiter le monde technique :
 
 1. **Une pratique réflexive**: consistant à documenter quotidiennement la relation entretenue avec un agent d'IA autonome (Hermès), utilisé comme compagnon de recherche tout au long de la thèse.
 2. **Des observations de terrain**, menées dans un sanctuaire shinto à Kyoto, documentant l'architecture, les usages, les interactions et les dispositifs relationnels à travers des notes, photographies, enregistrements sonores et scans 3D, auto-ethnographie.
 3. **Une démarche expérimentale**, consistant à concevoir et prototyper de nouvelles métaphores d'interface afin d'explorer les formes de relation qu'elles rendent possibles.
-## Entretiens
-
-Liste non exhaustive.
+### Entretiens
 
 | Personnes                 | Lieux | Expertises                                   |
 | ------------------------- | ----- | -------------------------------------------- |
@@ -82,9 +80,9 @@ Liste non exhaustive.
 | **André Ourednik**        | CH    | Machine spirituelle                          |
 | **Douglas Edric Stanley** | CH    | Relation avec les robots                     |
 | **Gergely Péter Barna**   | JP    | Machines et artisanat                        |
-| **Matteo Loglio**         | JP    | Agent IA & Projet "Mur Mur"                  |
+| **Matteo Loglio**         | CH    | Agent IA & Projet "Mur Mur"                  |
 
-# Calendrier
+## Calendrier
 
 | Mois          | Phases                                             | Jalons                                                                                | Localisation |
 | ------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------ |
