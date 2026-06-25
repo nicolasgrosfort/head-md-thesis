@@ -24,11 +24,15 @@ Aujourd'hui, je souhaite explorer la possibilité de ré-enchanter ce rapport en
 
 ## Constat
 
-Les agents d'IA autonomes incarnent à merveille cet idéal d'efficience. Conçus pour agir « à la place de », de manière toujours plus autonome, ils promettent de prendre en charge des tâches complexes tout en s'adaptant progressivement à leurs utilisateurs. Ils constituent, en un sens, l'aboutissement d'un fantasme de la liberté par délivrance, porté par un imaginaire du contrôle, de la domination et de l'hyperproductivité.
+Les agents d'IA autonomes incarnent à merveille cet idéal d'efficience. Conçus pour agir « à la place de », de manière toujours plus autonome, ils promettent de prendre en charge des tâches complexes tout en s'adaptant progressivement à leurs utilisateurs. Ils constituent, en un sens, l'aboutissement d'un fantasme de la liberté par délivrance, porté par une volonté de contrôle, de domination et d'hyperproductivité.
 
-Ces agents présentent plusieurs formes d'opacité - techniques, fonctionnelles, sémantiques et anthropomorphiques. Cette dernière est notamment renforcée par la métaphore conversationnelle du « chat ». Historiquement conçue pour la communication d'humain à humain, cette typologie d'interface façonne notre manière d'entrer en relation avec ces systèmes, ainsi que les imaginaires qui en émergent.
+Notre relation à ces agents est aujourd'hui largement médiatisée par une interface historiquement conçue pour la communication d'humain à humain : le « chat ». Cette métaphore d'interface façonne notre manière d'entrer en relation avec ces systèmes, ainsi que les imaginaires qui en émergent, en suggérant la présence d'un interlocuteur humain.
 
-Face à ces opacités, faut-il chercher à rendre les systèmes plus transparents afin de mieux les comprendre, ou interroger l'ontologie relationnelle que la métaphore du « chat » contribue à instaurer ?
+Derrière cette apparente familiarité subsistent pourtant plusieurs formes d'opacités : techniques, fonctionnelles, sémantiques et anthropomorphiques. Ensemble, elles peuvent contribuer à une forme d'aliénation et, plus largement, à une prolétarisation cognitive, linguistique et symbolique, conduisant progressivement à une standardisation de nos manières de penser.
+
+Cette recherche fait toutefois l'hypothèse que l'opacité ne devient problématique que lorsqu'elle s'inscrit dans un rapport à la technique fondé sur la domination, la délégation et le contrôle. Or, le monde plus-qu'humain est lui aussi traversé par des formes d'opacité, d'indétermination et d'imprévisibilité, qui semblent constituer les conditions ontologiques du vivant. 
+
+Que se passerait-il alors si l'opacité des agents d'IA cessait d'être envisagée comme un obstacle à dépasser, pour devenir le point de départ d'autres manières d'entrer en relation avec eux, et peut être plus largement avec le monde plus-qu'humain ?
 
 # Déplacement ontologique
 
