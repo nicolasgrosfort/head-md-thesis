@@ -12,7 +12,7 @@ Plutôt que de considérer l'opacité comme un problème à résoudre, ce projet
 
 Menée entre Genève et Kyoto de juillet à novembre 2026, cette recherche explore le sanctuaire shinto comme une nouvelle métaphore d'interface, en alternative au modèle conversationnel dominant du « chat ».
 
-# Point de départ
+## Point de départ
 
 Le projet naît d'un double constat.
 
@@ -22,9 +22,9 @@ Cette logique d'optimisation a également façonné ma pratique de designer. Iss
 
 Aujourd'hui, je souhaite explorer la possibilité de ré-enchanter ce rapport en imaginant d'autres manières d'entrer en relation avec la technologie.
 
-# Constat
+## Constat
 
-Les agents d'IA autonomes incarnent aujourd'hui un idéal de délégation, d'efficience et d'hyperproductivité. Conçus pour agir de manière toujours plus autonome, ils promettent de prendre en charge des tâches complexes tout en s'adaptant progressivement à leurs utilisateurs. Ils pourraient ainsi constituer l'aboutissement d'un imaginaire de la délégation, porté par les promesses de contrôle et d'efficience.
+Les agents d'IA autonomes incarnent à merveille cet idéal d'efficience. Conçus pour agir « à la place de », de manière toujours plus autonome, ils promettent de prendre en charge des tâches complexes tout en s'adaptant progressivement à leurs utilisateurs. Ils constituent, en un sens, l'aboutissement d'un fantasme de la liberté par délivrance, porté par un imaginaire du contrôle, de la domination et de l'hyperproductivité.
 
 Ces agents présentent plusieurs formes d'opacité - techniques, fonctionnelles, sémantiques et anthropomorphiques. Cette dernière est notamment renforcée par la métaphore conversationnelle du « chat ». Historiquement conçue pour la communication d'humain à humain, cette typologie d'interface façonne notre manière d'entrer en relation avec ces systèmes, ainsi que les imaginaires qui en émergent.
 
