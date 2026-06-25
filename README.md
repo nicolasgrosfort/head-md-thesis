@@ -4,4 +4,5 @@
 
 ## Index
 
-1. [Projet de recherche (Spiritual Stochasticism)](./documents/projet-de-recherche.md)
+1. [Projet de recherche](./documents/projet-de-recherche.md)
+2. [One Pager](./documents/one-pager.md)
