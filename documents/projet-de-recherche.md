@@ -212,6 +212,7 @@ Il s'agira de mobiliser différentes formes d'exercices d'observation afin de "[
 | **Anne Alombert**       | FR    | Perroquet stochastique, délégation cognitive |
 | **André Ourednik**      | CH    | Machine spirituelle                          |
 | **Gergely Péter Barna** | JP    | Machines et artisanat                        |
+| **Matteo Loglio**       | JP    | Agent IA & Projet "Mur Mur"                  |
 | **Sébastien Ott**       | CH    | Mathématiques                                |
 | **Steven De Marco**     | CH    | Développement informatique                   |
 
