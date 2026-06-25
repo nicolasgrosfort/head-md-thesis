@@ -1,3 +1,8 @@
+---
+création: 2026-06-08
+révision: 2026-06-24
+---
+
 # Spiritual Stochasticism
 
 *Document d'intention de recherche et cadre méthodologique*.
@@ -103,14 +108,17 @@ La notion de délégation cognitive sera abordée à travers les situations dans
 
 Les représentations de l'intelligence artificielle, les phénomènes d'anthropomorphisation et les effets de délégation associés à ces dispositifs.
 
-| **Référence**                                                                                                                  | **Auteur**                      | **Progression** |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- | --------------- |
-| [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil)                                         | Arvind Narayanan, Sayash Kapoor | 0 %             |
-| [De la bêtise artificielle](https://editions-allia.com/fr/livre/1077/de-la-betise-artificielle)                                | Anne Alombert                   | 100 %           |
-| [How to speak Machine](https://blackwells.co.uk/bookshop/product/How-to-Speak-Machine-by-John-Maeda/9780262553179)             | John Maeda                      | 100 %           |
-| [Robopoiëse](https://editions-baconniere.ch/fr/catalogue/robopoieses)                                                          | André Ourednik                  | 20 %            |
-| [Schizophrénie numérique](https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique)                                 | Anne Alombert                   | 100 %           |
-| [Toutes les intelligence du monde](https://www.seuil.com/ouvrage/toutes-les-intelligences-du-monde-james-bridle/9782021480078) | James Bridle                    | 80 %            |
+| **Référence**                                                                                                                                                               | **Auteur**                                             | **Progression** |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | --------------- |
+| [Aesthetic Animism](https://books.google.ch/books/about/Aesthetic_Animism.html?id=chtWDAAAQBAJ&redir_esc=y)                                                                 | David Jhave Johnston                                   | 0%              |
+| [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil)                                                                                      | Arvind Narayanan, Sayash Kapoor                        | 0 %             |
+| [De la bêtise artificielle](https://editions-allia.com/fr/livre/1077/de-la-betise-artificielle)                                                                             | Anne Alombert                                          | 100 %           |
+| [Global Perspectives on Animism and Autonomous Technologies](https://books.google.ch/books/about/Global_Perspectives_on_Animism_and_Auton.html?id=kC1gEQAAQBAJ&redir_esc=y) | Ralph M. Becker, Antônio Luz Costa, Andrew Ventimiglia | 0%              |
+| [How to speak Machine](https://blackwells.co.uk/bookshop/product/How-to-Speak-Machine-by-John-Maeda/9780262553179)                                                          | John Maeda                                             | 100 %           |
+| [Robopoiëse](https://editions-baconniere.ch/fr/catalogue/robopoieses)                                                                                                       | André Ourednik                                         | 20 %            |
+| [Schizophrénie numérique](https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique)                                                                              | Anne Alombert                                          | 100 %           |
+| [Toutes les intelligence du monde](https://www.seuil.com/ouvrage/toutes-les-intelligences-du-monde-james-bridle/9782021480078)                                              | James Bridle                                           | 80 %            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---             |
 
 ### Techniques, interfaces et autonomie
 
@@ -148,6 +156,7 @@ Les représentations de l'intelligence artificielle, les phénomènes d'anthropo
 | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | -------------------- |
 | [101 unuseless Japanese inventions - the art of Chindogu](https://archive.org/details/101unuselessjapa0000kawa_j4v2)                      | Kenji Kawakami              | Chindōgu             |
 | [5th Dimensional Camera](https://superflux.in/index.php/work/5th-dimensional-camera/#)                                                    | Superflux                   | Design spéculatif    |
+| [A(I)nimism](https://www.media.mit.edu/projects/a-i-nimism/overview/)                                                                     | Diana Mykhaylychenko & al.  | LLO                  |
 | [Bestiaire de l'anthropocène](https://artfiction.ch/produit/bestiaire-de-lanthropocene/)                                                  | Nicolas Nova                | Bestiaire spéculatif |
 | [Catalog for the post human](https://parsonscharlesworth.com/catalog-for-the-post-human-venice-architecture-biennale-2021/)               | Parsons & Charlesworth      | Design spéculatif    |
 | [Eternal Us](https://collectifnumerus.com/copie-de-inner-composition)                                                                     | Hanieh Rashid               | Design spéculatif    |
@@ -294,9 +303,9 @@ Il s'agira notamment d'explorer la "[...] *capacité des objets fictionnels à f
 
 *Citées ou utilisées dans le présent document.*
 
-[^2]: COSSIN, Isabelle,  OCNARESCU, Ioana  et, Li-Cam,  2025. Quand le design et la science-fiction s’enrichissent : aller-retour entre récits et prototypes. Sciences du Design, 2025/1 N° 21, p.88-107. DOI : 10.3917/sdd.021.0088. Disponible à l'adresse : https://shs.cairn.info/revue-sciences-du-design-2025-1-page-88?lang=fr.
+[^2]: COSSIN, Isabelle,  OCNARESCU, Ioana  et, Li-Cam,  2025. Quand le design et la science-fiction s'enrichissent : aller-retour entre récits et prototypes. Sciences du Design, 2025/1 N° 21, p.88-107. DOI : 10.3917/sdd.021.0088. Disponible à l'adresse : https://shs.cairn.info/revue-sciences-du-design-2025-1-page-88?lang=fr.
 
-[^4]: NOVA, Nicolas, 2022. *Exercices d’observation*. Édition Premier Parallèle 
+[^4]: NOVA, Nicolas, 2022. *Exercices d'observation*. Édition Premier Parallèle 
 
 [^5]: SMITH, Keri, 2011. *How to be an Explorer of the World : Portable Life Museum*. Particular Books.
 
