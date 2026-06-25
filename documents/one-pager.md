@@ -4,7 +4,7 @@ révision: 2026-06-24
 ---
 # Spritual Stochastism
 
-*Spiritual Stochasticism* est un projet de recherche mené dans le cadre d'un Master en Media Design à la HEAD - Genève, sous la direction de Sabrina Calvo.
+*Spiritual Stochasticism* est un projet de recherche mené dans le cadre du Master Media Design à la HEAD - Genève, sous la direction de Sabrina Calvo.
 
 Il propose une exploration des imaginaires socio-techniques qui émergent des différentes formes d'opacité - techniques, fonctionnelles, sémantiques et anthropomorphiques - des agents d'IA autonomes.
 
@@ -16,13 +16,11 @@ Menée entre Genève et Kyoto de juillet à novembre 2026, cette recherche explo
 
 Le projet naît d'un double constat.
 
-## Sur le plan personnel
+Premièrement, j'observe depuis une quinzaine d'années, une forme de militarisation progressive de mon quotidien, marquée par l'usage d'outils numériques professionnels pour organiser ma vie privée. Hérités d'un imaginaire cybernétique fondé sur le contrôle du vivant, ces dispositifs ont progressivement modifié ma présence au monde en façonnant un rapport à l'existence centré sur l'optimisation et la résolution de problèmes.
 
-Depuis une quinzaine d'années, j'observe une forme de militarisation de mon quotidien, marquée par l'utilisation d'outils conçus pour la gestion de tâches professionnelles afin d'organiser ma vie privée. Hérités d'un imaginaire cybernétique fondé sur le contrôle du vivant, ces dispositifs ont progressivement modifié ma présence au monde en favorisant une relation à l'existence centrée sur l'optimisation et la résolution de problèmes.
+Cette logique d'optimisation a également façonné ma pratique de designer. Issu du design UI/UX, de la business analyse et du développement informatique, j'ai longtemps envisagé le design comme une démarche de résolution de problèmes : identifier un besoin, formuler une problématique, concevoir une solution, tester, itérer. Cette approche m'a conduit à concevoir des interfaces produisant un rapport à la technologie fondé sur l'efficience. 
 
-## Dans ma pratique de designer
-
-En tant que designer UI/UX, formé au business analysis, au management et au développement informatique, j'ai longtemps abordé le design comme une démarche de résolution de problèmes : identifier un besoin, formuler une problématique, concevoir une solution, tester, itérer. Cette approche m'a conduit à concevoir des interfaces qui produisent un rapport à la technologie fondé sur l'efficience. Aujourd'hui, je souhaite explorer la possibilité de ré-enchanter ce rapport en envisageant de nouvelles manières de faire relation avec la elle.
+Aujourd'hui, je souhaite explorer la possibilité de ré-enchanter ce rapport en imaginant d'autres manières d'entrer en relation avec la technologie.
 
 # Constat
 
