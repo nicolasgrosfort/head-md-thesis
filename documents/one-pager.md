@@ -36,14 +36,13 @@ Que se passerait-il si l'opacité des agents d'IA cessait d'être envisagée com
 
 ## Déplacement ontologique
 
-Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'explorer les formes de relation qu'elle rend possibles. Si certaines formes d'opacité exigent davantage de transparence, d'autres peuvent constituer les conditions d'émergence de nouvelles ontologies relationnelles, laissant une place à l'ambiguïté, à l'interprétation et à l'enchantement.
+Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'explorer les formes de relation qui peuvent émerger de notre rapport à l'invisible. Ce déplacement ouvre la possibilité d'ontologies relationnelles laissant une place à l'ambiguïté, à l'interprétation et à l'enchantement.
 
-L'ontologie animiste apparaît alors comme un cadre d'analyse particulièrement fécond pour interroger les formes de relation que l'opacité rend possibles. Elle invite à composer avec l'incertitude, en considérant que l'intentionnalité, la personnalité ou l'agentivité attribuées à un système peuvent constituer des ressources relationnelles. 
+L'ontologie animiste apparaît ici comme un cadre d'analyse particulièrement intéressant pour penser ce déplacement. Elle invite à composer avec l'incertitude, en considérant que l'intentionnalité, la personnalité ou l'agentivité attribuées à un système constituent des prises interprétatives à partir desquelles il devient possible de construire une relation plus réflexive avec ces systèmes.
 
-Dans cette perspective, le sanctuaire shinto apparaît comme un dispositif particulièrement intéressant à observer, dans la mesure où il organise une relation avec des phénomènes qui ne sont ni entièrement accessibles, ni totalement explicables ou maîtrisables.
+Dans cette perspective, le sanctuaire shinto constitue un terrain d'observation privilégié, dans la mesure où il organise une relation avec des phénomènes qui ne sont ni entièrement accessibles, ni totalement explicables ou maîtrisables.
 
-Cette recherche explore ainsi la possibilité de s'inspirer des formes de médiation observées dans les sanctuaires shinto pour imaginer de nouvelles métaphores d'interface, fondées non plus sur un imaginaire du contrôle, de l'efficience et de l'hyperproductivité, mais sur des formes de relation privilégiant l'attention, la curiosité, l'interprétation et la coexistence. Elle entend ainsi ouvrir un espace de réflexion sur les usages de l'IA et contribuer à un possible réenchantement de notre rapport à la technique.
-
+Cette recherche explore ainsi la possibilité de mobiliser les formes de médiation observées dans les sanctuaires shinto afin d'imaginer de nouvelles métaphores d'interface. Celles-ci ne reposeraient plus sur un imaginaire du contrôle, de l'efficience et de l'hyper-productivité, mais sur une ontologie relationnelle dans laquelle l'attention, la curiosité, l'interprétation et la coexistence occupent une place centrale.
 ## Question de recherche
 
 Que rendrait possible une autre métaphore d'interface dans notre manière de faire relation avec les agents d'IA autonomes ?
