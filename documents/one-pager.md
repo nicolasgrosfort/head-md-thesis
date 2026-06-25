@@ -4,13 +4,15 @@ révision: 2026-06-24
 ---
 # Spritual Stochastism
 
-*Spiritual Stochasticism* est un projet de recherche mené dans le cadre du Master Media Design à la HEAD - Genève, sous la direction de Sabrina Calvo.
+*Spiritual Stochasticism* est un projet de recherche mené par Nicolas Grosfort dans le cadre d'un Master en Media Design à la HEAD - Genève, sous la direction de Sabrina Calvo.
 
-Il propose une exploration des imaginaires socio-techniques qui émergent des différentes formes d'opacité - techniques, fonctionnelles, sémantiques et anthropomorphiques - des agents d'IA autonomes.
+Il explore la manière dont les métaphores d'interface façonnent les imaginaires socio-techniques qui structurent notre relation aux agents d'IA autonomes.
 
-Plutôt que de considérer l'opacité comme un problème à résoudre, ce projet l'envisage comme un espace propice à l'émergence de nouvelles formes de relation avec la machine.
+Plutôt que d'envisager les différentes formes d'opacité de ces systèmes comme un problème à résoudre, cette recherche propose de les considérer comme des espaces relationnels susceptibles d'ouvrir d'autres manières d'habiter le monde technique.
 
-Menée entre Genève et Kyoto de juillet à novembre 2026, cette recherche explore le sanctuaire shinto comme une nouvelle métaphore d'interface, en alternative au modèle conversationnel dominant du « chat ».
+À partir d'une ontologie animiste, elle interroge la possibilité de concevoir des interfaces qui privilégient la relation, l'interprétation et la coexistence plutôt que le contrôle et l'efficience. 
+
+Menée entre Genève et Kyoto de juillet à novembre 2026, elle prend le sanctuaire shinto comme point de départ pour imaginer d'autres métaphores d'interface, au-delà du modèle conversationnel dominant du « chat ».
 
 ## Point de départ
 
