@@ -56,7 +56,7 @@ En quoi les métaphores d'interface des agents d'IA autonomes façonnent-elles n
 
 ## Restitution
 
-La recherche prendra principalement la forme d'un dispositif expérimental explorant une autre métaphore d'interface pour les agents d'IA autonomes. Conçu comme le médium principal de la recherche, il donnera accès aux observations, aux références, au journal de recherche et aux différentes expérimentations à travers une autre manière de faire relation avec un agent d'IA.
+La recherche prendra principalement la forme d'un dispositif expérimental explorant d'autres métaphores d'interface pour les agents d'IA autonomes. Conçu comme le médium principal de la recherche, il donnera accès aux observations, aux références, au journal de recherche et aux différentes expérimentations à travers une autre manière de faire relation avec un agent d'IA.
 
 Cette restitution sera accompagnée d'un mémoire écrit de 50 000 signes, constituant la formalisation académique de la recherche.
 ## Méthodologie
