@@ -63,11 +63,12 @@ Cette restitution sera accompagnée d'un mémoire écrit de 50 000 signes, const
 
 ### Observations
 
-Trois démarches complémentaires, cherche à comprendre comment le design peut proposer d'autres manières d'habiter le monde technique :
+Cette recherche s'appuie sur trois démarches complémentaires afin d'explorer comment le design peut proposer d'autres manières d'être en relation avec le monde technique.
 
-1. **Une pratique réflexive**: consistant à documenter quotidiennement la relation entretenue avec un agent d'IA autonome (Hermès), utilisé comme compagnon de recherche tout au long de la thèse.
-2. **Des observations de terrain**, menées dans un sanctuaire shinto à Kyoto, documentant l'architecture, les usages, les interactions et les dispositifs relationnels à travers des notes, photographies, enregistrements sonores et scans 3D, auto-ethnographie.
-3. **Une démarche expérimentale**, consistant à concevoir et prototyper de nouvelles métaphores d'interface afin d'explorer les formes de relation qu'elles rendent possibles.
+1. **Une pratique réflexive**, consistant à documenter quotidiennement la relation entretenue avec un agent d'IA autonome (Hermès), utilisé tout au long de la recherche comme support d'observation et d'expérimentation.. Cette démarche s'appuie sur une auto-ethnographie, à travers un journal de recherche, des observations et une documentation continue de mes interactions.
+2. **Des observations de terrain**, menées dans des sanctuaires shinto à Kyoto. Mobilisant également une approche auto-ethnographique, elles documentent l'architecture, les usages, les interactions et les dispositifs de médiation à l'aide de notes, de photographies, d'enregistrements sonores, de scans 3D et de relevés in situ. Ces matériaux alimenteront une cartographie relationnelle inspirée de la théorie de l'acteur-réseau, utilisée comme outil d'analyse pour rendre visibles les relations entre humains, objets, espaces, rites et médiations observés.
+3. **Une démarche expérimentale**, consistant à concevoir et prototyper de nouvelles métaphores d'interface afin d'explorer les formes de relation qu'elles permettent d'explorer.
+
 ### Entretiens
 
 | Personnes                 | Lieux | Expertises                                   |
@@ -77,7 +78,7 @@ Trois démarches complémentaires, cherche à comprendre comment le design peut 
 | **Amber Case**            | JP    | Calm Technology                              |
 | **Anne Alombert**         | FR    | Perroquet stochastique, délégation cognitive |
 | **André Ourednik**        | CH    | Machine spirituelle                          |
-| **Douglas Edric Stanley** | CH    | Relation avec les robots                     |
+| **Douglas Edric Stanley** | CH    | Relation avec les agents IA                  |
 | **Gergely Péter Barna**   | JP    | Machines et artisanat                        |
 | **Matteo Loglio**         | CH    | Agent IA & Projet "Mur Mur"                  |
 
