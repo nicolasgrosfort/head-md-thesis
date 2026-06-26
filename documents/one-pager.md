@@ -10,9 +10,9 @@ Il explore la manière dont les métaphores d'interface, qui participent à l'op
 
 Plutôt que d'envisager cette opacité comme un problème à résoudre, la recherche propose de la considérer comme un espace relationnel susceptible d'ouvrir d'autres manières d'habiter le monde technique.
 
-À partir d'une ontologie animiste, cette recherche interroge la possibilité de concevoir des interfaces privilégiant l'attention, l'interprétation et la coexistence plutôt que le contrôle et l'efficience.
+À partir d'une ontologie animiste, cette recherche interroge la possibilité de concevoir des interfaces cultivant l'empathie, l'écoute et la présence plutôt que le contrôle et l'efficience.
 
-Menée entre Genève et Kyoto de juillet à novembre 2026, elle propose de prendre le sanctuaire shinto comme point de départ d'une réflexion visant à imaginer d'autres métaphores d'interface, au-delà du modèle conversationnel dominant du « chat ».
+Menée entre Genève et Kyoto de juillet à novembre 2026, elle propose de prendre le sanctuaire shinto comme point de départ d'une réflexion visant à imaginer d'autres métaphores d'interface, en s'extrayant du modèle conversationnel anthropomorphique du « chat ».
 
 ## Point de départ
 
