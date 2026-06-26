@@ -64,6 +64,17 @@ Conçu comme le médium principal de la recherche, il donnera accès aux observa
 Cette restitution sera accompagnée d'un mémoire écrit de 50 000 signes, constituant la formalisation académique de la recherche.
 ## Méthodologie
 
+### Risques
+
+J'ai identifié trois niveaux de risque que je chercherai à rendre explicites tout au long de cette recherche afin d'en limiter les effets.
+
+1. **Le risque d'instrumentalisation**
+	Adopter une posture extractiviste en transformant le sanctuaire shinto en une simple boîte à outils de design.
+2. **Le risque de projection**
+	Interpréter le sanctuaire shinto à travers mes propres catégories d'analyse et y voir uniquement la confirmation de mes hypothèses.
+3. **Le risque de ré-appropriation culturelle**
+	Réinterpréter une cosmologie existante à partir de catégories conceptuelles occidentales, au risque d'en déformer le sens.
+
 ### Observations
 
 Cette recherche s'appuie sur trois démarches complémentaires afin d'explorer comment le design peut proposer d'autres manières de de cohabiter avec la technologie.
