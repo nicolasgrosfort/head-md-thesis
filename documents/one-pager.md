@@ -8,7 +8,7 @@ révision: 2026-06-26
 
 Il explore la manière dont les métaphores d'interface, qui participent à l'opacification du fonctionnement des agents d'IA autonomes, façonnent les imaginaires socio-techniques qui sous-tendent notre relation avec eux.
 
-Plutôt que d'envisager cette opacité comme un problème à résoudre, la recherche propose de la considérer comme un espace relationnel susceptible d'ouvrir d'autres manières d'habiter le monde technique.
+Plutôt que d'envisager cette opacité comme un problème à résoudre, la recherche propose de la considérer comme un espace relationnel susceptible d'ouvrir d'autres manières d'être présent au monde. 
 
 À partir d'une ontologie animiste, cette recherche interroge la possibilité de concevoir des interfaces cultivant l'empathie, l'écoute et la présence plutôt que le contrôle et l'efficience.
 
@@ -32,7 +32,7 @@ Derrière cette apparente familiarité subsistent plusieurs formes d'opacité - 
 
 À cet égard, la notion même d'"intelligence" (artificielle) contribue à l'émergence d'une confusion ontologique, dans la mesure ou elle donne l'impression que la machine est un double de l'humain, ou peut-être - que l'humain est lui-même une machine. Dans ce sens, cette opacité sémantique, renforcée par un vernis anthropomorphique, tend à instrumentaliser notre rapport à l'altérité en le réinscrivant dans une logique d'efficience, de prédiction et de contrôle.
 
-Que se passerait-il alors si nous cessions d'appréhender les agents d'IA à travers ces métaphores anthropomorphiques ? En quoi leur opacité pourrait-elle devenir le point de départ d'une réflexion sur d'autres manières d'être en relation avec la technologie et, peut-être, plus largement, avec l'altérité ?
+Que se passerait-il alors si nous cessions d'appréhender les agents d'IA à travers ces métaphores anthropomorphiques ? En quoi leur opacité pourrait-elle devenir le point de départ d'une réflexion sur d'autres manières d'être en relation avec la technologie et, peut-être, plus largement, avec le monde ?
 
 ## Déplacement ontologique
 
@@ -52,7 +52,7 @@ En quoi les métaphores d'interface des agents d'IA autonomes façonnent-elles n
 ### Sous-questions 
 
 1. Comment les métaphores d'interface des agents d'IA autonomes organisent-elles notre manière d'entrer en relation avec eux ?
-2. En quoi une ontologie animiste permeterait-elle de repenser notre relation aux agents d'IA autonomes ?
+2. En quoi une ontologie animiste permettrait-elle de repenser notre relation aux agents d'IA autonomes ?
 3. De quelles manières le sanctuaire shinto médiatise-t-il la relation à l'invisible ?
 
 ## Restitution
@@ -97,26 +97,25 @@ Cette recherche s'appuie sur quatre démarches complémentaires afin d'explorer 
 | ------------------------- | ----- | -------------------------------------------- |
 | **À définir**             | JP    | Philosophie, ontologie animiste              |
 | **À définir**             | JP    | Histoire du Japon, shintoïsme                |
-| **À définir**             | GE    | Utilisateur.ice agent IA                     |
+| **À définir**             | GE    | Utilisateur·ice agent IA                     |
 | **Alexa Steinbrück**      | DE    | Intelligence artificielle                    |
 | **Anne Alombert**         | FR    | Perroquet stochastique, délégation cognitive |
 | **André Ourednik**        | CH    | Machine spirituelle, oracle                  |
 | **Douglas Edric Stanley** | CH    | Relation avec les agents IA                  |
 | **Gergely Péter Barna**   | JP    | Machines, artisanat, traditions              |
 | **Matteo Loglio**         | CH    | Agent IA, projet "Mur Mur"                   |
-| **Virginia Bjertnes**     | CH    | Conteuse, animisme                           |
-
+| **Virginia Bjertnes**     | CH    | Conteuse, ontologie animiste                 |
 
 ## Calendrier
 
-| Mois          | Phases                                             | Jalons                                                                                | Localisation |
-| ------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------ |
-| **Juin**      | Lecture, préparation                               | Question de recherche, carnet de recherche, grille d'entretien, grille d'observations | Genève       |
-| **Juillet**   | Lecture, entretiens, observations, écriture        | Entretiens                                                                            | Genève       |
-| **Août**      | Entretiens, observations, écriture,<br>prototypage | Entretien, Observations<br>                                                           | Kyoto        |
-| **Septembre** | Entretiens, écriture, présentation                 | Présentation intermédiaire, 30'000 caractères                                         | Kyoto        |
-| **Octobre**   | Écriture, mise en page                             | Présentation intermédiaire II                                                         | Genève       |
-| **Novembre**  | Relecture, finalisation                            | Présentation finale, 50'000 caractères                                                | Genève       |
+| Mois          | Phases                                             | Jalons                                                                              | Localisation |
+| ------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------ |
+| **Juin**      | Lecture, préparation                               | Projet de recherche, carnet de recherche, grille d'entretien, grille d'observations | Genève       |
+| **Juillet**   | Lecture, entretiens, observations, écriture        | Entretiens, <br>Immersion                                                           | Genève       |
+| **Août**      | Entretiens, observations, écriture,<br>prototypage | Entretiens, <br>Immersion,<br>Observations<br>                                      | Kyoto        |
+| **Septembre** | Entretiens, écriture, présentation                 | Présentation intermédiaire, <br>30'000 caractères                                   | Kyoto        |
+| **Octobre**   | Écriture, mise en page                             | Présentation intermédiaire,<br>Dispositif web                                       | Genève       |
+| **Novembre**  | Relecture, finalisation                            | Présentation finale, 50'000 caractères                                              | Genève       |
 
 ## Références
 
@@ -153,7 +152,6 @@ Cette recherche s'appuie sur quatre démarches complémentaires afin d'explorer 
 | ------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------ | --------------- |
 | [L'hypothèse cybernétique](https://translationcollective.wordpress.com/wp-content/uploads/2012/06/cybernetique.pdf) | Igor Strakhniver | Cybernétique | 0%              |
 | [Jin Shin Jyutsu](https://www.jinshinjyutsu-asso.fr/origine/)                                                       | Jin Shin Jyutsu  | Soin         | 0%              |
-
 
 ### Filmographie
 
