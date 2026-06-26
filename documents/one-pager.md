@@ -24,15 +24,15 @@ Aujourd'hui, je souhaite m'éloigner de cette quête d'efficience et explorer la
 
 ## Constat et hypothèse
 
-Cette quête d'efficience, dont je cherche aujourd'hui à m'éloigner, trouve une incarnation particulièrement forte dans les agents d'IA autonomes. Conçus pour agir « à la place de », de manière toujours plus autonome, ils promettent de prendre en charge des tâches cognitives complexes, tout en s'adaptant progressivement à leurs utilisateurs. Ils constituent, en un sens, l'aboutissement du fantasme de liberté par délivrance, porté par une volonté de contrôle, de domination et d'hyper-productivité.
+Cette quête d'efficience, dont je cherche aujourd'hui à m'éloigner, trouve une incarnation particulièrement forte dans les agents d'IA autonomes. Conçus pour agir « à la place de », de manière toujours plus autonome, ils promettent de prendre en charge des tâches cognitives complexes, tout en se modelant progressivement sur leurs utilisateurs. Ils constituent, en un sens, l'aboutissement d'un fantasme de liberté par délivrance, porté par une volonté de contrôle, de domination et d'hyper-productivité.
 
-L'accès à ces agents est aujourd'hui presque toujours médiatisé par le « chat », une interface initialement conçue pour les échanges entre humains. Fondée sur la métaphore de la conversation humaine, cette interface façonne notre manière d'entrer en relation avec ces systèmes - ainsi que les imaginaires qui les accompagnent - en suggérant la présence d'un interlocuteur humain.
+L'accès à ces agents est aujourd'hui presque toujours médiatisé par un « chat », une interface initialement conçue pour les échanges entre humains. Fondée sur la métaphore de la conversation, cette interface façonne notre manière d'entrer en relation avec ces systèmes - ainsi que les imaginaires qui les accompagnent - en suggérant la présence d'un interlocuteur humain.
 
-Derrière cette apparente familiarité subsistent plusieurs formes d'opacité : techniques, fonctionnelles, sémantiques et anthropomorphiques. Ensemble, elles peuvent contribuer à une forme d'aliénation et, plus spécifiquement, à une prolétarisation cognitive, linguistique et symbolique, participant à une standardisation progressive de nos manières de penser.
+Derrière cette apparente familiarité subsistent plusieurs formes d'opacité - techniques, fonctionnelles, sémantiques et anthropomorphiques. Ensemble, elles participent à une forme d'aliénation et, plus spécifiquement, à une prolétarisation cognitive, linguistique et symbolique, conduisant à une standardisation progressive de nos manières de penser.
 
-Cette recherche fait toutefois l'hypothèse que l'opacité ne devient problématique que lorsqu'elle s'inscrit dans un rapport à la technique fondé sur la domination, la délégation et le contrôle. Le monde plus-qu'humain est, lui aussi, traversé par des formes d'opacité, d'indétermination et d'imprévisibilité, qui semblent pourtant constituer les conditions ontologiques du vivant. Celles-ci ne deviennent problématiques qu'à partir du moment où elles s'heurtent à une tentative de contrôle.
+Cette recherche fait toutefois l'hypothèse que l'opacité ne devient problématique que lorsqu'elle s'inscrit dans un rapport à la technique fondé sur la domination, la délégation et le contrôle. En effet, le monde plus-qu'humain est, lui aussi, traversé par des formes d'opacité, d'indétermination et d'imprévisibilité, qui semblent par ailleurs constituer les conditions ontologiques du vivant. Celles-ci ne deviennent problématiques qu'à partir du moment où elles sont confrontées à une volonté de contrôle.
 
-Que se passerait-il si l'opacité des agents d'IA cessait d'être envisagée comme un problème à résoudre pour devenir le point de départ d'une réflexion sur d'autres manières d'entrer en relation avec ces systèmes, et peut-être, plus largement, avec le monde plus-qu'humain ?
+Que se passerait-il alors si l'opacité des agents d'IA cessait d'être envisagée comme un problème à résoudre pour devenir le point de départ d'une réflexion sur d'autres manières de faire relation avec ces systèmes, et peut-être, plus largement, avec le monde plus-qu'humain ?
 
 ## Déplacement ontologique
 
