@@ -36,19 +36,15 @@ Que se passerait-il alors si nous cessions d'appréhender les agents d'IA à tra
 
 ## Déplacement ontologique
 
-Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'explorer les formes de relation qui peuvent émerger de l'invisible. Ce déplacement invite à envisager un rapport à la technologie laissant une place à l'ambiguïté, à l'interprétation et à l'enchantement.
+Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'explorer les formes de relation qui peuvent émerger de l'invisible. Ce déplacement invite à envisager un rapport à la technologie laissant une place à l'ambiguïté, à l'incertitude et à l'enchantement.
 
+En effet, le monde est, lui aussi, traversé par des formes d'opacité, d'indétermination et d'imprévisibilité, qui semblent par ailleurs constituer les conditions ontologiques du vivant.  Loin d'être un obstacle, celles-ci montrent qu'il est possible de composer avec une altérité qui n'a pas besoin d'être humanisée pour faire relation.
 
-
-
-Cette recherche fait ainsi l'hypothèse que l'opacité ne devient problématique que lorsqu'elle s'inscrit dans un rapport à la technique fondé sur la domination, la délégation et le contrôle. En effet, le monde est, lui aussi, traversé par des formes d'opacité, d'indétermination et d'imprévisibilité, qui semblent par ailleurs constituer les conditions ontologiques du vivant. Celles-ci ne deviennent problématiques qu'à partir du moment où elles sont confrontées à une volonté de contrôle.
-
-
-L'ontologie animiste apparaît ici comme un cadre d'analyse particulièrement intéressant pour penser ce déplacement. Elle invite à composer avec l'incertitude, en considérant que l'intentionnalité, la personnalité ou l'agentivité - attribuées à un système - constituent autant de prises interprétatives permettant de construire une relation plus réflexive avec la technologie.
+Ce faisant, l'ontologie animiste apparaît ici comme un cadre d'analyse particulièrement intéressant pour penser ce déplacement. Elle invite à composer avec l'incertitude, en considérant que l'intentionnalité, la singularité ou l'agentivité - attribuées à un système - pourraient constituer autant de prises interprétatives permettant de construire une relation plus réflexive avec la technologie.
 
 Dans cette perspective, le sanctuaire shinto constitue un terrain d'observation privilégié, dans la mesure où il organise une relation avec des phénomènes qui ne sont ni entièrement accessibles, ni totalement explicables ou maîtrisables.
 
-Cette recherche explore ainsi la possibilité de mobiliser les formes de médiation observées dans ces sanctuaires afin d'imaginer de nouvelles métaphores d'interface. Celles-ci s'inscriraient dans une ontologie relationnelle privilégiant l'attention, la curiosité, l'interprétation et la coexistence plutôt que le contrôle, la délégation et l'efficience.
+Cette recherche explore ainsi la possibilité de mobiliser les formes de médiation observées dans ces sanctuaires afin d'imaginer de nouvelles métaphores d'interface. Celles-ci s'inscriraient dans une ontologie relationnelle privilégiant l'attention, la curiosité, l'empathie et la présence plutôt que le contrôle, la délégation et l'efficience.
 ## Question de recherche
 
 En quoi les métaphores d'interface des agents d'IA autonomes façonnent-elles notre manière d'être au monde, et comment une ontologie animiste permettrait-elle d'imaginer d'autres formes de relation avec la technologie ?
