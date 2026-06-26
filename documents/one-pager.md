@@ -73,13 +73,17 @@ Cette recherche s'appuie sur trois démarches complémentaires afin d'explorer c
 
 | Personnes                 | Lieux | Expertises                                   |
 | ------------------------- | ----- | -------------------------------------------- |
-| **À définir**             | JP    | Philosophie & Ontologie animiste             |
-| **Alexa Steinbrück**      | DE    | Intelligence Artificielle                    |
+| **À définir**             | JP    | Philosophie, ontologie animiste              |
+| **À définir**             | JP    | Histoire du Japon, shintoïsme                |
+| **À définir**             | GE    | Utilisateur.ice agent IA                     |
+| **Alexa Steinbrück**      | DE    | Intelligence artificielle                    |
 | **Anne Alombert**         | FR    | Perroquet stochastique, délégation cognitive |
-| **André Ourednik**        | CH    | Machine spirituelle                          |
+| **André Ourednik**        | CH    | Machine spirituelle, oracle                  |
 | **Douglas Edric Stanley** | CH    | Relation avec les agents IA                  |
-| **Gergely Péter Barna**   | JP    | Machines et artisanat                        |
-| **Matteo Loglio**         | CH    | Agent IA & Projet "Mur Mur"                  |
+| **Gergely Péter Barna**   | JP    | Machines, artisanat, traditions              |
+| **Matteo Loglio**         | CH    | Agent IA, projet "Mur Mur"                   |
+| **Virginia Bjertnes**     | CH    | Conteuse, animisme                           |
+
 
 ## Calendrier
 
