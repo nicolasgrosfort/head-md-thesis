@@ -26,17 +26,23 @@ Aujourd'hui, je souhaite m'éloigner de cette quête d'efficience et explorer la
 
 Cette quête d'efficience, dont je cherche aujourd'hui à m'éloigner, trouve une incarnation particulièrement forte dans les agents d'IA autonomes. Conçus pour agir « à la place de », de manière toujours plus autonome, ils promettent de prendre en charge des tâches cognitives complexes, tout en se modelant progressivement sur leurs utilisateurs. Ils constituent, en un sens, l'aboutissement d'un fantasme de liberté par délivrance, porté par une volonté de contrôle, de domination et d'hyper-productivité.
 
-L'accès à ces agents est aujourd'hui presque toujours médiatisé par un « chat », une interface initialement conçue pour les échanges entre humains. Fondée sur la métaphore de la conversation, cette interface façonne notre manière d'entrer en relation avec ces systèmes - ainsi que les imaginaires qui les accompagnent - en suggérant la présence d'un interlocuteur humain.
+Plus encore, l'accès à ces agents est aujourd'hui presque toujours médiatisé par un « chat », une interface initialement conçue pour les échanges entre humains. Fondée sur la métaphore de la conversation, cette interface façonne notre manière d'entrer en relation avec ces systèmes - ainsi que les imaginaires qui les accompagnent - en suggérant la présence d'un interlocuteur humain.
 
 Derrière cette apparente familiarité subsistent plusieurs formes d'opacité - techniques, fonctionnelles, sémantiques et anthropomorphiques. Ensemble, elles participent à une forme d'aliénation et, plus spécifiquement, à une paupérisation cognitive, linguistique et symbolique, conduisant à une standardisation progressive de nos manières d'agir et de penser.
 
-Cette recherche fait toutefois l'hypothèse que l'opacité ne devient problématique que lorsqu'elle s'inscrit dans un rapport à la technique fondé sur la domination, la délégation et le contrôle. En effet, le monde est, lui aussi, traversé par des formes d'opacité, d'indétermination et d'imprévisibilité, qui semblent par ailleurs constituer les conditions ontologiques du vivant. Celles-ci ne deviennent problématiques qu'à partir du moment où elles sont confrontées à une volonté de contrôle.
+À cet égard, la notion même d'"intelligence" (artificielle) contribue à l'émergence d'une confusion ontologique, dans la mesure ou elle donne l'impression que la machine est un double de l'humain, ou peut-être - que l'humain est lui-même une machine. Dans ce sens, cette opacité sémantique, renforcée par un vernis anthropomorphique, tend à instrumentaliser notre rapport à l'altérité en le réinscrivant dans une logique d'efficience, de prédiction et de contrôle.
 
-Que se passerait-il alors si l'opacité des agents d'IA cessait d'être envisagée comme un problème à résoudre pour devenir le point de départ d'une réflexion sur d'autres manières de faire relation avec la technologie, et peut-être, plus largement, avec d'autres formes d'altérité ?
+Que se passerait-il alors si nous cessions d'appréhender les agents d'IA à travers ces métaphores anthropomorphiques ? En quoi leur opacité pourrait-elle devenir le point de départ d'une réflexion sur d'autres manières d'être en relation avec la technologie et, peut-être, plus largement, avec l'altérité ?
 
 ## Déplacement ontologique
 
 Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'explorer les formes de relation qui peuvent émerger de l'invisible. Ce déplacement invite à envisager un rapport à la technologie laissant une place à l'ambiguïté, à l'interprétation et à l'enchantement.
+
+
+
+
+Cette recherche fait ainsi l'hypothèse que l'opacité ne devient problématique que lorsqu'elle s'inscrit dans un rapport à la technique fondé sur la domination, la délégation et le contrôle. En effet, le monde est, lui aussi, traversé par des formes d'opacité, d'indétermination et d'imprévisibilité, qui semblent par ailleurs constituer les conditions ontologiques du vivant. Celles-ci ne deviennent problématiques qu'à partir du moment où elles sont confrontées à une volonté de contrôle.
+
 
 L'ontologie animiste apparaît ici comme un cadre d'analyse particulièrement intéressant pour penser ce déplacement. Elle invite à composer avec l'incertitude, en considérant que l'intentionnalité, la personnalité ou l'agentivité - attribuées à un système - constituent autant de prises interprétatives permettant de construire une relation plus réflexive avec la technologie.
 
@@ -45,7 +51,7 @@ Dans cette perspective, le sanctuaire shinto constitue un terrain d'observation 
 Cette recherche explore ainsi la possibilité de mobiliser les formes de médiation observées dans ces sanctuaires afin d'imaginer de nouvelles métaphores d'interface. Celles-ci s'inscriraient dans une ontologie relationnelle privilégiant l'attention, la curiosité, l'interprétation et la coexistence plutôt que le contrôle, la délégation et l'efficience.
 ## Question de recherche
 
-En quoi les métaphores d'interface des agents d'IA autonomes façonnent-elles notre manière d'être au monde, et comment une ontologie animiste permet-elle d'imaginer d'autres formes de relation avec la technologie ?
+En quoi les métaphores d'interface des agents d'IA autonomes façonnent-elles notre manière d'être au monde, et comment une ontologie animiste permettrait-elle d'imaginer d'autres formes de relation avec la technologie ?
 
 ### Sous-questions 
 
