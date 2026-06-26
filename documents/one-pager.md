@@ -18,9 +18,9 @@ Menée entre Genève et Kyoto de juillet à novembre 2026, elle propose de prend
 
 Depuis une quinzaine d'années, j'observe une forme d'instrumentalisation progressive de mon quotidien, résultant de l'usage d'outils numériques professionnels pour organiser ma vie privée. Hérités d'un fantasme cybernéticien fondé sur une volonté de contrôler le vivant, ces dispositifs ont progressivement modifié ma présence au monde, façonnant un rapport à l'existence centré sur l'optimisation et la résolution de problèmes.
 
-Cette logique d'optimisation a également marqué ma pratique de designer. Issu du design UI/UX, de la business analyse et du développement informatique, j'ai longtemps envisagé le design comme une démarche de résolution de problèmes : identifier un besoin, formuler une problématique, concevoir une solution, tester, itérer. Cette approche m'a conduit à concevoir des interfaces efficientes, sans friction, faisant peu à peu disparaître l'interaction et, avec elle, la part de réflexion inhérente aux gestes d'usage.
+Cette logique d'optimisation a également marqué ma pratique de designer. Issu du design UI/UX, de la business analyse et du développement informatique, j'ai longtemps envisagé le design comme une démarche de résolution de problèmes : identifier un besoin, formuler une problématique, concevoir une solution, tester, itérer. Cette approche m'a conduit à concevoir des interfaces efficientes - *frictionless* - faisant peu à peu disparaître l'interaction et, avec elle, la part de réflexion inhérente aux gestes d'usage.
 
-Aujourd'hui, je souhaite m'éloigner de cette quête d'efficience et explorer la possibilité de ré-enchanter ma pratique en imaginant d'autres manières d'être de cohabiter avec la technologie.
+Aujourd'hui, je souhaite m'éloigner de cette quête d'efficience et explorer la possibilité de ré-enchanter ma pratique de designer, en imaginant d'autres manières de cohabiter avec la technologie.
 
 ## Constat et hypothèse
 
