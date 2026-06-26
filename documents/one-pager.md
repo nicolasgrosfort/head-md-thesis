@@ -49,7 +49,7 @@ En quoi les métaphores d'interface des agents d'IA autonomes façonnent-elles n
 
 ### Sous questions 
 
-1. Comment les agents d'IA autonomes et leurs interfaces organisent-ils notre manière d'entrer en relation avec eux ?
+1. Comment les métaphores d'interface des agents d'IA autonomes organisent-elles notre manière d'entrer en relation avec eux ?
 2. De quelles manières le sanctuaire shinto médiatise-t-il la relation à l'invisible ?
 3. En quoi une ontologie animiste permet-elle de repenser notre relation aux agents d'IA autonomes ?
 4. Quels principes de médiation peuvent être mobilisés dans la conception de nouvelles métaphores d'interface ?
