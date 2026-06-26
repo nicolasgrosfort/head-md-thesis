@@ -1,6 +1,6 @@
 ---
 création: 2026-06-24
-révision: 2026-06-24
+révision: 2026-06-26
 ---
 # Spritual Stochastism
 
@@ -120,23 +120,23 @@ Cette recherche s'appuie sur trois démarches complémentaires afin d'explorer c
 | Référence                                                                                                         | Auteur         | Domaine              |
 | ----------------------------------------------------------------------------------------------------------------- | -------------- | -------------------- |
 | [Her](https://fr.wikipedia.org/wiki/Her_(film))                                                                   | Spike Jonze    | Relation IA          |
+| [Le vent se lève](https://fr.wikipedia.org/wiki/Le_vent_se_lève_(film,_2013))                                     | Hayao Miyazaki | Techno-animisme      |
 | [Mon voisin Totoro](https://fr.wikipedia.org/wiki/Mon_voisin_Totoro)                                              | Hayao Miyazaki | Monde plus-qu-humain |
 | [Nausicaä de la Vallée du Vent](https://fr.wikipedia.org/wiki/Nausicaä_de_la_Vallée_du_Vent_(film_d%27animation)) | Hayao Miyazaki | Anthropocène         |
-| [Le vent se lève](https://fr.wikipedia.org/wiki/Le_vent_se_lève_(film,_2013))                                     | Hayao Miyazaki | Techno-animisme      |
 
 ### Projets
 
-| Référence                                                                                                                                 | Auteur                      | Domaine            |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------ |
-| [A(I)nimism](https://www.media.mit.edu/projects/a-i-nimism/overview/)                                                                     | Diana Mykhaylychenko & al.  | LLO                |
-| [Folklore Fusion](https://www.folklore-fusion.net/)                                                                                       | Pauline Saglio              | Folklore numérique |
-| [La Machine à Tubes](https://www.mynameisfuzzy.ch/machineatubes/)                                                                         | Bastien Bron                | Installation       |
-| [Narratron](https://www.creativeapplications.net/project/narratron-shadow-play-with-a-storytelling-ai/)                                   | Aria Xiying Bao & Yubo Zhao | LLO                |
-| [Mur Mur](https://www.murmur.living/)                                                                                                     | OIO Studio                  | Objet              |
-| [Noema](https://www.creativeapplications.net/project/noema-rethinking-perception-with-ai-generated-spatial-soundscapes/)                  | Melo Chen & Nomy Yu         | LLO                |
-| [Objectives Realities](https://recordings.designmatters.io/seeing-reality-from-an-objects-perspective-can-help-us-design-for-the-future/) | Simone Rebaudengo           | Design spéculatif  |
-| [Synthetic Spirits](https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/)              | Neil Mendoza                | Folklore numérique |
-| [Techno Animism](https://www.emikusano.art/techno-animsm)                                                                                 | Emi Kusano                  | Folklore numérique |
+| Référence                                                                                                                                 | Auteur                      | Domaine            |                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------ | -------------------------------------------------------------------------------- |
+| [A(I)nimism](https://www.media.mit.edu/projects/a-i-nimism/overview/)                                                                     | Diana Mykhaylychenko & al.  | LLO                | ![A(I)nimism](../assets/images/2026-06-26-a(i)nimism-diana-mykhaykychenko-1.jpg) |
+| [Folklore Fusion](https://www.folklore-fusion.net/)                                                                                       | Pauline Saglio              | Folklore numérique |                                                                                  |
+| [La Machine à Tubes](https://www.mynameisfuzzy.ch/machineatubes/)                                                                         | Bastien Bron                | Installation       |                                                                                  |
+| [Narratron](https://www.creativeapplications.net/project/narratron-shadow-play-with-a-storytelling-ai/)                                   | Aria Xiying Bao & Yubo Zhao | LLO                |                                                                                  |
+| [Mur Mur](https://www.murmur.living/)                                                                                                     | OIO Studio                  | Objet              | ![Mur Mur](../assets/images/2026-06-26-mur-mur-oio-studio.png)                   |
+| [Noema](https://www.creativeapplications.net/project/noema-rethinking-perception-with-ai-generated-spatial-soundscapes/)                  | Melo Chen & Nomy Yu         | LLO                |                                                                                  |
+| [Objectives Realities](https://recordings.designmatters.io/seeing-reality-from-an-objects-perspective-can-help-us-design-for-the-future/) | Simone Rebaudengo           | Design spéculatif  |                                                                                  |
+| [Synthetic Spirits](https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/)              | Neil Mendoza                | Folklore numérique |                                                                                  |
+| [Techno Animism](https://www.emikusano.art/techno-animsm)                                                                                 | Emi Kusano                  | Folklore numérique | ![Techno Animism](../assets/images/2026-06-26-techno-animism-emi-kusano-1.jpeg)  |
 
 ### Lieux
 
