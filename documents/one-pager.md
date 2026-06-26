@@ -75,7 +75,6 @@ Cette recherche s'appuie sur trois démarches complémentaires afin d'explorer c
 | ------------------------- | ----- | -------------------------------------------- |
 | **À définir**             | JP    | Philosophie & Ontologie animiste             |
 | **Alexa Steinbrück**      | DE    | Intelligence Artificielle                    |
-| **Amber Case**            | JP    | Calm Technology                              |
 | **Anne Alombert**         | FR    | Perroquet stochastique, délégation cognitive |
 | **André Ourednik**        | CH    | Machine spirituelle                          |
 | **Douglas Edric Stanley** | CH    | Relation avec les agents IA                  |
@@ -137,6 +136,12 @@ Cette recherche s'appuie sur trois démarches complémentaires afin d'explorer c
 
 ### Lieux
 
-| Nom              | Emplacement |
-| ---------------- | ----------- |
-| **Musée Ghibli** | Tokyo       |
+| Nom                     | Emplacement | Domaine                      |
+| ----------------------- | ----------- | ---------------------------- |
+| **Musée Ghibli**        | Tokyo       | Imaginaires                  |
+| **Ginkaku-ji**          | Kyoto       | Sanctuaire (zen)             |
+| **Kōdai-ji**            | Kyoto       | Sanctuaire (techno-animisme) |
+| **Shinjuan**            | Kyoto       | Sanctuaire (tsukumogami)     |
+| **Calm Tech Institute** | Kyoto       | Calm Technology              |
+| **mui LAB**             | Kyoto       | Design Studio                |
+| **Nintendo museum**     | Kyoto       | Musée                        |
