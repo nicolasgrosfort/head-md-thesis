@@ -57,14 +57,16 @@ En quoi les métaphores d'interface des agents d'IA autonomes façonnent-elles n
 
 ## Restitution
 
-La recherche prendra principalement la forme d'un dispositif expérimental explorant d'autres métaphores d'interface pour les agents d'IA autonomes. Conçu comme le médium principal de la recherche, il donnera accès aux observations, aux références, au journal de recherche et aux différentes expérimentations à travers une autre manière de faire relation avec un agent d'IA.
+La recherche prendra principalement la forme d'un dispositif web expérimental visant à explorer d'autres métaphores d'interface. 
+
+Conçu comme le médium principal de la recherche, il donnera accès aux observations, aux entretiens, aux analyses, et au journal de recherche en explorant une autre manière d'interagir avec un agent d'IA.
 
 Cette restitution sera accompagnée d'un mémoire écrit de 50 000 signes, constituant la formalisation académique de la recherche.
 ## Méthodologie
 
 ### Observations
 
-Cette recherche s'appuie sur trois démarches complémentaires afin d'explorer comment le design peut proposer d'autres manières d'être en relation avec le monde technique.
+Cette recherche s'appuie sur trois démarches complémentaires afin d'explorer comment le design peut proposer d'autres manières de de cohabiter avec la technologie.
 
 1. **Une pratique réflexive**, consistant à documenter quotidiennement la relation entretenue avec un agent d'IA autonome (Hermès), utilisé tout au long de la recherche comme support d'observation et d'expérimentation. Cette démarche s'appuie sur une auto-ethnographie, à travers un journal de recherche, des observations et une documentation continue de mes interactions.
 2. **Des observations de terrain**, menées dans des sanctuaires shinto à Kyoto. Mobilisant également une approche auto-ethnographique, elles documentent l'architecture, les usages, les interactions et les dispositifs de médiation à l'aide de notes, de photographies, d'enregistrements sonores, de scans 3D et de relevés in situ. Ces matériaux alimenteront une cartographie relationnelle inspirée de la théorie de l'acteur-réseau, utilisée comme outil d'analyse pour rendre visibles les relations entre humains, objets, espaces, rites et dispositifs de médiation observés sur le terrain.
