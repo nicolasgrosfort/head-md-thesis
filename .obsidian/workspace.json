@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documents/one-pager.md",
+                "file": "documents/archives/projet-de-recherche-(déprécié).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "one-pager"
+              "title": "projet-de-recherche-(déprécié)"
             }
           }
         ]
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documents/projet-de-recherche.md",
+                "file": "documents/archives/projet-de-recherche-(déprécié).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "projet-de-recherche"
+              "title": "projet-de-recherche-(déprécié)"
             }
           }
         ]
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "e2ce155ca947964e",
@@ -226,8 +225,10 @@
   },
   "active": "fc65a8e5e683b15a",
   "lastOpenFiles": [
+    "readme.md",
     "documents/projet-de-recherche.md",
-    "documents/one-pager.md",
+    "documents/archives/projet-de-recherche-(déprécié).md",
+    "documents/archives",
     "assets/images/2026-06-26-noema-1.jpg",
     "assets/images/2026-06-26-folklore-fusion-1.png",
     "assets/images/2026-06-26-automato-farm-objective-realities-1.jpg",

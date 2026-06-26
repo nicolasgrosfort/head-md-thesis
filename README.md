@@ -1,8 +1,11 @@
 # Master Thesis
 
-*Espace de travail, de réflexion et de collecte de données issues d'observations de terrain.  Thèse de Master en Media Design à la Haute École d'Art et de Design de Genève.*
+*Projet de recherche mené par Nicolas Grosfort dans le cadre d'un Master en Media Design à la HEAD - Genève, sous la direction de Sabrina Calvo.
 
 ## Index
 
-1. [Projet de recherche](./documents/projet-de-recherche.md)
-2. [One Pager](./documents/one-pager.md)
+1. [Projet de recherche](documents/projet-de-recherche.md)
+
+## Archives
+
+1. [Projet de recherche (déprécié)](documents/archives/projet-de-recherche-(déprécié).md)
