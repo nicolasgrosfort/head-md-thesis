@@ -45,7 +45,7 @@ Dans cette perspective, le sanctuaire shinto constitue un terrain d'observation 
 Cette recherche explore ainsi la possibilité de mobiliser les formes de médiation observées dans ces sanctuaires afin d'imaginer de nouvelles métaphores d'interface. Celles-ci s'inscriraient dans une ontologie relationnelle privilégiant l'attention, la curiosité, l'interprétation et la coexistence plutôt que le contrôle, la délégation et l'efficience.
 ## Question de recherche
 
-En quoi les métaphores d'interface des agents d'IA autonomes façonnent-elles notre manière d'être au monde, et comment une ontologie animiste peut-elle ouvrir à d'autres formes de relations ?
+En quoi les métaphores d'interface des agents d'IA autonomes façonnent-elles notre manière d'être au monde, et comment une ontologie animiste permet-elle d'imaginer d'autres formes de relation avec la technologie ?
 
 ### Sous questions 
 
