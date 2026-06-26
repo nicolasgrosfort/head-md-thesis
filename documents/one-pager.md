@@ -62,9 +62,8 @@ La recherche prendra principalement la forme d'un dispositif web expérimental v
 Conçu comme le médium principal de la recherche, il donnera accès aux observations, aux entretiens, aux analyses, et au journal de recherche en explorant une autre manière d'interagir avec un agent d'IA.
 
 Cette restitution sera accompagnée d'un mémoire écrit de 50 000 signes, constituant la formalisation académique de la recherche.
-## Méthodologie
 
-### Risques
+## Risques
 
 J'ai identifié trois niveaux de risque que je chercherai à rendre explicites tout au long de cette recherche afin d'en limiter les effets.
 
@@ -72,18 +71,27 @@ J'ai identifié trois niveaux de risque que je chercherai à rendre explicites t
 	Adopter une posture extractiviste en transformant le sanctuaire shinto en une simple boîte à outils de design.
 2. **Le risque de projection**
 	Interpréter le sanctuaire shinto à travers mes propres catégories d'analyse et y voir uniquement la confirmation de mes hypothèses.
-3. **Le risque de ré-appropriation culturelle**
+3. **Le risque d'appropriation culturelle**
 	Réinterpréter une cosmologie existante à partir de catégories conceptuelles occidentales, au risque d'en déformer le sens.
 
-### Observations
+## Méthodologie
 
-Cette recherche s'appuie sur trois démarches complémentaires afin d'explorer comment le design peut proposer d'autres manières de de cohabiter avec la technologie.
+Cette recherche s'appuie sur quatre démarches complémentaires afin d'explorer comment le design peut proposer d'autres manières de cohabiter avec la technologie.
 
-1. **Une pratique réflexive**, consistant à documenter quotidiennement la relation entretenue avec un agent d'IA autonome (Hermès), utilisé tout au long de la recherche comme support d'observation et d'expérimentation. Cette démarche s'appuie sur une auto-ethnographie, à travers un journal de recherche, des observations et une documentation continue de mes interactions.
-2. **Des observations de terrain**, menées dans des sanctuaires shinto à Kyoto. Mobilisant également une approche auto-ethnographique, elles documentent l'architecture, les usages, les interactions et les dispositifs de médiation à l'aide de notes, de photographies, d'enregistrements sonores, de scans 3D et de relevés in situ. Ces matériaux alimenteront une cartographie relationnelle inspirée de la théorie de l'acteur-réseau, utilisée comme outil d'analyse pour rendre visibles les relations entre humains, objets, espaces, rites et dispositifs de médiation observés sur le terrain.
-3. **Une démarche de conception**, consistant à prototyper et mettre à l'épreuve de nouvelles métaphores d'interface afin d'explorer les formes de relation qu'elles rendent possibles.
+1. **Une pratique réflexive** 
+	Interagir quotidiennement avec un agent d'IA autonome (Hermès) afin d'observer les formes de relation qu'induisent son interface, ses métaphores et ses modalités d'interaction. 
+	Documenter cette démarche par un journal réflexif en mobilisant une approche auto-ethnographique.
+1. **Une immersion située**
+	Mener une pratique hebdomadaire au Dojo Zen (Genève), puis au Ginkaku-ji (Kyoto), afin d'explorer les formes d'attention, de présence et de relation qui émergent de ces lieux.  
+	Documenter cette démarche par un journal réflexif en mobilisant une approche auto-ethnographique.
+2. **Une observation de terrain**
+	Observer et documenter l'architecture, les usages, les interactions et les dispositifs de médiation présents dans les sanctuaires shinto, afin de comprendre comment ces lieux organisent les relations entre humains, objets, espaces, rites et phénomènes.
+	Cartographier les relations observées à partir de notes, de photographies, d'enregistrements sonores, de scans 3D et de relevés in situ. Ces matériaux alimenteront une cartographie relationnelle inspirée de la théorie de l'acteur-réseau, utilisée comme outil d'analyse.
+3. **Une démarche de conception**, 
+	Prototyper de nouvelles métaphores d'interface afin d'explorer les formes de relation qu'elles rendent possibles.
+	Documenter les expérimentations, les itérations de conception et leurs effets dans un journal de recherche afin d'alimenter la réflexion théorique.
 
-### Entretiens
+## Entretiens
 
 | Personnes                 | Lieux | Expertises                                   |
 | ------------------------- | ----- | -------------------------------------------- |
