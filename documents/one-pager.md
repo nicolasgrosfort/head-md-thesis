@@ -6,9 +6,9 @@ révision: 2026-06-26
 
 *Spiritual Stochasticism* est un projet de recherche mené par Nicolas Grosfort dans le cadre d'un Master en Media Design à la HEAD - Genève, sous la direction de Sabrina Calvo.
 
-Il explore la manière dont les métaphores d'interface façonnent les imaginaires socio-techniques qui sous-tendent notre relation aux agents d'IA autonomes.
+Il explore la manière dont les métaphores d'interface, dont l'opacité est constitutive, façonnent les imaginaires socio-techniques qui sous-tendent notre relation aux agents d'IA autonomes.
 
-Plutôt que d'envisager les différentes formes d'opacité de ces systèmes comme un problème à résoudre, cette recherche propose de les considérer comme des espaces relationnels susceptibles d'ouvrir d'autres manières d'habiter le monde technique.
+Plutôt que d'envisager cette opacité comme un problème à résoudre, la recherche propose de la considérer comme un espace relationnel susceptible d'ouvrir d'autres manières d'habiter le monde technique.
 
 À partir d'une ontologie animiste, elle interroge la possibilité de concevoir des interfaces qui privilégient la relation, l'interprétation et la coexistence plutôt que le contrôle et l'efficience. 
 
