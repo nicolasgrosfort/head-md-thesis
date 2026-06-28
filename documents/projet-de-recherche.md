@@ -16,27 +16,25 @@ Menée entre Genève et Kyoto de juillet à novembre 2026, elle propose de prend
 
 ## Point de départ
 
-Depuis une quinzaine d'années, j'observe une forme d'instrumentalisation progressive de mon quotidien, résultant de l'usage d'outils numériques professionnels pour organiser ma vie privée. Hérités d'un fantasme cybernéticien fondé sur une volonté de contrôler le vivant, ces dispositifs ont progressivement modifié ma présence au monde, façonnant un rapport à l'existence centré sur l'optimisation et la résolution de problèmes.
+Depuis une quinzaine d'années, j'observe une forme d'instrumentalisation progressive de mon quotidien, résultant de l'usage d'outils numériques professionnels pour organiser ma vie privée. Hérités d'un fantasme cybernéticien fondé sur une volonté de contrôler le vivant [^5], ces dispositifs ont progressivement modifié ma présence au monde, façonnant un rapport à l'existence centré sur la résolution de problèmes.
 
-Cette logique d'optimisation a également marqué ma pratique de designer. Issu du design UI/UX, de la business analyse et du développement informatique, j'ai longtemps envisagé le design comme une démarche de résolution de problèmes : identifier un besoin, formuler une problématique, concevoir une solution, tester, itérer. Cette approche m'a conduit à concevoir des interfaces efficientes - *frictionless* - faisant peu à peu disparaître l'interaction et, avec elle, la part de réflexion inhérente aux gestes d'usage.
+Cette logique d'optimisation a également marqué ma pratique de designer. Issu du design UI/UX, de la business analyse et du développement informatique, j'ai longtemps envisagé le design comme une démarche de résolution de problèmes : identifier un besoin, formuler une problématique, concevoir une solution, tester, itérer. Cette approche m'a conduit à concevoir des interfaces efficientes - *frictionless* - faisant peu à peu disparaître l'interaction et, avec elle, la part de réflexion inhérente aux gestes d'usage [^6].
 
 Aujourd'hui, je souhaite m'éloigner de cette quête d'efficience et explorer la possibilité de ré-enchanter ma pratique de designer, en imaginant d'autres manières de cohabiter avec la technologie.
 
 ## Constat et hypothèse
 
-Cette quête d'efficience, dont je cherche aujourd'hui à m'éloigner, trouve une incarnation particulièrement forte dans les agents d'IA autonomes. Conçus pour agir « à la place de », de manière toujours plus autonome, ils promettent de prendre en charge des tâches cognitives complexes, tout en se modelant progressivement sur leurs utilisateurs. Ils constituent, en un sens, l'aboutissement d'un fantasme de liberté par délivrance, porté par une volonté de contrôle, de domination et d'hyper-productivité.
+Cette quête d'efficience, dont je cherche aujourd'hui à m'éloigner, trouve une incarnation particulièrement forte dans les agents d'IA autonomes. Conçus pour agir « à la place de », de manière toujours plus autonome, ils promettent de prendre en charge des tâches cognitives complexes, tout en se modelant progressivement sur leurs utilisateurs. Ils constituent, en un sens, l'aboutissement d'un fantasme de liberté par délivrance [^4], porté par une volonté de contrôle, de domination et d'hyper-productivité.
 
-Plus encore, l'accès à ces agents est aujourd'hui presque toujours médiatisé par un « chat », une interface initialement conçue pour les échanges entre humains. Fondée sur la métaphore de la conversation, cette interface façonne notre manière d'entrer en relation avec ces systèmes - ainsi que les imaginaires qui les accompagnent - en suggérant la présence d'un interlocuteur humain.
+Derrière cette promesse de délégation subsistent plusieurs formes d'opacité - techniques, fonctionnelles mais aussi sémantiques [^3]. Ensemble, elles peuvent participer à une forme d'aliénation et, plus spécifiquement, à une paupérisation cognitive, linguistique et symbolique, conduisant à une standardisation progressive de nos manières d'agir et de penser[^2]. Mais elles peuvent aussi nourrir des imaginaires et des projections anthropomorphiques, allant parfois même jusqu'à des phénomènes de paréidolie théologique [^1].
 
-Derrière cette apparente familiarité subsistent plusieurs formes d'opacité - techniques, fonctionnelles, sémantiques et anthropomorphiques. Ensemble, elles participent à une forme d'aliénation et, plus spécifiquement, à une paupérisation cognitive, linguistique et symbolique, conduisant à une standardisation progressive de nos manières d'agir et de penser.
+À cet égard, la notion même d'"intelligence" (artificielle) contribue à l'émergence d'une confusion ontologique, dans la mesure ou elle donne l'impression que la machine est un double de l'humain, ou peut-être - que l'humain est lui-même une machine[^7]. Plus encore, l'accès à ces agents est aujourd'hui presque toujours médié par un « chat », une interface initialement conçue pour les échanges entre humains. Fondée sur la métaphore de la conversation, cette interface projette un imaginaire humano-skeuomorphique [^8] en suggérant, là encore, présence d'un interlocuteur humain.
 
-À cet égard, la notion même d'"intelligence" (artificielle) contribue à l'émergence d'une confusion ontologique, dans la mesure ou elle donne l'impression que la machine est un double de l'humain, ou peut-être - que l'humain est lui-même une machine. Dans ce sens, cette opacité sémantique, renforcée par un vernis anthropomorphique, tend à instrumentaliser notre rapport à l'altérité en le réinscrivant dans une logique d'efficience, de prédiction et de contrôle.
-
-Que se passerait-il alors si nous cessions d'appréhender les agents d'IA à travers ces métaphores anthropomorphiques ? En quoi leur opacité pourrait-elle devenir le point de départ d'une réflexion sur d'autres manières d'être en relation avec la technologie et, peut-être, plus largement, avec le monde ?
+Ces différentes formes d'opacité, recouvertes d'un vernis anthropomorphique, influencent alors notre manière d'être en relation avec ces systèmes. Dès lors, dans quelle mesure cette relation, façonnée par une logique d'efficience, de domination et de contrôle, est-elle susceptible de reconfigurer notre rapport à l'altérité ? Que se passerait-il si nous appréhendions les agents d'IA autrement qu'à travers des métaphores anthropomorphiques ?
 
 ## Déplacement ontologique
 
-Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'explorer les formes de relation qui peuvent émerger de l'invisible. Ce déplacement invite à envisager un rapport à la technologie laissant une place à l'ambiguïté, à l'incertitude et à l'enchantement.
+Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'en faire le point de départ d'une exploration des formes de relation susceptibles d'émerger de l'*invisible*. Ce déplacement invite à envisager un rapport à la technologie laissant une place à l'ambiguïté, à l'incertitude et l'aléatoire.
 
 En effet, le monde est, lui aussi, traversé par des formes d'opacité, d'indétermination et d'imprévisibilité, qui semblent par ailleurs constituer les conditions ontologiques du vivant.  Loin d'être un obstacle, celles-ci montrent qu'il est possible de composer avec une altérité qui n'a pas besoin d'être humanisée pour faire relation.
 
@@ -125,7 +123,7 @@ Cette exploration spéculative prendra la forme d'une série d'objets directemen
 
 L'objectif de ce projet pratique sera donc d'interroger les formes de relation que nous entretenons aujourd'hui avec les agents d'IA et, plus largement, d'ouvrir des pistes de réflexion sur notre manière d'être en relation avec *l'autre*.
 
-## Références
+## Ressources
 
 ### Bibliographie
 
@@ -203,3 +201,21 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 | **Nintendo museum**     | Kyoto       | Musée                        |
 | **Shinjuan**            | Kyoto       | Sanctuaire (tsukumogami)     |
 | **Zen Deshimaru**       | Genève      | Dojo zen                     |
+
+## Références
+
+[^1]: FLORIDI, Luciano. 2026. AI and Semantic Pareidolia : When We See Intelligent Consciousness where there is None. *Philosophy & Technology*. Vol. 39, no 1. DOI 10.1007/s13347-026-01052-1.
+
+[^2]: BARBEY, Grégoire. *L'IA générative et la prolétarisation de la pensée*. [en ligne]. IA qu'à m'expliquer. 10 novembre 2025. Disponible à l'adresse : https://open.spotify.com/episode/3IN48so6CKUJLiCfu06M2b?si=vnVHIVcdQiKhLOSkDRjsog
+
+[^3]: STEINBRÜCK, Alexa. 2026. *Talking about 'AI' – a call for more nuanced terminology*. [en ligne]. 7 mai 2026. Disponible à l'adresse : https://alexasteinbrueck.substack.com/p/talking-about-ai-a-call-for-more
+
+[^4]: BERLAN, Aurélien. *« Terre et Liberté » (conclusion)*. [en ligne]. 3 mai 2023. Disponible à l'adresse : https://lesamisdebartleby.wordpress.com/2023/05/03/aurelien-berlan-terre-et-liberte-conclusion/
+
+[^5]: TURNER, F. (2021). _Aux sources de l'utopie numérique : De la contre-culture à la cyberculture : Stewart Brand, un homme d'influence_.
+
+[^6]: SENNET, Richard, 2010.  *Ce que sait la main. La culture de l'artisanat*, traduit de l'américain par Pierre-Emmanuel Dauzat, Paris, Albin Michel, 2010, 403 p.
+
+[^7]: ALOMBERT, Anne. 2025. *De la bêtise artificielle*. Éditions Allia.
+
+[^8]: LOGLIO, M. (2026). _a world inside a speaker_. Oio News. Disponible à l'adresse https://www.oio.news/p/3 [consulté le 28 juin 2026]
