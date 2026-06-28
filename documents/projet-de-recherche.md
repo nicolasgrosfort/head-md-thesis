@@ -117,6 +117,14 @@ Cette recherche s'appuie sur quatre démarches complémentaires afin d'explorer 
 | **Octobre**   | Écriture, mise en page                             | Présentation intermédiaire,<br>Dispositif web                                       | Genève       |
 | **Novembre**  | Relecture, finalisation                            | Présentation finale, 50'000 caractères                                              | Genève       |
 
+## Projet pratique
+
+Dans un second temps, cette recherche donnera lieu à une série de prototypes d'interfaces physiques mettant en scène des agents d'IA autonomes. Inspirés du concept de Large [Language Objects (LLO)](https://designintelligence.mit.edu/work/large-language-objects) et des principes de la [Calm Technology](https://calmtech.com), ces dispositifs chercheront à explorer d'autres modes de relation aux agents d'IA, en s'éloignant des métaphores conversationnelles, anthropomorphiques et hyper-productivistes qui structurent aujourd'hui la plupart de leurs usages.
+
+Cette exploration spéculative prendra la forme d'une série d'objets directement issus des réflexions théoriques développées dans ce mémoire. Elle cherchera notamment à interroger le statut même de ces agents : que sont-ils ? Quelle forme pourraient-ils prendre ? Ont-ils une [personnalité](https://soul.md) ? Quel rapport entretiennent-ils avec leurs semblables, voire eux-mêmes ?
+
+L'objectif de ce projet pratique sera donc d'interroger les formes de relation que nous entretenons aujourd'hui avec les agents d'IA et, plus largement, d'ouvrir des pistes de réflexion sur notre manière d'être en relation avec *l'autre*.
+
 ## Références
 
 ### Bibliographie
