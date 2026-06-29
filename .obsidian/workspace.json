@@ -6,7 +6,7 @@
       {
         "id": "256861b6051c954d",
         "type": "tabs",
-        "dimension": 16.153502900490853,
+        "dimension": 34.512922465208746,
         "children": [
           {
             "id": "8f6a272abbedf43e",
@@ -37,7 +37,7 @@
       {
         "id": "f5b8d3e84e8a5a2f",
         "type": "tabs",
-        "dimension": 35.07362784471218,
+        "dimension": 16.69980119284294,
         "children": [
           {
             "id": "dd38c7c43fd97041",
@@ -92,7 +92,7 @@
       {
         "id": "264ee0becd89c1b4",
         "type": "tabs",
-        "dimension": 48.772869254796966,
+        "dimension": 48.78727634194831,
         "children": [
           {
             "id": "95fae4bcec092824",
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2ce155ca947964e",
@@ -278,13 +279,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "95fae4bcec092824",
+  "active": "dd38c7c43fd97041",
   "lastOpenFiles": [
-    "documents/one-pager-fr.md",
     "documents/one-pager-en.md",
+    "documents/one-pager-fr.md",
+    "documents/projet-de-recherche.md",
     "readme.md",
     "documents/archives/projet-de-recherche-(déprécié).md",
-    "documents/projet-de-recherche.md",
     "assets/images/2026-06-26-techno-animism-emi-kusano-1.jpeg",
     "assets/images/2026-06-26-ming-shan-digital-experience-1.webp",
     "documents/archives",

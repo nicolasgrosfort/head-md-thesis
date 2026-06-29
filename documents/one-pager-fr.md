@@ -16,11 +16,11 @@ Juillet - Novembre 2026 · Genève & Kyoto
 
 *Spiritual Stochasticism* est un projet de recherche qui explore la manière dont les métaphores d'interface des agents d'IA autonomes - fondées sur un modèle conversationnel anthropomorphique et dont l'opacité s'étend à plusieurs niveaux - façonnent les imaginaires socio-techniques qui sous-tendent notre relation avec eux et, plus largement, notre manière d'être au monde.
 
-Plutôt que d'envisager l'opacité de ces systèmes comme un problème à résoudre, la recherche propose d'en faire le point de départ d'une exploration des formes de relation susceptibles d'émerger de l'*invisible*.
+Plutôt que d'envisager l'opacité de ces systèmes comme un problème à résoudre, la recherche propose d'en faire le point de départ d'une exploration des formes de relation susceptibles d'émerger de cet *invisible*.
 
 À partir d'une ontologie animiste, cette recherche propose de prendre le torii - porte des sanctuaires shinto - comme prisme pour explorer d'autres manières d'être en relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visibles ou maîtrisables.
 
-Menée entre Genève et Kyoto de juillet à novembre 2026, elle cherche à interroger ce que faire relation avec une altérité - qu'elle soit technique ou non - peut vouloir dire, en privilégiant l'attention, l'empathie et la présence plutôt que le contrôle et l'efficience.
+Mené entre Genève et Kyoto de juillet à novembre 2026, ce travail cherche à interroger ce que faire relation avec une altérité - qu'elle soit technique ou non - peut vouloir dire, en privilégiant l'attention, l'empathie et la présence plutôt que le contrôle et l'efficience.
 
 ## Question de recherche
 
@@ -62,7 +62,7 @@ Ginkaku-ji · Kōdai-ji · Shinjuan · mui LAB · Calm Tech Institute
 
 La restitution prendra la forme d'un dispositif web expérimental donnant accès aux observations, entretiens et journal de recherche, tout en explorant d'autres manières d'interagir avec un agent d'IA. Elle sera accompagnée d'un mémoire écrit de 50 000 signes. 
 
-Dans un second temps, une série de prototypes d'interfaces physiques - inspirés des Large Language Objects et de la Calm Technology - explorera d'autres formes de relation aux agents d'IA, en interrogeant leur statut, leur forme et leur personnalité, pour ouvrir des pistes de réflexion sur notre manière d'être en relation avec l'autre.
+Dans un second temps, une série de prototypes d'interfaces physiques - inspirés des *Large Language Objects* et de la *Calm Technology* - explorera d'autres formes de relation aux agents d'IA, en interrogeant leur statut, leur forme et leur personnalité, pour ouvrir des pistes de réflexion sur notre manière d'être en relation avec l'*autre*.
 # Références
 
 Une sélection des 10 références les plus pertinentes.

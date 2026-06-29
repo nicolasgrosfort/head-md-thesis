@@ -62,7 +62,7 @@ Ginkaku-ji · Kōdai-ji · Shinjuan · mui LAB · Calm Tech Institute
 
 The research will primarily take the form of an experimental web device giving access to observations, interviews and research journal, while exploring other ways of interacting with an AI agent. It will be accompanied by a written thesis of 50,000 characters.
 
-In a second phase, a series of physical interface prototypes - inspired by _Large Language Objects_ and _Calm Technology_ - will explore other forms of relation with AI agents, interrogating their status, form and personality, to open avenues for reflection on our way of being in relation with the other.
+In a second phase, a series of physical interface prototypes - inspired by *Large Language Objects* and *Calm Technology* - will explore other forms of relation with AI agents, interrogating their status, form and personality, to open avenues for reflection on our way of being in relation with the *other*.
 
 ## References
 
