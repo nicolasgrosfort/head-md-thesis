@@ -22,7 +22,7 @@ Depuis une quinzaine d'années, j'observe une forme d'instrumentalisation progre
 
 Cette logique d'optimisation a également marqué ma pratique de designer. Issu du design UI/UX, de la business analyse et du développement informatique, j'ai longtemps envisagé le design comme une démarche de résolution de problèmes : identifier un besoin, formuler une problématique, concevoir une solution, tester, itérer [^18]. Cette approche m'a conduit à concevoir des interfaces efficientes - *frictionless* - faisant peu à peu disparaître l'interaction et, avec elle, la part de réflexion inhérente aux gestes d'usage [^6].
 
-Aujourd'hui, je souhaite m'éloigner de cette quête d'efficience et explorer la possibilité de ré-enchanter ma pratique de designer, en imaginant d'autres manières de cohabiter avec la technologie [^19].
+Aujourd'hui, je souhaite m'éloigner de cette quête d'efficience et explorer la possibilité de ré-enchanter ma pratique de designer en imaginant de nouveaux récits susceptibles d'ouvrir d'autres manières de cohabiter avec la technologie [^19][^30].
 
 ## Constat
 
@@ -30,7 +30,7 @@ Cette quête d'efficience, dont je cherche aujourd'hui à m'éloigner, trouve un
 
 Derrière cette promesse de délégation subsistent plusieurs formes d'opacité - techniques, fonctionnelles mais aussi sémantiques [^3]. Ensemble, elles peuvent participer à une forme d'aliénation et, plus spécifiquement, à une paupérisation cognitive, linguistique et symbolique, conduisant à une standardisation progressive de nos manières d'agir et de penser [^2]. Mais ces opacités peuvent aussi nourrir des imaginaires et des projections anthropomorphiques, allant parfois même jusqu'à des phénomènes de paréidolie théologique [^1].
 
-À cet égard, la notion même d'"intelligence" (artificielle) contribue à l'émergence d'une confusion ontologique, dans la mesure où elle donne l'impression que la machine est un double de l'humain, ou peut-être - que l'humain est lui-même une machine [^7]. Une confusion confirmée par ce qui pourrait être un renversement du test de Turing : aujourd'hui, ce n'est plus la machine qui prouve son humanité, mais l'humain qui prouve qu'il n'est pas un bot [^21].
+À cet égard, la notion même d'"intelligence" (artificielle) contribue à l'émergence d'une confusion ontologique [^29], dans la mesure où elle donne l'impression que la machine est un double de l'humain, ou peut-être - que l'humain est lui-même une machine [^7]. Une confusion confirmée par ce qui pourrait être un renversement du test de Turing : aujourd'hui, ce n'est plus la machine qui prouve son humanité, mais l'humain qui prouve qu'il n'est pas un bot [^21].
 
 Plus encore, l'accès à ces agents est aujourd'hui presque toujours médié par un « chat », une interface initialement conçue pour les échanges entre humains. Fondée sur la métaphore de la conversation, cette interface projette un imaginaire humano-skeuomorphique [^8] en suggérant, là encore, présence d'un interlocuteur humain.
 
@@ -276,3 +276,7 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 [^27]: CASE, A. (SD). *Calmtech.com*. Disponible à l'adresse : https://calmtech.com [consulté le 04.05.2026]
 
 [^28]: CLAWD. (2025). *Soul.md*. Disponible à l'adresse : https://soul.md [consulté le 21.06.2026]
+
+[^29]: CASE, A. (2023). *Inside the Very Human Origin of the Term “Artificial Intelligence” — And Its Seven Decade Boom/Bust Cycle*.  Disponible à l'adresse : https://medium.com/block-science/inside-the-very-human-origin-of-the-term-artificial-intelligence-and-its-seven-decade-c36e0326245e [consulté le 04.04.2026]
+
+[^30]: SUPERRR. (2025). About AI and Unlikelihood. Disponible à l'adresse : https://superrr.net/en/blog/about-ai-and-unlikelihood [consulté le 27.05.2026]
