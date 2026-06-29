@@ -40,7 +40,7 @@ Plutôt que de considérer l'opacité comme un problème à résoudre, cette rec
 
 En effet, le monde est, lui aussi, traversé par des formes d'indétermination et d'imprévisibilité, qui peuvent s'apparenter à des formes d'opacité du réel. Cet *aléatoire* apparaît ainsi comme condition ontologique du vivant; une source de nouveauté et d'étrangeté à partir de laquelle des récits alternatifs peuvent émerger [^10]. Des récits qui aident à se raconter autrement et qui, pour permettre l'habitabilité du monde, invitent à prendre soin de l'autre - à développer cette capacité à accueillir l'altérité dans toute sa singularité [^22].
 
-L'ontologie animiste constitue alors un cadre d'analyse pertinent pour penser ce déplacement [^9]. En posant un monde constitué de relations plutôt que de catégories fixes, elle invite à dé-binariser notre lecture du réel et, ce faisant, à repenser notre rapport à l'altérité. Elle encourage à composer avec l'incertitude, à questionner comment habiter ces espaces d'opacités - ces interstices relationnels - et à caractériser notre relation à ces agents IA au-delà des frontières ontologiques dualistes traditionnelles entre l'humain et le non-humain, le vivant et l'inerte [^13].  
+L'ontologie animiste constitue alors un cadre d'analyse pertinent pour penser ce déplacement [^9]. En posant un monde constitué de relations plutôt que de catégories fixes, elle invite à dé-binariser notre lecture du réel et, ce faisant, à repenser notre rapport à l'altérité. Elle encourage à composer avec l'incertitude, à questionner comment habiter ces espaces d'opacités - ces interstices relationnels - et à caractériser notre relation à ces agents IA au-delà des frontières ontologiques dualistes traditionnelles [^13] : entre l'humain et le non-humain, le vivant et l'inerte, le soi et l'autre [^24].
 
 Dans quelle mesure l'intentionnalité, la singularité ou l'agentivité - attribuées à un système - pourrait-elle constituer une prise interprétative permettant de construire une relation plus réflexive avec la technologie [^12] ?
 
@@ -257,3 +257,5 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 [^22]: FLEURY, C. (2018). Ethique du care [vidéo]. Disponible à l'adresse : https://www.youtube.com/watch?v=RQF6s8NgeLU [consulté le 01.05.2026].
 
 [^23]: MYKHAYLYCHENKO, D., THASIN, M., BARADARI, D. (2025). A(I)nimism - Re-enchanting the World Through AI-Mediated Object Interaction. Disponible à l'adresse : https://arxiv.org/html/2509.25558v1 [consulté le 20.06.2026]
+
+[^24]: DEGUCHI, Y. (SD). Self as We and Its Implications for Our Ways of Life. Disponible à l'adresse : https://www.kyoto-u.ac.jp/sites/default/files/embed/enaboutevents_newsdepartmentkokoronews2018documents181118_103.pdf [consulté le 20.06.2026]
