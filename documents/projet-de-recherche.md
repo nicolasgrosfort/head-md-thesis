@@ -166,11 +166,13 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 
 ### Articles
 
-| **Référence**                                                                                                                                                                                                                             | **Auteur**                       | Domaine         | **Progression** |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------- | --------------- |
-| [L'hypothèse cybernétique](https://translationcollective.wordpress.com/wp-content/uploads/2012/06/cybernetique.pdf)                                                                                                                       | Igor Strakhniver                 | Cybernétique    | 0%              |
-| [Jin Shin Jyutsu](https://www.jinshinjyutsu-asso.fr/origine/)                                                                                                                                                                             | Jin Shin Jyutsu                  | Soin            | 0%              |
-| [Animistic Design - How to Reimagine Digital Interaction between the Human and the Nonhuman](https://www.researchgate.net/publication/296836038_Animistic_Design_How_to_Reimagine_Digital_Interaction_between_the_Human_and_the_Nonhuman) | Betti Marenko & Philip van Allen | Design animiste | 100%            |
+| **Référence**                                                                                                                                                                                                                             | **Auteur**                       | Domaine            | **Progression** |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------ | --------------- |
+| [Animistic Design - How to Reimagine Digital Interaction between the Human and the Nonhuman](https://www.researchgate.net/publication/296836038_Animistic_Design_How_to_Reimagine_Digital_Interaction_between_the_Human_and_the_Nonhuman) | Betti Marenko & Philip van Allen | Design animiste    | 100%            |
+| [L'hypothèse cybernétique](https://translationcollective.wordpress.com/wp-content/uploads/2012/06/cybernetique.pdf)                                                                                                                       | Igor Strakhniver                 | Cybernétique       | 0%              |
+| [Jin Shin Jyutsu](https://www.jinshinjyutsu-asso.fr/origine/)                                                                                                                                                                             | Jin Shin Jyutsu                  | Soin               | 0%              |
+| [Philippe Descola, Les formes du visible. Une anthropologie de la figuration](https://journals.openedition.org/lectures/56270)                                                                                                            | Corinne Delmas                   | Ontologie animiste | 0%              |
+| [Viveiros de Castro et le « multinaturalisme » amazonien](https://www.nonfiction.fr/article-12660-viveiros-de-castro-et-le-multinaturalisme-amazonien.htm)                                                                                | Christian Ruby                   | Ontologie animiste | 0%              |
 
 ### Filmographie
 
@@ -198,9 +200,11 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 | [Ming Shan Digital Experience](https://epfl-ecal-lab.ch/research-projects/ming-shan-digital-experience/)                                  | EPFL + ECAL Lab             | Mediation invisible | ![2026-06-26-ming-shan-digital-experience-1](../assets/images/2026-06-26-ming-shan-digital-experience-1.webp) |
 ### Jeux-vidéo
 
-| Référence                                                                      | Auteur                     | Domaine    | Image                                                                |
-| ------------------------------------------------------------------------------ | -------------------------- | ---------- | -------------------------------------------------------------------- |
-| [Little Computer People](https://en.wikipedia.org/wiki/Little_Computer_People) | David Crane &<br>Rich Gold | Simulation | ![Little Computer People](../assets/images/2026-06-26-little-computer-people-david-crane.png) |
+| Référence                                                                                                                                       | Auteur                     | Domaine                      | Image                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------------------------- | --------------------------------------------------------------------------------------------- |
+| [Little Computer People](https://en.wikipedia.org/wiki/Little_Computer_People)                                                                  | David Crane &<br>Rich Gold | Simulation anthropomorphique | ![Little Computer People](../assets/images/2026-06-26-little-computer-people-david-crane.png) |
+| [Claw 3D](https://www.claw3d.ai/?utm_campaign=a-world-inside-a-speaker&utm_medium=referral&utm_source=www.oio.news)                             | Luke The Dev               | Simulation anthropomorphique | ![](../assets/images/2026-06-29-claw-3d.png)                                                  |
+| [ChatDev](https://github.com/OpenBMB/ChatDev/tree/chatdev1.0?utm_campaign=a-world-inside-a-speaker&utm_medium=referral&utm_source=www.oio.news) | OpenBMB                    | Simulation anthropomorphique | ![](../assets/images/2026-06-29-chat-dev.png)                                                 |
 
 ### Lieux
 
