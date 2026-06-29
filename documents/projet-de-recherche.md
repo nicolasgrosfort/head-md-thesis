@@ -69,9 +69,9 @@ Ce travail propose alors de s'appuyer sur les formes de médiation observées da
 J'ai identifié trois niveaux de risque que je chercherai à rendre explicites tout au long de cette recherche afin d'en limiter les effets.
 
 1. **Le risque d'instrumentalisation**
-	Adopter une posture extractiviste en transformant l'ontologie animiste ou le torii en une simple boîte à outils de design.
+	Adopter une posture extractiviste en transformant l'ontologie animiste en une simple boîte à outils de design.
 2. **Le risque de projection**
-	Interpréter le sanctuaire shinto à travers mes propres catégories d'analyse et y voir uniquement la confirmation de mes hypothèses.
+	Interpréter le torii à travers mes propres catégories d'analyse et y voir uniquement la confirmation de mes hypothèses.
 3. **Le risque d'appropriation culturelle**
 	Réinterpréter une cosmologie existante à partir de catégories conceptuelles occidentales, au risque d'en déformer le sens.
 
