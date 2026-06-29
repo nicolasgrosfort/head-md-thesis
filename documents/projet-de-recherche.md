@@ -4,15 +4,17 @@ révision: 2026-06-26
 ---
 # Spiritual Stochasticism
 
+## TL;DR
+
 *Spiritual Stochasticism* est un projet de recherche mené par Nicolas Grosfort dans le cadre d'un Master en Media Design à la HEAD - Genève, sous la direction de Sabrina Calvo.
 
-Il explore la manière dont les métaphores d'interface, qui participent à l'opacification du fonctionnement des agents d'IA autonomes, façonnent les imaginaires socio-techniques qui sous-tendent notre relation avec eux.
+Il explore la manière dont les métaphores d'interface des agents d'IA autonomes - fondées sur un modèle conversationnel anthropomorphique et dont l'opacité s'étend à plusieurs niveaux - façonnent les imaginaires socio-techniques qui sous-tendent notre relation avec eux et, plus largement, notre manière d'être au monde.
 
-Plutôt que d'envisager cette opacité comme un problème à résoudre, la recherche propose de la considérer comme un espace relationnel susceptible d'ouvrir d'autres manières d'être présent au monde. 
+Plutôt que d'envisager l'opacité de ces systèmes comme un problème à résoudre, la recherche propose d'en faire le point de départ d'une exploration des formes de relation susceptibles d'émerger de l'*invisible*.
 
-À partir d'une ontologie animiste, cette recherche interroge la possibilité de concevoir des interfaces cultivant l'empathie, l'écoute et la présence plutôt que le contrôle et l'efficience.
+À partir d'une ontologie animiste, cette recherche propose de prendre le torii - porte des sanctuaires shinto - comme prisme pour explorer d'autres manières d'être en relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visibles ou maîtrisables.
 
-Menée entre Genève et Kyoto de juillet à novembre 2026, elle propose de prendre le sanctuaire shinto comme point de départ d'une réflexion visant à imaginer d'autres métaphores d'interface, en s'extrayant du modèle conversationnel anthropomorphique du « chat ».
+Menée entre Genève et Kyoto de juillet à novembre 2026, elle cherche à interroger ce que faire relation avec une altérité - qu'elle soit technique ou non - peut vouloir dire, en privilégiant l'attention, l'empathie et la présence plutôt que le contrôle et l'efficience.
 
 ## Point de départ
 
