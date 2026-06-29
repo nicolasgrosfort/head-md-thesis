@@ -4,6 +4,8 @@ révision: 2026-06-26
 ---
 # Spiritual Stochasticism
 
+*Projet de recherche*
+
 ## TL;DR
 
 *Spiritual Stochasticism* est un projet de recherche mené par Nicolas Grosfort dans le cadre d'un Master en Media Design à la HEAD - Genève, sous la direction de Sabrina Calvo.
