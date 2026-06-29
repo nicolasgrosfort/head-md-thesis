@@ -36,13 +36,20 @@ Ces différentes formes d'opacité, recouvertes d'un vernis anthropomorphique, i
 
 Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'en faire le point de départ d'une exploration des formes de relation susceptibles d'émerger de l'*invisible*. Ce déplacement invite à envisager un rapport à la technologie laissant une place à l'ambiguïté, à l'incertitude et l'aléatoire.
 
-En effet, le monde est, lui aussi, traversé par des formes d'opacité, d'indétermination et d'imprévisibilité, qui semblent par ailleurs constituer les conditions ontologiques du vivant.  Loin d'être un obstacle, celles-ci montrent qu'il est possible de composer avec une altérité qui n'a pas besoin d'être humanisée pour faire relation.
+En effet, le monde est, lui aussi, traversé par des formes d'indétermination et d'imprévisibilité, qui peuvent s'apparenter à des formes d'opacité du réel. Cet *aléatoire* apparaît ainsi comme condition ontologique du vivant, source de nouveauté et d'étrangeté à partir de laquelle des récits alternatifs peuvent émerger [^10].
 
-Ce faisant, l'ontologie animiste apparaît ici comme un cadre d'analyse particulièrement intéressant pour penser ce déplacement. Elle invite à composer avec l'incertitude, en considérant que l'intentionnalité, la singularité ou l'agentivité - attribuées à un système - pourraient constituer autant de prises interprétatives permettant de construire une relation plus réflexive avec la technologie.
+L'ontologie animiste constitue alors un cadre d'analyse pertinent pour penser ce déplacement [^9]. En posant un monde constitué de relations plutôt que de catégories fixes, elle invite à dé-binariser notre lecture du réel et, ce faisant, à repenser notre rapport à l'altérité. Elle encourage à composer avec l'incertitude, à questionner comment habiter ces espaces d'opacités - ces interstices relationnels - et à caractériser notre relation à ces agents IA au-delà des frontières ontologiques dualistes traditionnelles entre l'humain et le non-humain, le vivant et l'inerte [^13].  
 
-Dans cette perspective, le sanctuaire shinto constitue un terrain d'observation privilégié, dans la mesure où il organise une relation avec des phénomènes qui ne sont ni entièrement accessibles, ni totalement explicables ou maîtrisables.
+Dans quelle mesure l'intentionnalité, la singularité ou l'agentivité - attribuées à un système - constituent-elles autant de prises interprétatives permettant de construire une relation plus réflexive avec la technologie [^12] ?
 
-Cette recherche explore ainsi la possibilité de mobiliser les formes de médiation observées dans ces sanctuaires afin d'imaginer de nouvelles métaphores d'interface. Celles-ci s'inscriraient dans une ontologie relationnelle privilégiant l'attention, la curiosité, l'empathie et la présence plutôt que le contrôle, la délégation et l'efficience.
+Dans cette perspective, le torii - porte des sanctuaires shinto - pourrait constituer un terrain d'observation privilégié : il matérialise le seuil vers un espace où la pensée dualiste se suspend, où l'inanimé possède une forme d'agence, et où l'inconnu peut être rencontré dans toute son opacité [^11].
+
+Tout comme l'interface agit comme un portail qui donne accès à un nouvel espace au delà de l'écran [^14] - à travers les métaphores conceptuelles [^15] qu'elles mobilisent -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables ou maîtrisables. 
+
+Et si cela constituait une invitation à ré-enchanter notre rapport à la technologie - en apprenant à composer avec une altérité qui n'a pas besoin d'être humanisée pour faire relation ?
+  
+Cette recherche explore ainsi la possibilité de mobiliser les formes de médiation observées dans ces espaces liminaux afin d'imaginer de nouvelles métaphores d'interface. Celles-ci s'inscriraient dans une ontologie relationnelle privilégiant l'attention, la curiosité, l'empathie et la présence plutôt que le contrôle, la délégation et l'efficience. 
+
 ## Question de recherche
 
 **En quoi les métaphores d'interface des agents d'IA autonomes façonnent-elles notre manière d'être au monde, et comment une ontologie animiste permettrait-elle d'imaginer d'autres formes de relation avec la technologie ?**
@@ -145,6 +152,7 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 | [How to speak Machine](https://blackwells.co.uk/bookshop/product/How-to-Speak-Machine-by-John-Maeda/9780262553179)                                                                                                                                                                                                 | John Maeda                                             | Intelligence artificielle   | 100 %           |
 | [Kojiki](https://fr.wikipedia.org/wiki/Kojiki)                                                                                                                                                                                                                                                                     | Hieda no Are & Ō no Yasumaro                           | Mythes japonais             | 0%              |
 | [Le désert de nous-même](https://www.lechappee.org/collections/pour-en-finir-avec/le-desert-de-nous-memes)                                                                                                                                                                                                         | Eric Sadain                                            | Misère symbolique           | 0%              |
+| [Manifeste cyborg et autres essais sciences, fictions, féminismes](https://www.fr.fnac.ch/a1768690/Donna-Jeanne-Haraway-Manifeste-cyborg-et-autres-essais-sciences-fictions-feminismes)                                                                                                                            | Donna Jeanne Haraway                                   | Cyberféminisme              | 0%              |
 | [Persistance du merveilleux](https://www.lelivre.ch/Detail-persistance_du_merveilleux-4-9782850612473)                                                                                                                                                                                                             | Nicolas Nova                                           | Imaginaires technique       | 80 %            |
 | [Robopoiëse](https://editions-baconniere.ch/fr/catalogue/robopoieses)                                                                                                                                                                                                                                              | André Ourednik                                         | Intelligence Artificielle   | 20 %            |
 | [Schizophrénie numérique](https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique)                                                                                                                                                                                                                     | Anne Alombert                                          | Philosophie de la technique | 100 %           |
@@ -219,3 +227,17 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 [^7]: ALOMBERT, Anne. 2025. *De la bêtise artificielle*. Éditions Allia.
 
 [^8]: LOGLIO, M. (2026). _a world inside a speaker_. Oio News. Disponible à l'adresse https://www.oio.news/p/3 [consulté le 28 juin 2026]
+
+[^9]: MARENKO, B., VAN ALLEN, P. (2016). Animistic Design: How to Reimagine Digital Interaction between the Human and the Nonhuman. Disponible à l'adresse https://www.researchgate.net/publication/296836038_Animistic_Design_How_to_Reimagine_Digital_Interaction_between_the_Human_and_the_Nonhuman [consulté le w21.06.2026]
+
+[^10]: BRIDLE, James. 2024. *Toutes les intelligences du monde : Animaux, plantes, machines*.
+
+[^11]: YONEYAMA, S., SZORENYI, A., NURSEY-BRA, M. (2026). Animism meets posthumanism: reimagining the human–nature relationship through shrine gates (_torii_) in the works of Miyazaki Hayao and Shinkai Makoto. Disponible à l'adresse : https://www.tandfonline.com/doi/full/10.1080/09555803.2026.2613809 [consulté le 20.06.2026]
+
+[^12]: MARENKO, B. (2014). Neo-Animism and Design: A New Paradigm in Object Theory. Disponible à l'adresse : https://www.researchgate.net/publication/264711716_Neo-Animism_and_Design_A_New_Paradigm_in_Object_Theory [consulté le 21.06.2026]
+
+[^13]: HARAWAY, D. J. (2007). _Manifeste cyborg et autres essais : sciences, fictions, féminismes_. Exils Editeur.
+
+[^14]: MAUDET, Nolwenn, 2026. *Cultures du design numérique : Histoire des idées et enjeux contemporains*. Éditions 205.
+
+[^15]: KEROMNES, Yvon. 2013. Les Métaphores - et leur traduction - dans la vie quotidienne. *Revue SEPTET*, 5, pp.68-87. ⟨hal-00944651⟩
