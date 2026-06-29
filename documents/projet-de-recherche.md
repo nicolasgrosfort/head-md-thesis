@@ -22,13 +22,15 @@ Cette logique d'optimisation a également marqué ma pratique de designer. Issu 
 
 Aujourd'hui, je souhaite m'éloigner de cette quête d'efficience et explorer la possibilité de ré-enchanter ma pratique de designer, en imaginant d'autres manières de cohabiter avec la technologie [^19].
 
-## Constat et hypothèse
+## Constat
 
 Cette quête d'efficience, dont je cherche aujourd'hui à m'éloigner, trouve une incarnation particulièrement forte dans les agents d'IA autonomes. Conçus pour agir « à la place de », de manière toujours plus autonome, ils promettent de prendre en charge des tâches cognitives complexes, tout en se modelant progressivement à leurs utilisateurs [^20]. Ils constituent, en un sens, l'aboutissement d'un fantasme de liberté par délivrance, porté par une volonté de contrôle, de domination et d'hyper-productivité [^4].
 
 Derrière cette promesse de délégation subsistent plusieurs formes d'opacité - techniques, fonctionnelles mais aussi sémantiques [^3]. Ensemble, elles peuvent participer à une forme d'aliénation et, plus spécifiquement, à une paupérisation cognitive, linguistique et symbolique, conduisant à une standardisation progressive de nos manières d'agir et de penser[^2]. Mais ces opacités peuvent aussi nourrir des imaginaires et des projections anthropomorphiques, allant parfois même jusqu'à des phénomènes de paréidolie théologique [^1].
 
-À cet égard, la notion même d'"intelligence" (artificielle) contribue à l'émergence d'une confusion ontologique, dans la mesure ou elle donne l'impression que la machine est un double de l'humain, ou peut-être - que l'humain est lui-même une machine[^7]. Plus encore, l'accès à ces agents est aujourd'hui presque toujours médié par un « chat », une interface initialement conçue pour les échanges entre humains. Fondée sur la métaphore de la conversation, cette interface projette un imaginaire humano-skeuomorphique [^8] en suggérant, là encore, présence d'un interlocuteur humain.
+À cet égard, la notion même d'"intelligence" (artificielle) contribue à l'émergence d'une confusion ontologique, dans la mesure ou elle donne l'impression que la machine est un double de l'humain, ou peut-être - que l'humain est lui-même une machine[^7]. Une hypothèse que confirme, à sa manière, le renversement du test de Turing : aujourd'hui, ce n'est plus la machine qui prouve son humanité, mais l'humain qui prouve qu'il n'est pas un bot [^21].
+
+Plus encore, l'accès à ces agents est aujourd'hui presque toujours médié par un « chat », une interface initialement conçue pour les échanges entre humains. Fondée sur la métaphore de la conversation, cette interface projette un imaginaire humano-skeuomorphique [^8] en suggérant, là encore, présence d'un interlocuteur humain.
 
 Ces différentes formes d'opacité, recouvertes d'un vernis anthropomorphique, influencent alors notre manière d'être en relation avec ces systèmes. Dès lors, dans quelle mesure cette relation, façonnée par une logique d'efficience, de domination et de contrôle, est-elle susceptible de reconfigurer notre rapport à l'altérité ? Que se passerait-il si nous appréhendions les agents d'IA autrement qu'à travers des métaphores anthropomorphiques ?
 
@@ -249,3 +251,5 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 [^19]: MASURE, Anthony, 2001. *Panne des imaginaires technologiques ou design pour un monde réel ?*. [en ligne]. 1 mai 2001. Disponible à l'adresse : https://www.anthonymasure.com/articles/2017-09-panne-imaginaires-technologiques-design-monde-reel
 
 [^20]: NOUS RESEARCH. (2026). The agent that grow with you. Disponible à l'adresse : https://hermes-agent.nousresearch.com/ [consulté le 20.06.2026]
+
+[^21]: CLOUDFLARE. (2026). Avantages du service Cloudflare Turnstile. Disponible à l'adresse: https://www.cloudflare.com/fr-fr/application-services/products/turnstile/ [consulté le 29.06.2026]
