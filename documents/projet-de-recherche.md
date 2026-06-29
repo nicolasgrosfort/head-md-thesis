@@ -38,7 +38,7 @@ Ces différentes formes d'opacité, recouvertes d'un vernis anthropomorphique, i
 
 Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'en faire le point de départ d'une exploration des formes de relation susceptibles d'émerger de l'*invisible*. Ce déplacement invite à envisager un rapport à la technologie laissant une place à l'ambiguïté, l'incertitude et l'aléatoire.
 
-En effet, le monde est, lui aussi, traversé par des formes d'indétermination et d'imprévisibilité, qui peuvent s'apparenter à des formes d'opacité du réel. Cet *aléatoire* apparaît ainsi comme condition ontologique du vivant; une source de nouveauté et d'étrangeté à partir de laquelle des récits alternatifs peuvent émerger [^10].
+En effet, le monde est, lui aussi, traversé par des formes d'indétermination et d'imprévisibilité, qui peuvent s'apparenter à des formes d'opacité du réel. Cet *aléatoire* apparaît ainsi comme condition ontologique du vivant; une source de nouveauté et d'étrangeté à partir de laquelle des récits alternatifs peuvent émerger [^10]. Des récits qui aident à se raconter autrement et qui, pour permettre l'habitabilité du monde, invitent à prendre soin de l'autre - à développer cette capacité à accueillir l'altérité dans toute sa singularité [^22].
 
 L'ontologie animiste constitue alors un cadre d'analyse pertinent pour penser ce déplacement [^9]. En posant un monde constitué de relations plutôt que de catégories fixes, elle invite à dé-binariser notre lecture du réel et, ce faisant, à repenser notre rapport à l'altérité. Elle encourage à composer avec l'incertitude, à questionner comment habiter ces espaces d'opacités - ces interstices relationnels - et à caractériser notre relation à ces agents IA au-delà des frontières ontologiques dualistes traditionnelles entre l'humain et le non-humain, le vivant et l'inerte [^13].  
 
@@ -48,7 +48,7 @@ Dans cette perspective, le torii - porte des sanctuaires shinto - apparaît comm
 
 Tout comme l'interface agit comme un portail qui donne accès à un nouvel espace au delà de l'écran [^14] - à travers les métaphores conceptuelles qu'elles mobilisent [^15] -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables ou maîtrisables.
   
-Cette recherche s'appuie sur les formes de médiation observées dans ces espaces liminaux pour laisser émerger d'autres manières de faire relation avec la technologie - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, celles-ci privilégieraient l'attention, la curiosité, l'empathie et la présence plutôt que l'efficience, la délégation et le contrôle.
+Cette recherche s'appuie sur les formes de médiation observées dans ces espaces liminaux [^23] pour laisser émerger d'autres manières de faire relation avec la technologie - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, celles-ci privilégieraient l'attention, la curiosité, l'empathie et la présence plutôt que l'efficience, la délégation et le contrôle.
 
 ## Question de recherche
 
@@ -253,3 +253,7 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 [^20]: NOUS RESEARCH. (2026). The agent that grow with you. Disponible à l'adresse : https://hermes-agent.nousresearch.com/ [consulté le 20.06.2026]
 
 [^21]: CLOUDFLARE. (2026). Avantages du service Cloudflare Turnstile. Disponible à l'adresse: https://www.cloudflare.com/fr-fr/application-services/products/turnstile/ [consulté le 29.06.2026]
+
+[^22]: FLEURY, C. (2018). Ethique du care [vidéo]. Disponible à l'adresse : https://www.youtube.com/watch?v=RQF6s8NgeLU [consulté le 01.05.2026].
+
+[^23]: MYKHAYLYCHENKO, D., THASIN, M., BARADARI, D. (2025). A(I)nimism - Re-enchanting the World Through AI-Mediated Object Interaction. Disponible à l'adresse : https://arxiv.org/html/2509.25558v1 [consulté le 20.06.2026]
