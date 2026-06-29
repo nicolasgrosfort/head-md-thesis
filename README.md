@@ -4,8 +4,11 @@ Projet de recherche mené par Nicolas Grosfort dans le cadre d'un Master en Medi
 
 ## Index
 
-1. [Projet de recherche](documents/projet-de-recherche.md)
+- [One pager (en)](documents/one-pager-en.md)
+- [One pager (fr)](documents/one-pager-fr.md)
+
+- [Projet de recherche](documents/projet-de-recherche.md)
 
 ## Archives
 
-1. [Projet de recherche (déprécié)](documents/archives/projet-de-recherche-(déprécié).md)
+-  [Projet de recherche (déprécié)](documents/archives/projet-de-recherche-(déprécié).md)
