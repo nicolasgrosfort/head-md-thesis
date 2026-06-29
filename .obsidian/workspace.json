@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "documents/one-pager-fr.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "one-pager-fr"
             }
           },
           {
@@ -278,11 +278,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd38c7c43fd97041",
+  "active": "95fae4bcec092824",
   "lastOpenFiles": [
+    "documents/one-pager-fr.md",
     "documents/one-pager-en.md",
     "readme.md",
-    "documents/one-pager-fr.md",
     "documents/archives/projet-de-recherche-(déprécié).md",
     "documents/projet-de-recherche.md",
     "assets/images/2026-06-26-techno-animism-emi-kusano-1.jpeg",

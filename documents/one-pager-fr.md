@@ -6,15 +6,11 @@ révision: 2026-06-29
 
 *One pager* [FR]
 
----
-
 Master en Media Design · HEAD Genève
 Nicolas Grosfort · Sous la direction de Sabrina Calvo
 Juillet - Novembre 2026 · Genève & Kyoto
 
 [Projet de recherche complet (FR)](projet-de-recherche.md)
-
----
 
 ## Résumé
 
@@ -84,8 +80,6 @@ Une sélection des 10 références les plus pertinentes.
 | [Animistic Design - How to Reimagine Digital Interaction between the Human and the Nonhuman](https://www.researchgate.net/publication/296836038_Animistic_Design_How_to_Reimagine_Digital_Interaction_between_the_Human_and_the_Nonhuman) | Betti Marenko & Philip van Allen | Design animiste           | Article  |
 | [L'hypothèse cybernétique](https://translationcollective.wordpress.com/wp-content/uploads/2012/06/cybernetique.pdf)                                                                                                                       | Igor Strakhniver                 | Cybernétique              | Article  |
 
----
-
-**Mots clés**
+## Mots clés
 
 Ontologie animiste · Ontologie relationnelle · Agents d'IA autonomes · Métaphores d'interface · Opacité · Altérité · Imaginaires sociotechniques · Torii · Espace liminal · Éthique du care · Design spéculatif · Auto-ethnographie · Recherche située · Stochasticisme · Médiation · Présence · Shinto · Calm technology

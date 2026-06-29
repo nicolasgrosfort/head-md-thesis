@@ -6,15 +6,11 @@ révision: 2026-06-29
 
 *One pager* [EN]
 
----
-
 Master in Media Design · HEAD Geneva
 Nicolas Grosfort · Supervised by Sabrina Calvo
 July - November 2026 · Geneva & Kyoto
 
 [Full research project(FR)](projet-de-recherche.md)
-
----
 
 ## Summary
 
@@ -85,8 +81,6 @@ A selection of the 10 most relevant references.
 | [Animistic Design - How to Reimagine Digital Interaction between the Human and the Nonhuman](https://www.researchgate.net/publication/296836038_Animistic_Design_How_to_Reimagine_Digital_Interaction_between_the_Human_and_the_Nonhuman) | Betti Marenko & Philip van Allen | Animist design          | Article  |
 | [The Cybernetic Hypothesis](https://translationcollective.wordpress.com/wp-content/uploads/2012/06/cybernetique.pdf)                                                                                                                      | Igor Strakhniver                 | Cybernetics             | Article  |
 
----
-
-**Keywords**
+## Keywords
 
 Animist ontology · Relational ontology · Autonomous AI agents · Interface metaphors · Opacity · Alterity · Sociotechnical imaginaries · Torii · Liminal space · Care ethics · Speculative design · Auto-ethnography · Situated research · Stochasticism · Mediation · Presence · Shinto · Calm technology
