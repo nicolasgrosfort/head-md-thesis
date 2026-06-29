@@ -80,13 +80,13 @@ J'ai identifié trois niveaux de risque que je chercherai à rendre explicites t
 Cette recherche s'appuie sur quatre démarches complémentaires afin d'explorer comment le design peut proposer d'autres manières de cohabiter avec la technologie.
 
 1. **Une pratique réflexive** 
-	Interagir quotidiennement avec un agent d'IA autonome (Hermès) afin d'observer comment l'incertitude, l'aléatoire et l'opacité de son fonctionnement participent à l'émergence de formes de relation.
+	Interagir quotidiennement avec un agent d'IA autonome (Hermès) afin d'observer comment l'incertitude, l'aléatoire et l'opacité de son fonctionnement participent à l'émergence de formes de relation. Cette expérimentation cherchera notamment à mettre en jeu les dimensions stochastiques de l'agent comme des occasions d'interprétation, de projection et de déplacement ontologique.
 	Documenter cette démarche par un journal réflexif en mobilisant une approche auto-ethnographique.
 2. **Une immersion située**
 	Mener une pratique hebdomadaire au Dojo Zen (Genève), puis au Ginkaku-ji (Kyoto), afin d'explorer les formes d'attention, de présence et de relation qui émergent de ces lieux, en s'ouvrant à ce qu'ils donnent à voir et à ressentir.
 	Documenter cette démarche par un journal réflexif en mobilisant une approche auto-ethnographique.
 3. **Une observation de terrain**
-	Observer et documenter le torii - son architecture, ses usages, les interactions et les formes de médiation qu'il organise — afin de comprendre comment il organise les relations entre humains, objets, espaces, rites et phénomènes.
+	Observer et documenter le torii - son architecture, ses usages, les interactions et les formes de médiation qu'il organise — afin de comprendre comment il organise les relations entre humains, objets, espaces, rites et phénomènes, ainsi que les *scripts* inscrits dans ces dispositifs.
 	Cartographier les relations observées à partir de notes, de photographies, d'enregistrements sonores, de scans 3D et de relevés in situ. Ces matériaux alimenteront une cartographie relationnelle inspirée de la théorie de l'acteur-réseau, utilisée comme outil d'analyse.
 4. **Une démarche de conception**
 	Prototyper des métaphores d'interface alternatives afin d'explorer les formes de relation qu'elles rendent possibles.
