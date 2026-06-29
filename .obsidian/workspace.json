@@ -87,8 +87,7 @@
               "title": "one-pager-fr"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "264ee0becd89c1b4",
@@ -279,12 +278,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ff9e8a3fc865a169",
+  "active": "dd38c7c43fd97041",
   "lastOpenFiles": [
     "documents/one-pager-en.md",
+    "readme.md",
     "documents/one-pager-fr.md",
     "documents/archives/projet-de-recherche-(déprécié).md",
-    "readme.md",
     "documents/projet-de-recherche.md",
     "assets/images/2026-06-26-techno-animism-emi-kusano-1.jpeg",
     "assets/images/2026-06-26-ming-shan-digital-experience-1.webp",
