@@ -48,7 +48,9 @@ Dans cette perspective, le torii - porte des sanctuaires shinto - apparaît comm
 
 Tout comme l'interface agit comme un portail qui donne accès à un nouvel espace au delà de l'écran [^14] - à travers les métaphores conceptuelles qu'elles mobilisent [^15] -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables ou maîtrisables.
   
-Cette recherche s'appuie sur les formes de médiation observées dans ces espaces liminaux [^23] pour laisser émerger d'autres manières de faire relation avec la technologie - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, celles-ci privilégieraient l'attention, la curiosité, l'empathie et la présence plutôt que l'efficience, la délégation et le contrôle.
+Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux [^23] pour laisser émerger d'autres manières de faire relation avec la technologie. Ancrées dans une ontologie relationnelle, celles-ci privilégieraient l'attention, la curiosité, l'empathie et la présence plutôt que l'efficience, la délégation et le contrôle.
+
+Il serait alors légitime de s'interroger sur la nécessité même de faire relation avec ces systèmes. La réponse pourrait être non. Pourtant, l'intelligence artificielle est désormais omniprésente, et il paraît difficile d'y répondre par le choix de la non-puissance [^25]. Plutôt que de s'y soustraire, cette recherche choisit d'en faire une opportunité : celle d'interroger ce que faire relation avec une altérité - qu'elle soit technique ou non - peut vouloir dire.
 
 ## Question de recherche
 
@@ -259,3 +261,5 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 [^23]: MYKHAYLYCHENKO, D., THASIN, M., BARADARI, D. (2025). A(I)nimism - Re-enchanting the World Through AI-Mediated Object Interaction. Disponible à l'adresse : https://arxiv.org/html/2509.25558v1 [consulté le 20.06.2026]
 
 [^24]: DEGUCHI, Y. (SD). Self as We and Its Implications for Our Ways of Life. Disponible à l'adresse : https://www.kyoto-u.ac.jp/sites/default/files/embed/enaboutevents_newsdepartmentkokoronews2018documents181118_103.pdf [consulté le 20.06.2026]
+
+[^25]: LARMAGNAC-MATHERON, O. (2024). Comprendre le “système technicien” de Jacques Ellul, disparu il y a trente ans. Disponible à l'adresse : https://www.philomag.com/articles/comprendre-le-systeme-technicien-de-jacques-ellul-disparu-il-y-trente-ans [consulté le 21.10.2025]
