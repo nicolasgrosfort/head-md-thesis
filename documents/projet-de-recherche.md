@@ -28,7 +28,7 @@ Cette quête d'efficience, dont je cherche aujourd'hui à m'éloigner, trouve un
 
 Derrière cette promesse de délégation subsistent plusieurs formes d'opacité - techniques, fonctionnelles mais aussi sémantiques [^3]. Ensemble, elles peuvent participer à une forme d'aliénation et, plus spécifiquement, à une paupérisation cognitive, linguistique et symbolique, conduisant à une standardisation progressive de nos manières d'agir et de penser[^2]. Mais ces opacités peuvent aussi nourrir des imaginaires et des projections anthropomorphiques, allant parfois même jusqu'à des phénomènes de paréidolie théologique [^1].
 
-À cet égard, la notion même d'"intelligence" (artificielle) contribue à l'émergence d'une confusion ontologique, dans la mesure ou elle donne l'impression que la machine est un double de l'humain, ou peut-être - que l'humain est lui-même une machine[^7]. Une hypothèse que confirme, à sa manière, le renversement du test de Turing : aujourd'hui, ce n'est plus la machine qui prouve son humanité, mais l'humain qui prouve qu'il n'est pas un bot [^21].
+À cet égard, la notion même d'"intelligence" (artificielle) contribue à l'émergence d'une confusion ontologique, dans la mesure ou elle donne l'impression que la machine est un double de l'humain, ou peut-être - que l'humain est lui-même une machine[^7]. Une confusion confirmée par ce qui pourrait être un renversement du test de Turing : aujourd'hui, ce n'est plus la machine qui prouve son humanité, mais l'humain qui prouve qu'il n'est pas un bot [^21].
 
 Plus encore, l'accès à ces agents est aujourd'hui presque toujours médié par un « chat », une interface initialement conçue pour les échanges entre humains. Fondée sur la métaphore de la conversation, cette interface projette un imaginaire humano-skeuomorphique [^8] en suggérant, là encore, présence d'un interlocuteur humain.
 
@@ -36,21 +36,21 @@ Ces différentes formes d'opacité, recouvertes d'un vernis anthropomorphique, i
 
 ## Déplacement ontologique
 
-Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'en faire le point de départ d'une exploration des formes de relation susceptibles d'émerger de l'*invisible*. Ce déplacement invite à envisager un rapport à la technologie laissant une place à l'ambiguïté, l'incertitude et l'aléatoire.
+Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'en faire le point de départ d'une exploration des formes de relation susceptibles d'émerger de l'*invisible*. Ce déplacement invite à envisager un rapport à la technologie laissant une place à l'ambiguïté, à l'incertitude et à l'aléatoire.
 
-En effet, le monde est, lui aussi, traversé par des formes d'indétermination et d'imprévisibilité, qui peuvent s'apparenter à des formes d'opacité du réel. Cet *aléatoire* apparaît ainsi comme condition ontologique du vivant; une source de nouveauté et d'étrangeté à partir de laquelle des récits alternatifs peuvent émerger [^10]. Des récits qui aident à se raconter autrement et qui, pour permettre l'habitabilité du monde, invitent à prendre soin de l'autre - à développer cette capacité à accueillir l'altérité dans toute sa singularité [^22].
+En effet, le monde est, lui aussi, traversé par des formes d'indétermination et d'imprévisibilité, qui peuvent s'apparenter à des formes d'opacité du réel. Cet *aléatoire* apparaît ainsi comme condition ontologique du vivant; une source de nouveauté et d'étrangeté à partir de laquelle des récits alternatifs peuvent émerger [^10]. Des récits qui aident à (se) raconter autrement et qui, pour tenter de maintenir l'habitabilité du monde, invitent à prendre soin de l'autre - à développer cette capacité à accueillir l'altérité dans toute sa singularité [^22].
 
 L'ontologie animiste constitue alors un cadre d'analyse pertinent pour penser ce déplacement [^9]. En posant un monde constitué de relations plutôt que de catégories fixes, elle invite à dé-binariser notre lecture du réel et, ce faisant, à repenser notre rapport à l'altérité. Elle encourage à composer avec l'incertitude, à questionner comment habiter ces espaces d'opacités - ces interstices relationnels - et à caractériser notre relation à ces agents IA au-delà des frontières ontologiques dualistes traditionnelles [^13] : entre l'humain et le non-humain, le vivant et l'inerte, le soi et l'autre [^24].
 
-Dans quelle mesure l'intentionnalité, la singularité ou l'agentivité - attribuées à un système - pourrait-elle constituer une prise interprétative permettant de construire une relation plus réflexive avec la technologie [^12] ?
+Dans quelle mesure alors l'intentionnalité, la singularité ou l'agentivité - attribuées à un système - pourrait-elle constituer une prise interprétative permettant de construire une relation plus réflexive avec la technologie [^12] ?
+
+À ce stade, il serait alors légitime de s'interroger sur la nécessité même de faire relation avec ces systèmes. La réponse pourrait être non. Pourtant, l'intelligence artificielle est désormais omniprésente, et il paraît difficile d'y répondre par la voie de la non-puissance [^25]. Plutôt que de s'y soustraire, cette recherche choisit d'en faire une opportunité : celle d'interroger ce que faire relation avec une altérité - qu'elle soit technique ou non - peut vouloir dire.
 
 Dans cette perspective, le torii - porte des sanctuaires shinto - apparaît comme un terrain d'observation privilégié : il matérialise le seuil vers un espace où la pensée dualiste se suspend, où l'inanimé possède une forme d'agence, et où l'inconnu peut être rencontré dans toute son opacité [^11].
 
-Tout comme l'interface agit comme un portail qui donne accès à un nouvel espace au delà de l'écran [^14] - à travers les métaphores conceptuelles qu'elles mobilisent [^15] -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables ou maîtrisables.
+Tout comme l'interface qui agit comme un portail donnant accès à un nouvel espace au delà de l'écran [^14] - à travers les métaphores conceptuelles qu'elles mobilisent [^15] -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visible ou maîtrisables.
   
-Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux [^23] pour laisser émerger d'autres manières de faire relation avec la technologie. Ancrées dans une ontologie relationnelle, celles-ci privilégieraient l'attention, la curiosité, l'empathie et la présence plutôt que l'efficience, la délégation et le contrôle.
-
-Il serait alors légitime de s'interroger sur la nécessité même de faire relation avec ces systèmes. La réponse pourrait être non. Pourtant, l'intelligence artificielle est désormais omniprésente, et il paraît difficile d'y répondre par le choix de la non-puissance [^25]. Plutôt que de s'y soustraire, cette recherche choisit d'en faire une opportunité : celle d'interroger ce que faire relation avec une altérité - qu'elle soit technique ou non - peut vouloir dire.
+Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux [^23] pour laisser émerger d'autres manières de faire relation avec la technologie - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, celle-ci privilégierait l'attention, la curiosité, l'empathie et la présence plutôt que l'efficience, la délégation et le contrôle.
 
 ## Question de recherche
 
