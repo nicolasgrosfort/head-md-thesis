@@ -16,17 +16,17 @@ Menée entre Genève et Kyoto de juillet à novembre 2026, elle propose de prend
 
 ## Point de départ
 
-Depuis une quinzaine d'années, j'observe une forme d'instrumentalisation progressive de mon quotidien, résultant de l'usage d'outils numériques professionnels pour organiser ma vie privée. Hérités d'un fantasme cybernéticien fondé sur une volonté de contrôler le vivant [^5], ces dispositifs ont progressivement modifié ma présence au monde, façonnant un rapport à l'existence centré sur la résolution de problèmes.
+Depuis une quinzaine d'années, j'observe une forme d'instrumentalisation progressive de mon quotidien, résultant de l'usage d'outils numériques professionnels pour organiser ma vie privée [^16]. Hérités d'un fantasme cybernéticien fondé sur une volonté de contrôler le vivant [^5], ces dispositifs ont progressivement modifié ma présence au monde, façonnant un rapport à l'existence centré sur la résolution de problèmes [^17].
 
-Cette logique d'optimisation a également marqué ma pratique de designer. Issu du design UI/UX, de la business analyse et du développement informatique, j'ai longtemps envisagé le design comme une démarche de résolution de problèmes : identifier un besoin, formuler une problématique, concevoir une solution, tester, itérer. Cette approche m'a conduit à concevoir des interfaces efficientes - *frictionless* - faisant peu à peu disparaître l'interaction et, avec elle, la part de réflexion inhérente aux gestes d'usage [^6].
+Cette logique d'optimisation a également marqué ma pratique de designer. Issu du design UI/UX, de la business analyse et du développement informatique, j'ai longtemps envisagé le design comme une démarche de résolution de problèmes : identifier un besoin, formuler une problématique, concevoir une solution, tester, itérer [^18]. Cette approche m'a conduit à concevoir des interfaces efficientes - *frictionless* - faisant peu à peu disparaître l'interaction et, avec elle, la part de réflexion inhérente aux gestes d'usage [^6].
 
-Aujourd'hui, je souhaite m'éloigner de cette quête d'efficience et explorer la possibilité de ré-enchanter ma pratique de designer, en imaginant d'autres manières de cohabiter avec la technologie.
+Aujourd'hui, je souhaite m'éloigner de cette quête d'efficience et explorer la possibilité de ré-enchanter ma pratique de designer, en imaginant d'autres manières de cohabiter avec la technologie [^19].
 
 ## Constat et hypothèse
 
-Cette quête d'efficience, dont je cherche aujourd'hui à m'éloigner, trouve une incarnation particulièrement forte dans les agents d'IA autonomes. Conçus pour agir « à la place de », de manière toujours plus autonome, ils promettent de prendre en charge des tâches cognitives complexes, tout en se modelant progressivement sur leurs utilisateurs. Ils constituent, en un sens, l'aboutissement d'un fantasme de liberté par délivrance [^4], porté par une volonté de contrôle, de domination et d'hyper-productivité.
+Cette quête d'efficience, dont je cherche aujourd'hui à m'éloigner, trouve une incarnation particulièrement forte dans les agents d'IA autonomes. Conçus pour agir « à la place de », de manière toujours plus autonome, ils promettent de prendre en charge des tâches cognitives complexes, tout en se modelant progressivement à leurs utilisateurs [^20]. Ils constituent, en un sens, l'aboutissement d'un fantasme de liberté par délivrance, porté par une volonté de contrôle, de domination et d'hyper-productivité [^4].
 
-Derrière cette promesse de délégation subsistent plusieurs formes d'opacité - techniques, fonctionnelles mais aussi sémantiques [^3]. Ensemble, elles peuvent participer à une forme d'aliénation et, plus spécifiquement, à une paupérisation cognitive, linguistique et symbolique, conduisant à une standardisation progressive de nos manières d'agir et de penser[^2]. Mais elles peuvent aussi nourrir des imaginaires et des projections anthropomorphiques, allant parfois même jusqu'à des phénomènes de paréidolie théologique [^1].
+Derrière cette promesse de délégation subsistent plusieurs formes d'opacité - techniques, fonctionnelles mais aussi sémantiques [^3]. Ensemble, elles peuvent participer à une forme d'aliénation et, plus spécifiquement, à une paupérisation cognitive, linguistique et symbolique, conduisant à une standardisation progressive de nos manières d'agir et de penser[^2]. Mais ces opacités peuvent aussi nourrir des imaginaires et des projections anthropomorphiques, allant parfois même jusqu'à des phénomènes de paréidolie théologique [^1].
 
 À cet égard, la notion même d'"intelligence" (artificielle) contribue à l'émergence d'une confusion ontologique, dans la mesure ou elle donne l'impression que la machine est un double de l'humain, ou peut-être - que l'humain est lui-même une machine[^7]. Plus encore, l'accès à ces agents est aujourd'hui presque toujours médié par un « chat », une interface initialement conçue pour les échanges entre humains. Fondée sur la métaphore de la conversation, cette interface projette un imaginaire humano-skeuomorphique [^8] en suggérant, là encore, présence d'un interlocuteur humain.
 
@@ -34,21 +34,19 @@ Ces différentes formes d'opacité, recouvertes d'un vernis anthropomorphique, i
 
 ## Déplacement ontologique
 
-Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'en faire le point de départ d'une exploration des formes de relation susceptibles d'émerger de l'*invisible*. Ce déplacement invite à envisager un rapport à la technologie laissant une place à l'ambiguïté, à l'incertitude et l'aléatoire.
+Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'en faire le point de départ d'une exploration des formes de relation susceptibles d'émerger de l'*invisible*. Ce déplacement invite à envisager un rapport à la technologie laissant une place à l'ambiguïté, l'incertitude et l'aléatoire.
 
-En effet, le monde est, lui aussi, traversé par des formes d'indétermination et d'imprévisibilité, qui peuvent s'apparenter à des formes d'opacité du réel. Cet *aléatoire* apparaît ainsi comme condition ontologique du vivant, source de nouveauté et d'étrangeté à partir de laquelle des récits alternatifs peuvent émerger [^10].
+En effet, le monde est, lui aussi, traversé par des formes d'indétermination et d'imprévisibilité, qui peuvent s'apparenter à des formes d'opacité du réel. Cet *aléatoire* apparaît ainsi comme condition ontologique du vivant; une source de nouveauté et d'étrangeté à partir de laquelle des récits alternatifs peuvent émerger [^10].
 
 L'ontologie animiste constitue alors un cadre d'analyse pertinent pour penser ce déplacement [^9]. En posant un monde constitué de relations plutôt que de catégories fixes, elle invite à dé-binariser notre lecture du réel et, ce faisant, à repenser notre rapport à l'altérité. Elle encourage à composer avec l'incertitude, à questionner comment habiter ces espaces d'opacités - ces interstices relationnels - et à caractériser notre relation à ces agents IA au-delà des frontières ontologiques dualistes traditionnelles entre l'humain et le non-humain, le vivant et l'inerte [^13].  
 
-Dans quelle mesure l'intentionnalité, la singularité ou l'agentivité - attribuées à un système - constituent-elles autant de prises interprétatives permettant de construire une relation plus réflexive avec la technologie [^12] ?
+Dans quelle mesure l'intentionnalité, la singularité ou l'agentivité - attribuées à un système - pourrait-elle constituer une prise interprétative permettant de construire une relation plus réflexive avec la technologie [^12] ?
 
-Dans cette perspective, le torii - porte des sanctuaires shinto - pourrait constituer un terrain d'observation privilégié : il matérialise le seuil vers un espace où la pensée dualiste se suspend, où l'inanimé possède une forme d'agence, et où l'inconnu peut être rencontré dans toute son opacité [^11].
+Dans cette perspective, le torii - porte des sanctuaires shinto - apparaît comme un terrain d'observation privilégié : il matérialise le seuil vers un espace où la pensée dualiste se suspend, où l'inanimé possède une forme d'agence, et où l'inconnu peut être rencontré dans toute son opacité [^11].
 
-Tout comme l'interface agit comme un portail qui donne accès à un nouvel espace au delà de l'écran [^14] - à travers les métaphores conceptuelles [^15] qu'elles mobilisent -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables ou maîtrisables. 
-
-Et si cela constituait une invitation à ré-enchanter notre rapport à la technologie - en apprenant à composer avec une altérité qui n'a pas besoin d'être humanisée pour faire relation ?
+Tout comme l'interface agit comme un portail qui donne accès à un nouvel espace au delà de l'écran [^14] - à travers les métaphores conceptuelles qu'elles mobilisent [^15] -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables ou maîtrisables.
   
-Cette recherche explore ainsi la possibilité de mobiliser les formes de médiation observées dans ces espaces liminaux afin d'imaginer de nouvelles métaphores d'interface. Celles-ci s'inscriraient dans une ontologie relationnelle privilégiant l'attention, la curiosité, l'empathie et la présence plutôt que le contrôle, la délégation et l'efficience. 
+Cette recherche s'appuie sur les formes de médiation observées dans ces espaces liminaux pour laisser émerger d'autres manières de faire relation avec la technologie - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, celles-ci privilégieraient l'attention, la curiosité, l'empathie et la présence plutôt que l'efficience, la délégation et le contrôle.
 
 ## Question de recherche
 
@@ -241,3 +239,13 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 [^14]: MAUDET, Nolwenn, 2026. *Cultures du design numérique : Histoire des idées et enjeux contemporains*. Éditions 205.
 
 [^15]: KEROMNES, Yvon. 2013. Les Métaphores - et leur traduction - dans la vie quotidienne. *Revue SEPTET*, 5, pp.68-87. ⟨hal-00944651⟩
+
+[^16]: GODIER, Terry. *Phantom obligation*. [en ligne]. 26 janvier 2026. Disponible à l'adresse : https://www.terrygodier.com/phantom-obligation
+
+[^17]: FLICHY, Patrice. « La place de l'imaginaire dans l'action technique » Le cas de l'internet, *Réseaux*, 2001/5 no 109, p. 52-73. DOI : 10.3917/res.109.0052
+
+[^18]: MOROZOV, Evgeny. 2014. *Pour tout résoudre cliquez ici : L'aberration du solutionnisme technologique*. FYP Éditions.
+
+[^19]: MASURE, Anthony, 2001. *Panne des imaginaires technologiques ou design pour un monde réel ?*. [en ligne]. 1 mai 2001. Disponible à l'adresse : https://www.anthonymasure.com/articles/2017-09-panne-imaginaires-technologiques-design-monde-reel
+
+[^20]: NOUS RESEARCH. (2026). The agent that grow with you. Disponible à l'adresse : https://hermes-agent.nousresearch.com/ [consulté le 20.06.2026]
