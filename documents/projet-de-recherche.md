@@ -80,7 +80,7 @@ J'ai identifié trois niveaux de risque que je chercherai à rendre explicites t
 Cette recherche s'appuie sur quatre démarches complémentaires afin d'explorer comment le design peut proposer d'autres manières de cohabiter avec la technologie.
 
 1. **Une pratique réflexive** 
-	Interagir quotidiennement avec un agent d'IA autonome (Hermès) afin d'observer les formes de relation qu'induisent son interface, ses métaphores et ses modalités d'interaction. 
+	Interagir quotidiennement avec un agent d'IA autonome (Hermès) afin d'observer comment l'incertitude, l'aléatoire et l'opacité de son fonctionnement participent à l'émergence de formes de relation.
 	Documenter cette démarche par un journal réflexif en mobilisant une approche auto-ethnographique.
 2. **Une immersion située**
 	Mener une pratique hebdomadaire au Dojo Zen (Genève), puis au Ginkaku-ji (Kyoto), afin d'explorer les formes d'attention, de présence et de relation qui émergent de ces lieux, en s'ouvrant à ce qu'ils donnent à voir et à ressentir.
