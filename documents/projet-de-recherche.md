@@ -4,7 +4,7 @@ révision: 2026-06-26
 ---
 # Spiritual Stochasticism
 
- Projet de recherche mené par Nicolas Grosfort dans le cadre d'un Master en Media Design à la HEAD - Genève, sous la direction de Sabrina Calvo.
+Projet de recherche mené par Nicolas Grosfort dans le cadre d'un Master en Media Design à la HEAD - Genève, sous la direction de Sabrina Calvo.
 
 ## TL;DR
 
@@ -28,9 +28,9 @@ Aujourd'hui, je souhaite m'éloigner de cette quête d'efficience et explorer la
 
 Cette quête d'efficience, dont je cherche aujourd'hui à m'éloigner, trouve une incarnation particulièrement forte dans les agents d'IA autonomes. Conçus pour agir « à la place de », de manière toujours plus autonome, ils promettent de prendre en charge des tâches cognitives complexes, tout en se modelant progressivement à leurs utilisateurs [^20]. Ils constituent, en un sens, l'aboutissement d'un fantasme de liberté par délivrance, porté par une volonté de contrôle, de domination et d'hyper-productivité [^4].
 
-Derrière cette promesse de délégation subsistent plusieurs formes d'opacité - techniques, fonctionnelles mais aussi sémantiques [^3]. Ensemble, elles peuvent participer à une forme d'aliénation et, plus spécifiquement, à une paupérisation cognitive, linguistique et symbolique, conduisant à une standardisation progressive de nos manières d'agir et de penser[^2]. Mais ces opacités peuvent aussi nourrir des imaginaires et des projections anthropomorphiques, allant parfois même jusqu'à des phénomènes de paréidolie théologique [^1].
+Derrière cette promesse de délégation subsistent plusieurs formes d'opacité - techniques, fonctionnelles mais aussi sémantiques [^3]. Ensemble, elles peuvent participer à une forme d'aliénation et, plus spécifiquement, à une paupérisation cognitive, linguistique et symbolique, conduisant à une standardisation progressive de nos manières d'agir et de penser [^2]. Mais ces opacités peuvent aussi nourrir des imaginaires et des projections anthropomorphiques, allant parfois même jusqu'à des phénomènes de paréidolie théologique [^1].
 
-À cet égard, la notion même d'"intelligence" (artificielle) contribue à l'émergence d'une confusion ontologique, dans la mesure ou elle donne l'impression que la machine est un double de l'humain, ou peut-être - que l'humain est lui-même une machine[^7]. Une confusion confirmée par ce qui pourrait être un renversement du test de Turing : aujourd'hui, ce n'est plus la machine qui prouve son humanité, mais l'humain qui prouve qu'il n'est pas un bot [^21].
+À cet égard, la notion même d'"intelligence" (artificielle) contribue à l'émergence d'une confusion ontologique, dans la mesure où elle donne l'impression que la machine est un double de l'humain, ou peut-être - que l'humain est lui-même une machine [^7]. Une confusion confirmée par ce qui pourrait être un renversement du test de Turing : aujourd'hui, ce n'est plus la machine qui prouve son humanité, mais l'humain qui prouve qu'il n'est pas un bot [^21].
 
 Plus encore, l'accès à ces agents est aujourd'hui presque toujours médié par un « chat », une interface initialement conçue pour les échanges entre humains. Fondée sur la métaphore de la conversation, cette interface projette un imaginaire humano-skeuomorphique [^8] en suggérant, là encore, présence d'un interlocuteur humain.
 
@@ -40,19 +40,19 @@ Ces différentes formes d'opacité, recouvertes d'un vernis anthropomorphique, i
 
 Plutôt que de considérer l'opacité comme un problème à résoudre, cette recherche propose d'en faire le point de départ d'une exploration des formes de relation susceptibles d'émerger de l'*invisible*. Ce déplacement invite à envisager un rapport à la technologie laissant une place à l'ambiguïté, à l'incertitude et à l'aléatoire.
 
-En effet, le monde est, lui aussi, traversé par des formes d'indétermination et d'imprévisibilité, qui peuvent s'apparenter à des formes d'opacité du réel. Cet *aléatoire* apparaît ainsi comme condition ontologique du vivant; une source de nouveauté et d'étrangeté à partir de laquelle des récits alternatifs peuvent émerger [^10]. Des récits qui aident à (se) raconter autrement et qui, pour tenter de maintenir l'habitabilité du monde, invitent à prendre soin de l'autre - à développer cette capacité à accueillir l'altérité dans toute sa singularité [^22].
+En effet, le monde est, lui aussi, traversé par des formes d'indétermination et d'imprévisibilité, qui peuvent s'apparenter à des formes d'opacité du réel. Cet *aléatoire* apparaît ainsi comme condition ontologique du vivant ; une source de nouveauté et d'étrangeté à partir de laquelle des récits alternatifs peuvent émerger [^10]. Des récits qui aident à (se) raconter autrement et qui, pour tenter de maintenir l'habitabilité du monde, invitent à prendre soin de l'autre - à développer cette capacité à accueillir l'altérité dans toute sa singularité [^22].
 
 L'ontologie animiste constitue alors un cadre d'analyse pertinent pour penser ce déplacement [^9]. En posant un monde constitué de relations plutôt que de catégories fixes, elle invite à dé-binariser notre lecture du réel et, ce faisant, à repenser notre rapport à l'altérité. Elle encourage à composer avec l'incertitude, à questionner comment habiter ces espaces d'opacités - ces interstices relationnels - et à caractériser notre relation à ces agents IA au-delà des frontières ontologiques dualistes traditionnelles [^13] : entre l'humain et le non-humain, le vivant et l'inerte, le soi et l'autre [^24].
 
 Dans quelle mesure alors l'intentionnalité, la singularité ou l'agentivité - attribuées à un système - pourrait-elle constituer une prise interprétative permettant de construire une relation plus réflexive avec la technologie [^12] ?
 
-Il serait alors légitime de s'interroger sur la nécessité même de faire relation avec ces systèmes. La réponse pourrait être non. Pourtant, l'intelligence artificielle est désormais omniprésente, et il paraît difficile d'y répondre par la voie de la non-puissance [^25]. Plutôt que de s'y soustraire, cette recherche choisit d'en faire une opportunité : celle d'interroger ce que faire relation avec une altérité - qu'elle soit technique ou non - peut vouloir dire.
+Il serait alors légitime de s'interroger sur la nécessité même de faire relation avec ces systèmes. La réponse pourrait être non. Pourtant, l'intelligence artificielle est désormais omniprésente, et il paraît difficile d'y répondre par la voie de la *non-puissance* [^25]. Plutôt que de s'y soustraire, cette recherche choisit d'en faire une opportunité : celle d'interroger ce que faire relation avec une altérité - qu'elle soit technique ou non - peut vouloir dire.
 
 Dans cette perspective, le torii - porte des sanctuaires shinto - apparaît comme un terrain d'observation privilégié : il matérialise le seuil vers un espace où la pensée dualiste se suspend, où l'inanimé possède une forme d'agence, et où l'inconnu peut être rencontré dans toute son opacité [^11].
 
-Tout comme l'interface qui agit comme un portail donnant accès à un nouvel espace au delà de l'écran [^14] - à travers les métaphores conceptuelles qu'elles mobilisent [^15] -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visibles ou maîtrisables.
+Tout comme l'interface qui agit comme un portail donnant accès à un nouvel espace au-delà de l'écran [^14] - à travers les métaphores conceptuelles qu'elles mobilisent [^15] -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visibles ou maîtrisables.
   
-Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux [^23] pour laisser émerger d'autres manières de faire relation avec la technologie - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, celles-ci privilégierait l'attention, la curiosité, l'empathie et la présence plutôt que l'efficience, la délégation et le contrôle.
+Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux [^23] pour laisser émerger d'autres manières de faire relation avec la technologie - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, celle-ci privilégierait l'attention, la curiosité, l'empathie et la présence plutôt que l'efficience, la délégation et le contrôle.
 
 ## Question de recherche
 
@@ -82,13 +82,13 @@ Cette recherche s'appuie sur quatre démarches complémentaires afin d'explorer 
 1. **Une pratique réflexive** 
 	Interagir quotidiennement avec un agent d'IA autonome (Hermès) afin d'observer les formes de relation qu'induisent son interface, ses métaphores et ses modalités d'interaction. 
 	Documenter cette démarche par un journal réflexif en mobilisant une approche auto-ethnographique.
-1. **Une immersion située**
+2. **Une immersion située**
 	Mener une pratique hebdomadaire au Dojo Zen (Genève), puis au Ginkaku-ji (Kyoto), afin d'explorer les formes d'attention, de présence et de relation qui émergent de ces lieux, en s'ouvrant à ce qu'ils donnent à voir et à ressentir.
 	Documenter cette démarche par un journal réflexif en mobilisant une approche auto-ethnographique.
-2. **Une observation de terrain**
+3. **Une observation de terrain**
 	Observer et documenter le torii - son architecture, ses usages, les interactions et les formes de médiation qu'il organise — afin de comprendre comment il organise les relations entre humains, objets, espaces, rites et phénomènes.
 	Cartographier les relations observées à partir de notes, de photographies, d'enregistrements sonores, de scans 3D et de relevés in situ. Ces matériaux alimenteront une cartographie relationnelle inspirée de la théorie de l'acteur-réseau, utilisée comme outil d'analyse.
-3. **Une démarche de conception**, 
+4. **Une démarche de conception**
 	Prototyper des métaphores d'interface alternatives afin d'explorer les formes de relation qu'elles rendent possibles.
 	Documenter les expérimentations, les itérations de conception et leurs effets dans un journal de recherche afin d'alimenter la réflexion théorique.
 
@@ -128,9 +128,9 @@ Cette restitution sera accompagnée d'un mémoire écrit de 50 000 signes, const
 
 ## Projet pratique
 
-Dans un second temps, cette recherche donnera lieu à une série de prototypes d'interfaces physiques mettant en scène des agents d'IA autonomes. Inspirés du concept de Large Language Objects (LLO)[^26] et des principes de la Calm Technology[^27], ces dispositifs chercheront à explorer d'autres modes de relation aux agents d'IA, en s'éloignant des métaphores conversationnelles, anthropomorphiques et hyper-productivistes qui structurent aujourd'hui la plupart de leurs usages.
+Dans un second temps, cette recherche donnera lieu à une série de prototypes d'interfaces physiques mettant en scène des agents d'IA autonomes. Inspirés du concept de Large Language Objects (LLO) [^26] et des principes de la Calm Technology [^27], ces dispositifs chercheront à explorer d'autres modes de relation aux agents d'IA, en s'éloignant des métaphores conversationnelles, anthropomorphiques et hyper-productivistes qui structurent aujourd'hui la plupart de leurs usages.
 
-Cette exploration spéculative prendra la forme d'une série d'objets directement issus des réflexions théoriques développées dans ce mémoire. Elle cherchera notamment à interroger le statut même de ces agents : que sont-ils ? Quelle forme pourraient-ils prendre ? Ont-ils une personnalité[^28] ? Quel rapport entretiennent-ils avec leurs semblables, voire eux-mêmes ?
+Cette exploration spéculative prendra la forme d'une série d'objets directement issus des réflexions théoriques développées dans ce mémoire. Elle cherchera notamment à interroger le statut même de ces agents : que sont-ils ? Quelle forme pourraient-ils prendre ? Ont-ils une personnalité [^28] ? Quel rapport entretiennent-ils avec leurs semblables, voire eux-mêmes ?
 
 L'objectif de ce projet pratique sera donc d'interroger les formes de relation que nous entretenons aujourd'hui avec les agents d'IA et, plus largement, d'ouvrir des pistes de réflexion sur notre manière d'être en relation avec *l'autre*.
 
@@ -143,7 +143,7 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 | [Aux sources de l'utopie numérique](https://press.uchicago.edu/ucp/books/book/chicago/F/bo3773600.html)                                                                                                                                                                                                            | Fred Turner                                            | Cybernétique                | 20%             |
 | [Aesthetic Animism](https://books.google.ch/books/about/Aesthetic_Animism.html?id=chtWDAAAQBAJ&redir_esc=y)                                                                                                                                                                                                        | David Jhave Johnston                                   | Animisme                    | 0%              |
 | [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil)                                                                                                                                                                                                                             | Arvind Narayanan, Sayash Kapoor                        | Intelligence artificielle   | 0 %             |
-| [Being Alive](https://www.routledge.com/Being-Alive-Essays-on-Movement-Knowledge-and-Description/Ingold/p/book/9781032052311?gad_source=1&gad_campaignid=23516140042&gbraid=0AAAAACWuhHVEbV7oOhwhJ8F1TDzxAk4s-&gclid=Cj0KCQjwxvjRBhC2ARIsAI7KJa2dg6SIbVtrYf7tKFkwwX7j-d0eoFpBlMyYFhYE5RytC85yaZxNu2MaAsRSEALw_wcB) | Tim Ignold                                             | Environement                | 0%              |
+| [Being Alive](https://www.routledge.com/Being-Alive-Essays-on-Movement-Knowledge-and-Description/Ingold/p/book/9781032052311?gad_source=1&gad_campaignid=23516140042&gbraid=0AAAAACWuhHVEbV7oOhwhJ8F1TDzxAk4s-&gclid=Cj0KCQjwxvjRBhC2ARIsAI7KJa2dg6SIbVtrYf7tKFkwwX7j-d0eoFpBlMyYFhYE5RytC85yaZxNu2MaAsRSEALw_wcB) | Tim Ingold                                             | Environnement               | 0%              |
 | [Cultures du design numérique](https://www.editions205.fr/products/cultures-du-design-numerique-histoire-des-idees-et-enjeux-contemporains)                                                                                                                                                                        | Nolwenn Maudet                                         | Interfaces                  | 80 %            |
 | [De la bêtise artificielle](https://editions-allia.com/fr/livre/1077/de-la-betise-artificielle)                                                                                                                                                                                                                    | Anne Alombert                                          | Philosophie de la technique | 100 %           |
 | [Dreamscapes of Modernity](https://press.uchicago.edu/ucp/books/book/chicago/D/bo20836025.html)                                                                                                                                                                                                                    | Sheila Jasanoff                                        | Imaginaires                 | 0%              |
@@ -160,8 +160,8 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 | [Persistance du merveilleux](https://www.lelivre.ch/Detail-persistance_du_merveilleux-4-9782850612473)                                                                                                                                                                                                             | Nicolas Nova                                           | Imaginaires technique       | 80 %            |
 | [Robopoiëse](https://editions-baconniere.ch/fr/catalogue/robopoieses)                                                                                                                                                                                                                                              | André Ourednik                                         | Intelligence Artificielle   | 20 %            |
 | [Schizophrénie numérique](https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique)                                                                                                                                                                                                                     | Anne Alombert                                          | Philosophie de la technique | 100 %           |
-| [The Question Concerning Technology in China](https://mitpress.mit.edu/9780995455009/the-question-concerning-technology-in-china/)                                                                                                                                                                                 | Yuk Hui                                                | Cosmotechnique, ongologie   | 0 %             |
-| [Toutes les intelligence du monde](https://www.seuil.com/ouvrage/toutes-les-intelligences-du-monde-james-bridle/9782021480078)                                                                                                                                                                                     | James Bridle                                           | Intelligence Artificielle   | 85 %            |
+| [The Question Concerning Technology in China](https://mitpress.mit.edu/9780995455009/the-question-concerning-technology-in-china/)                                                                                                                                                                                 | Yuk Hui                                                | Cosmotechnique, ontologie   | 0 %             |
+| [Toutes les intelligences du monde](https://www.seuil.com/ouvrage/toutes-les-intelligences-du-monde-james-bridle/9782021480078)                                                                                                                                                                                    | James Bridle                                           | Intelligence Artificielle   | 85 %            |
 | [Zéro + Uns](https://sans-soleil.com/catalogue/v-theorie-critique/zeros-uns/)                                                                                                                                                                                                                                      | Sadie Plant                                            | Cyberféminisme              | 0%              |
 
 ### Articles
@@ -211,7 +211,7 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 | Nom                     | Emplacement | Domaine                      |
 | ----------------------- | ----------- | ---------------------------- |
 | **Calm Tech Institute** | Kyoto       | Calm Technology              |
-| **Ginkaku-ji**          | Kyoto       | Sanctuaire (zen)             |
+| **Ginkaku-ji**          | Kyoto       | Temple bouddhiste (zen)      |
 | **Kōdai-ji**            | Kyoto       | Sanctuaire (techno-animisme) |
 | **mui LAB**             | Kyoto       | Design Studio                |
 | **Musée Ghibli**        | Tokyo       | Imaginaires                  |
@@ -259,7 +259,7 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 
 [^19]: MASURE, Anthony, 2001. *Panne des imaginaires technologiques ou design pour un monde réel ?*. [en ligne]. 1 mai 2001. Disponible à l'adresse : https://www.anthonymasure.com/articles/2017-09-panne-imaginaires-technologiques-design-monde-reel
 
-[^20]: NOUS RESEARCH. (2026). The agent that grow with you. Disponible à l'adresse : https://hermes-agent.nousresearch.com/ [consulté le 20.06.2026]
+[^20]: NOUS RESEARCH. (2026). The agent that grows with you. Disponible à l'adresse : https://hermes-agent.nousresearch.com/ [consulté le 20.06.2026]
 
 [^21]: CLOUDFLARE. (2026). Avantages du service Cloudflare Turnstile. Disponible à l'adresse: https://www.cloudflare.com/fr-fr/application-services/products/turnstile/ [consulté le 29.06.2026]
 
@@ -275,4 +275,4 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 
 [^27]: CASE, A. (SD). *Calmtech.com*. Disponible à l'adresse : https://calmtech.com [consulté le 04.05.2026]
 
-[^28]: CLAWD. (2025). *Sould.md*. Disponible à l'adresse : https://soul.md [consulté le 21.06.2026]
+[^28]: CLAWD. (2025). *Soul.md*. Disponible à l'adresse : https://soul.md [consulté le 21.06.2026]
