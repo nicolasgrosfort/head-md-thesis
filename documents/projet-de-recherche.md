@@ -79,7 +79,7 @@ Cette recherche s'appuie sur quatre démarches complémentaires afin d'explorer 
 	Interagir quotidiennement avec un agent d'IA autonome (Hermès) afin d'observer les formes de relation qu'induisent son interface, ses métaphores et ses modalités d'interaction. 
 	Documenter cette démarche par un journal réflexif en mobilisant une approche auto-ethnographique.
 1. **Une immersion située**
-	Mener une pratique hebdomadaire au Dojo Zen (Genève), puis au Ginkaku-ji (Kyoto), afin d'explorer les formes d'attention, de présence et de relation qui émergent de ces lieux.  
+	Mener une pratique hebdomadaire au Dojo Zen (Genève), puis au Ginkaku-ji (Kyoto), afin d'explorer les formes d'attention, de présence et de relation qui émergent de ces lieux, en s'ouvrant à ce qu'ils donnent à voir et à ressentir.
 	Documenter cette démarche par un journal réflexif en mobilisant une approche auto-ethnographique.
 2. **Une observation de terrain**
 	Observer et documenter l'architecture, les usages, les interactions et les dispositifs de médiation présents dans les sanctuaires shinto, afin de comprendre comment ces lieux organisent les relations entre humains, objets, espaces, rites et phénomènes.
