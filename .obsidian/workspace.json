@@ -6,7 +6,7 @@
       {
         "id": "256861b6051c954d",
         "type": "tabs",
-        "dimension": 34.512922465208746,
+        "dimension": 48.08206958073149,
         "children": [
           {
             "id": "8f6a272abbedf43e",
@@ -35,67 +35,12 @@
         ]
       },
       {
-        "id": "f5b8d3e84e8a5a2f",
+        "id": "337f887c076271f2",
         "type": "tabs",
-        "dimension": 16.69980119284294,
+        "dimension": 51.91793041926851,
         "children": [
           {
-            "id": "dd38c7c43fd97041",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documents/one-pager-fr.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "one-pager-fr"
-            }
-          },
-          {
-            "id": "ff9e8a3fc865a169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documents/one-pager-fr.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "one-pager-fr"
-            }
-          }
-        ]
-      },
-      {
-        "id": "264ee0becd89c1b4",
-        "type": "tabs",
-        "dimension": 48.78727634194831,
-        "children": [
-          {
-            "id": "95fae4bcec092824",
+            "id": "3c5426689391e151",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -117,8 +62,33 @@
               "icon": "lucide-file",
               "title": "one-pager-en"
             }
+          },
+          {
+            "id": "97d37e9ca4dd9cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documents/one-pager-fr.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "one-pager-fr"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "e2ce155ca947964e",
@@ -279,11 +248,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd38c7c43fd97041",
+  "active": "8f6a272abbedf43e",
   "lastOpenFiles": [
-    "documents/one-pager-en.md",
     "documents/one-pager-fr.md",
     "documents/projet-de-recherche.md",
+    "documents/one-pager-en.md",
+    "assets/images/2026-06-29-chat-dev.png",
+    "assets/images/2026-06-29-claw-3d.png",
     "readme.md",
     "documents/archives/projet-de-recherche-(déprécié).md",
     "assets/images/2026-06-26-techno-animism-emi-kusano-1.jpeg",
@@ -295,8 +266,6 @@
     "assets/images/2026-06-26-neil-mendoza-synthetic-spirits-1.jpg",
     "assets/images/2026-06-26-narratron-1.jpg",
     "assets/images/2026-06-26-la-machine-a-tube-1.jpg",
-    "assets/images/2026-06-26-little-computer-people-david-crane.png",
-    "assets/images/2026-06-26-mur-mur-oio-studio.png",
     "assets/images",
     "assets",
     "quartz/public/coucou.canvas.html",

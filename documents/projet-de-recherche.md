@@ -12,7 +12,7 @@ Projet de recherche mené par Nicolas Grosfort dans le cadre d'un Master en Medi
 
 Plutôt que d'envisager l'opacité de ces systèmes comme un problème à résoudre, la recherche propose d'en faire le point de départ d'une exploration des formes de relation susceptibles d'émerger de cet *invisible*.
 
-À partir d'une ontologie animiste, cette recherche propose de prendre le torii - porte des sanctuaires shinto - comme prisme pour explorer d'autres manières d'être en relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visibles ou maîtrisables.
+À partir d'une ontologie animiste, le projet prend le torii - porte des sanctuaires shinto - comme prisme pour explorer d'autres manières d'être en relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visibles ou maîtrisables.
 
 Mené entre Genève et Kyoto de juillet à novembre 2026, ce travail cherche à interroger ce que faire relation avec une altérité - qu'elle soit technique ou non - peut vouloir dire, en privilégiant l'attention, l'empathie et la présence plutôt que le contrôle et l'efficience.
 
@@ -52,7 +52,7 @@ Dans cette perspective, le torii - porte des sanctuaires shinto - apparaît comm
 
 Tout comme l'interface qui agit comme un portail donnant accès à un nouvel espace au-delà de l'écran [^14] - à travers les métaphores conceptuelles qu'elles mobilisent [^15] -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visibles ou maîtrisables.
   
-Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux [^23] pour laisser émerger d'autres manières de faire relation avec la technologie - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, celle-ci privilégierait l'attention, la curiosité, l'empathie et la présence plutôt que l'efficience, la délégation et le contrôle.
+Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux [^23] pour laisser émerger d'autres manières de faire relation avec la technologie - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, celles-ci privilégieraient l'attention, la curiosité, l'empathie et la présence plutôt que l'efficience, la délégation et le contrôle.
 
 ## Question de recherche
 
