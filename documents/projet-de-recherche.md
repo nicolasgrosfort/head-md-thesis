@@ -50,13 +50,13 @@ Cette recherche s'appuie sur les formes de médiation observées dans ces espace
 
 ## Question de recherche
 
-**En quoi les métaphores d'interface des agents d'IA autonomes façonnent-elles notre manière d'être au monde, et comment une ontologie animiste permettrait-elle d'imaginer d'autres formes de relation avec la technologie ?**
+**En quoi les métaphores d'interface des agents d'IA autonomes façonnent-elles notre manière d'être au monde - et dans quelle mesure une ontologie animiste permettrait-elle d'en imaginer d'autres ?
 
 ### Sous-questions 
 
 1. Comment les métaphores d'interface des agents d'IA autonomes organisent-elles notre manière d'entrer en relation avec eux ?
 2. En quoi une ontologie animiste permettrait-elle de repenser notre relation aux agents d'IA autonomes ?
-3. De quelles manières le sanctuaire shinto médiatise-t-il la relation à l'invisible ?
+3. De quelles manières le torii médiatise-t-il la relation à l'altérité ?
 
 ## Restitution
 
