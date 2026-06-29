@@ -4,13 +4,11 @@ révision: 2026-06-26
 ---
 # Spiritual Stochasticism
 
-*Projet de recherche*
+ Projet de recherche mené par Nicolas Grosfort dans le cadre d'un Master en Media Design à la HEAD - Genève, sous la direction de Sabrina Calvo.
 
 ## TL;DR
 
-*Spiritual Stochasticism* est un projet de recherche mené par Nicolas Grosfort dans le cadre d'un Master en Media Design à la HEAD - Genève, sous la direction de Sabrina Calvo.
-
-Il explore la manière dont les métaphores d'interface des agents d'IA autonomes - fondées sur un modèle conversationnel anthropomorphique et dont l'opacité s'étend à plusieurs niveaux - façonnent les imaginaires socio-techniques qui sous-tendent notre relation avec eux et, plus largement, notre manière d'être au monde.
+*Spiritual Stochasticism* explore la manière dont les métaphores d'interface des agents d'IA autonomes - fondées sur un modèle conversationnel anthropomorphique et dont l'opacité s'étend à plusieurs niveaux - façonnent les imaginaires socio-techniques qui sous-tendent notre relation avec eux et, plus largement, notre manière d'être au monde.
 
 Plutôt que d'envisager l'opacité de ces systèmes comme un problème à résoudre, la recherche propose d'en faire le point de départ d'une exploration des formes de relation susceptibles d'émerger de l'*invisible*.
 
@@ -48,13 +46,13 @@ L'ontologie animiste constitue alors un cadre d'analyse pertinent pour penser ce
 
 Dans quelle mesure alors l'intentionnalité, la singularité ou l'agentivité - attribuées à un système - pourrait-elle constituer une prise interprétative permettant de construire une relation plus réflexive avec la technologie [^12] ?
 
-À ce stade, il serait alors légitime de s'interroger sur la nécessité même de faire relation avec ces systèmes. La réponse pourrait être non. Pourtant, l'intelligence artificielle est désormais omniprésente, et il paraît difficile d'y répondre par la voie de la non-puissance [^25]. Plutôt que de s'y soustraire, cette recherche choisit d'en faire une opportunité : celle d'interroger ce que faire relation avec une altérité - qu'elle soit technique ou non - peut vouloir dire.
+Il serait alors légitime de s'interroger sur la nécessité même de faire relation avec ces systèmes. La réponse pourrait être non. Pourtant, l'intelligence artificielle est désormais omniprésente, et il paraît difficile d'y répondre par la voie de la non-puissance [^25]. Plutôt que de s'y soustraire, cette recherche choisit d'en faire une opportunité : celle d'interroger ce que faire relation avec une altérité - qu'elle soit technique ou non - peut vouloir dire.
 
 Dans cette perspective, le torii - porte des sanctuaires shinto - apparaît comme un terrain d'observation privilégié : il matérialise le seuil vers un espace où la pensée dualiste se suspend, où l'inanimé possède une forme d'agence, et où l'inconnu peut être rencontré dans toute son opacité [^11].
 
-Tout comme l'interface qui agit comme un portail donnant accès à un nouvel espace au delà de l'écran [^14] - à travers les métaphores conceptuelles qu'elles mobilisent [^15] -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visible ou maîtrisables.
+Tout comme l'interface qui agit comme un portail donnant accès à un nouvel espace au delà de l'écran [^14] - à travers les métaphores conceptuelles qu'elles mobilisent [^15] -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visibles ou maîtrisables.
   
-Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux [^23] pour laisser émerger d'autres manières de faire relation avec la technologie - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, celle-ci privilégierait l'attention, la curiosité, l'empathie et la présence plutôt que l'efficience, la délégation et le contrôle.
+Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux [^23] pour laisser émerger d'autres manières de faire relation avec la technologie - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, celles-ci privilégierait l'attention, la curiosité, l'empathie et la présence plutôt que l'efficience, la délégation et le contrôle.
 
 ## Question de recherche
 
@@ -71,7 +69,7 @@ Ce travail propose alors de s'appuyer sur les formes de médiation observées da
 J'ai identifié trois niveaux de risque que je chercherai à rendre explicites tout au long de cette recherche afin d'en limiter les effets.
 
 1. **Le risque d'instrumentalisation**
-	Adopter une posture extractiviste en transformant le sanctuaire shinto en une simple boîte à outils de design.
+	Adopter une posture extractiviste en transformant l'ontologie animiste ou le torii en une simple boîte à outils de design.
 2. **Le risque de projection**
 	Interpréter le sanctuaire shinto à travers mes propres catégories d'analyse et y voir uniquement la confirmation de mes hypothèses.
 3. **Le risque d'appropriation culturelle**
@@ -88,7 +86,7 @@ Cette recherche s'appuie sur quatre démarches complémentaires afin d'explorer 
 	Mener une pratique hebdomadaire au Dojo Zen (Genève), puis au Ginkaku-ji (Kyoto), afin d'explorer les formes d'attention, de présence et de relation qui émergent de ces lieux, en s'ouvrant à ce qu'ils donnent à voir et à ressentir.
 	Documenter cette démarche par un journal réflexif en mobilisant une approche auto-ethnographique.
 2. **Une observation de terrain**
-	Observer et documenter l'architecture, les usages, les interactions et les dispositifs de médiation présents dans les sanctuaires shinto, afin de comprendre comment ces lieux organisent les relations entre humains, objets, espaces, rites et phénomènes.
+	Observer et documenter le torii - son architecture, ses usages, les interactions et les formes de médiation qu'il organise — afin de comprendre comment il organise les relations entre humains, objets, espaces, rites et phénomènes.
 	Cartographier les relations observées à partir de notes, de photographies, d'enregistrements sonores, de scans 3D et de relevés in situ. Ces matériaux alimenteront une cartographie relationnelle inspirée de la théorie de l'acteur-réseau, utilisée comme outil d'analyse.
 3. **Une démarche de conception**, 
 	Prototyper de nouvelles métaphores d'interface afin d'explorer les formes de relation qu'elles rendent possibles.
@@ -130,9 +128,9 @@ Cette restitution sera accompagnée d'un mémoire écrit de 50 000 signes, const
 
 ## Projet pratique
 
-Dans un second temps, cette recherche donnera lieu à une série de prototypes d'interfaces physiques mettant en scène des agents d'IA autonomes. Inspirés du concept de Large [Language Objects (LLO)](https://designintelligence.mit.edu/work/large-language-objects) et des principes de la [Calm Technology](https://calmtech.com), ces dispositifs chercheront à explorer d'autres modes de relation aux agents d'IA, en s'éloignant des métaphores conversationnelles, anthropomorphiques et hyper-productivistes qui structurent aujourd'hui la plupart de leurs usages.
+Dans un second temps, cette recherche donnera lieu à une série de prototypes d'interfaces physiques mettant en scène des agents d'IA autonomes. Inspirés du concept de Large Language Objects (LLO)[^26] et des principes de la Calm Technology[^27], ces dispositifs chercheront à explorer d'autres modes de relation aux agents d'IA, en s'éloignant des métaphores conversationnelles, anthropomorphiques et hyper-productivistes qui structurent aujourd'hui la plupart de leurs usages.
 
-Cette exploration spéculative prendra la forme d'une série d'objets directement issus des réflexions théoriques développées dans ce mémoire. Elle cherchera notamment à interroger le statut même de ces agents : que sont-ils ? Quelle forme pourraient-ils prendre ? Ont-ils une [personnalité](https://soul.md) ? Quel rapport entretiennent-ils avec leurs semblables, voire eux-mêmes ?
+Cette exploration spéculative prendra la forme d'une série d'objets directement issus des réflexions théoriques développées dans ce mémoire. Elle cherchera notamment à interroger le statut même de ces agents : que sont-ils ? Quelle forme pourraient-ils prendre ? Ont-ils une personnalité[^28] ? Quel rapport entretiennent-ils avec leurs semblables, voire eux-mêmes ?
 
 L'objectif de ce projet pratique sera donc d'interroger les formes de relation que nous entretenons aujourd'hui avec les agents d'IA et, plus largement, d'ouvrir des pistes de réflexion sur notre manière d'être en relation avec *l'autre*.
 
@@ -267,3 +265,9 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 [^24]: DEGUCHI, Y. (SD). Self as We and Its Implications for Our Ways of Life. Disponible à l'adresse : https://www.kyoto-u.ac.jp/sites/default/files/embed/enaboutevents_newsdepartmentkokoronews2018documents181118_103.pdf [consulté le 20.06.2026]
 
 [^25]: LARMAGNAC-MATHERON, O. (2024). Comprendre le “système technicien” de Jacques Ellul, disparu il y a trente ans. Disponible à l'adresse : https://www.philomag.com/articles/comprendre-le-systeme-technicien-de-jacques-ellul-disparu-il-y-trente-ans [consulté le 21.10.2025]
+
+[^26]: COHELO, M. , LABRUNE, J.-B. (2024). Large *Language Objects: The Design of Physical AI and Generative Experiences*. Disponible à l'adresse : https://dl.acm.org/doi/epdf/10.1145/3672534 [consulté le 21.06.2026]
+
+[^27]: CASE, A. (SD). *Calmtech.com*. Disponible à l'adresse : https://calmtech.com [consulté le 04.05.2026]
+
+[^28]: CLAWD. (2025). *Sould.md*. Disponible à l'adresse : https://soul.md [consulté le 21.06.2026]
