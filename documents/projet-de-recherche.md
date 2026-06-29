@@ -58,14 +58,6 @@ Cette recherche s'appuie sur les formes de médiation observées dans ces espace
 2. En quoi une ontologie animiste permettrait-elle de repenser notre relation aux agents d'IA autonomes ?
 3. De quelles manières le torii médiatise-t-il la relation à l'altérité ?
 
-## Restitution
-
-La recherche prendra principalement la forme d'un dispositif web expérimental visant à explorer d'autres métaphores d'interface. 
-
-Conçu comme le médium principal de la recherche, il donnera accès aux observations, aux entretiens, aux analyses, et au journal de recherche en explorant une autre manière d'interagir avec un agent d'IA.
-
-Cette restitution sera accompagnée d'un mémoire écrit de 50 000 signes, constituant la formalisation académique de la recherche.
-
 ## Risques
 
 J'ai identifié trois niveaux de risque que je chercherai à rendre explicites tout au long de cette recherche afin d'en limiter les effets.
@@ -119,6 +111,14 @@ Cette recherche s'appuie sur quatre démarches complémentaires afin d'explorer 
 | **Septembre** | Entretiens, écriture, présentation                 | Présentation intermédiaire, <br>30'000 caractères                                   | Kyoto        |
 | **Octobre**   | Écriture, mise en page                             | Présentation intermédiaire,<br>Dispositif web                                       | Genève       |
 | **Novembre**  | Relecture, finalisation                            | Présentation finale, 50'000 caractères                                              | Genève       |
+
+## Restitution
+
+La recherche prendra principalement la forme d'un dispositif web expérimental visant à explorer d'autres métaphores d'interface. 
+
+Conçu comme le médium principal de la recherche, il donnera accès aux observations, aux entretiens, aux analyses, et au journal de recherche en explorant une autre manière d'interagir avec un agent d'IA.
+
+Cette restitution sera accompagnée d'un mémoire écrit de 50 000 signes, constituant la formalisation académique de la recherche.
 
 ## Projet pratique
 
