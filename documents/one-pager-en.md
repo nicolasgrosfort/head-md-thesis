@@ -76,7 +76,7 @@ Ginkaku-ji · Kōdai-ji · Shinjuan · mui LAB · Calm Tech Institute · Kyoto D
 | June      | ●       | ◐       |            | ◐                  |                    |                   |                    | Research proposal, Hermès setup                     |
 | July      | ●       | ◐       | ●          | ●                  | ●                  | ●                 |                    | Research platform (v1)                              |
 | August    | ●       | ●       | ●          | ●                  | ●                  | ●                 | ●                  | Research platform (v2)                              |
-| September | ●       | ●       | ◐          | ●                  | ●                  | ●                 | ●                  | Interim presentation (Kyoto),<br>Draft thesis (30k) |
+| September | ◐       | ●       | ◐          | ●                  | ◐                  | ◐                 | ●                  | Interim presentation (Kyoto),<br>Draft thesis (30k) |
 | October   |         | ●       |            | ◐                  |                    |                   | ●                  | Interim presentation (Geneva)                       |
 | November  |         | ●       |            | ◐                  |                    |                   |                    | Final presentation (Geneva),<br>Final thesis (50k)  |
 
