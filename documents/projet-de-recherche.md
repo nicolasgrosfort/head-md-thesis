@@ -94,18 +94,19 @@ Cette recherche s'appuie sur quatre démarches complémentaires afin d'explorer 
 
 ## Entretiens
 
-| Personnes                 | Lieux | Expertises                                   |
-| ------------------------- | ----- | -------------------------------------------- |
-| **À définir**             | JP    | Philosophie, ontologie animiste              |
-| **À définir**             | JP    | Histoire du Japon, shintoïsme                |
-| **À définir**             | GE    | Utilisateur·ice agent IA                     |
-| **Alexa Steinbrück**      | DE    | Intelligence artificielle                    |
-| **Anne Alombert**         | FR    | Perroquet stochastique, délégation cognitive |
-| **André Ourednik**        | CH    | Machine spirituelle, oracle                  |
-| **Douglas Edric Stanley** | CH    | Relation avec les agents IA                  |
-| **Gergely Péter Barna**   | JP    | Machines, artisanat, traditions              |
-| **Matteo Loglio**         | CH    | Agent IA, projet "Mur Mur"                   |
-| **Virginia Bjertnes**     | CH    | Conteuse, ontologie animiste                 |
+| **Personnes**             | **Lieu**               | **Thématiques**                                  |
+| ------------------------- | ---------------------- | ------------------------------------------------ |
+| **À définir**             | Kyoto                  | Philosophie et ontologie animistes               |
+| **À définir**             | Kyoto                  | Histoire du Japon et shintoïsme                  |
+| **Gergely Péter Barna**   | Kyoto                  | Machines, artisanat et traditions                |
+| **Ryo Terui**             | Kyoto                  | Actantialité et relations humain–non-humain      |
+| **À définir**             | Genève / Kyoto         | Expériences d'usage des agents d'IA              |
+| **Douglas Edric Stanley** | Genève                 | Relations humain–agent d'IA                      |
+| **Virginia Bjertnes**     | Genève                 | Conte, récits et ontologie animiste              |
+| **Alexa Steinbrück**      | Allemagne (à distance) | Intelligence artificielle                        |
+| **Anne Alombert**         | France (à distance)    | Perroquets stochastiques et délégation cognitive |
+| **André Ourednik**        | Lausanne (à distance)  | Machines spirituelles et oracles                 |
+| **Matteo Loglio**         | Tessin (à distance)    | Agents d'IA et projet *Mur Mur*                  |
 
 ## Calendrier
 

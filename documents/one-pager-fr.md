@@ -43,6 +43,22 @@ Elle s'appuie sur quatre démarches complémentaires :
 3. **Observation de terrain** : documentation du torii et cartographie relationnelle des formes de médiation qu'il organise.
 4. **Démarche de conception** : exploration de métaphores d'interface alternatives.
 
+### Entretiens
+
+| **Personnes**             | **Lieu**               | **Thématiques**                                  |
+| ------------------------- | ---------------------- | ------------------------------------------------ |
+| **À définir**             | Kyoto                  | Philosophie et ontologie animistes               |
+| **À définir**             | Kyoto                  | Histoire du Japon et shintoïsme                  |
+| **Gergely Péter Barna**   | Kyoto                  | Machines, artisanat et traditions                |
+| **Ryo Terui**             | Kyoto                  | Actantialité et relations humain–non-humain      |
+| **À définir**             | Genève / Kyoto         | Expériences d'usage des agents d'IA              |
+| **Douglas Edric Stanley** | Genève                 | Relations humain–agent d'IA                      |
+| **Virginia Bjertnes**     | Genève                 | Conte, récits et ontologie animiste              |
+| **Alexa Steinbrück**      | Allemagne (à distance) | Intelligence artificielle                        |
+| **Anne Alombert**         | France (à distance)    | Perroquets stochastiques et délégation cognitive |
+| **André Ourednik**        | Lausanne (à distance)  | Machines spirituelles et oracles                 |
+| **Matteo Loglio**         | Tessin (à distance)    | Agents d'IA et projet *Mur Mur*                  |
+
 ### Sites de recherche à Kyoto
 
 Ginkaku-ji · Kōdai-ji · Shinjuan · mui LAB · Calm Tech Institute
@@ -62,7 +78,9 @@ Ginkaku-ji · Kōdai-ji · Shinjuan · mui LAB · Calm Tech Institute
 
 La restitution prendra la forme d'un dispositif web expérimental donnant accès aux observations, entretiens et journal de recherche, tout en explorant d'autres manières d'interagir avec un agent d'IA. Elle sera accompagnée d'un mémoire écrit de 50 000 signes. 
 
-Dans un second temps, une série de prototypes d'interfaces physiques - inspirés des *Large Language Objects* et de la *Calm Technology* - explorera d'autres formes de relation aux agents d'IA, en interrogeant leur statut, leur forme et leur personnalité, en invitant à repenser notre manière d'être en relation avec l'*autre*.
+### Projet pratique
+
+À la suite du présent travail, entre décembre 2026 et juin 2027, une série de prototypes d'interfaces physiques - inspirés des *Large Language Objects* et de la *Calm Technology* - explorera d'autres formes de relation aux agents d'IA, en interrogeant leur statut, leur forme et leur personnalité, en invitant à repenser notre manière d'être en relation avec l'*autre*.
 ## Références
 
 Une sélection des références les plus pertinentes.

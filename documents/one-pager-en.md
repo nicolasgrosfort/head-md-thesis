@@ -32,7 +32,7 @@ Conducted between Geneva and Kyoto from July to November 2026, it investigates w
 2. In what ways could an animist ontology allow us to rethink our relationship with autonomous AI agents?
 3. How does the torii mediate our relationship with alterity?
 
-### Methodology
+## Methodology
 
 This research adopts a reflexive posture, attentive to the risks of instrumentalisation and cultural appropriation inherent in any design practice conducted outside its original context.
 
@@ -42,6 +42,22 @@ It combines four complementary approaches:
 2. **Situated immersion**: weekly Zen practice in Geneva, then in Kyoto.
 3. **Field observation**: documentation of the torii and relational mapping of the forms of mediation it organises.
 4. **Design approach**: exploration of alternative interface metaphors.
+
+### Interviews
+
+|**People**|**Location**|**Topics**|
+|---|---|---|
+|**TBD**|Kyoto|Animist philosophy and ontology|
+|**TBD**|Kyoto|Japanese history and Shinto|
+|**Gergely Péter Barna**|Kyoto|Machines, craftsmanship, and tradition|
+|**Ryo Terui**|Kyoto|Actantiality and human–nonhuman relationships|
+|**TBD**|Geneva / Kyoto|Experiences of using AI agents|
+|**Douglas Edric Stanley**|Geneva|Human–AI agent relationships|
+|**Virginia Bjertnes**|Geneva|Storytelling, narrative, and animist ontology|
+|**Alexa Steinbrück**|Germany (remote)|Artificial intelligence|
+|**Anne Alombert**|France (remote)|Stochastic parrots and cognitive delegation|
+|**André Ourednik**|Lausanne (remote)|Spiritual machines and oracles|
+|**Matteo Loglio**|Ticino (remote)|AI agents and the _Mur Mur_ project|
 
 ### Field sites in Kyoto
 
@@ -62,7 +78,9 @@ Ginkaku-ji · Kōdai-ji · Shinjuan · mui LAB · Calm Tech Institute
 
 The research will primarily take the form of a web-based research platform providing access to observations, interviews, and the research journal, while exploring other ways of interacting with an AI agent. It will be accompanied by a written thesis (approximately 50,000 characters).
 
-In a second phase, a series of physical interface prototypes - inspired by *Large Language Objects* and *Calm Technology* - will explore other ways of relating to AI agents, interrogating their status, form and personality, inviting reflection on how we might relate differently to the *other*.
+### Practical Project
+
+Following this research, between December 2026 and June 2027, a series of physical interface prototypes - inspired by *Large Language Objects* and *Calm Technology* - will explore other ways of relating to AI agents, interrogating their status, form and personality, inviting reflection on how we might relate differently to the *other*.
 
 ## References
 
