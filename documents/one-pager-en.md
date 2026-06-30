@@ -34,7 +34,7 @@ Conducted between Geneva and Kyoto from July to November 2026, it investigates w
 
 ## Methodology
 
-This research adopts a reflexive posture, attentive to the risks of instrumentalisation and cultural appropriation inherent in any design practice conducted outside its original context.
+This research adopts a reflexive stance, acknowledging the risks of projection, instrumentalisation, and cultural appropriation that accompany any attempt to transpose ontological frameworks from one cultural context to another.
 
 It combines four complementary approaches:
 
@@ -61,7 +61,7 @@ It combines four complementary approaches:
 
 ### Field sites in Kyoto
 
-Ginkaku-ji · Kōdai-ji · Shinjuan · mui LAB · Calm Tech Institute
+Ginkaku-ji · Kōdai-ji · Shinjuan · mui LAB · Calm Tech Institute · Kyoto Design Lab
 
 ## Timeline
 

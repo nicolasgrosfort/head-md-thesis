@@ -34,7 +34,7 @@ Mené entre Genève et Kyoto de juillet à novembre 2026, ce travail cherche à 
 
 ## Méthodologie
 
-Cette recherche adopte une posture réflexive, attentive aux risques d'instrumentalisation et d'appropriation culturelle inhérents à toute démarche de design menée hors de son contexte d'origine.
+Cette recherche adopte une posture réflexive, consciente des risques de projection, d'instrumentalisation et d'appropriation culturelle qui accompagnent toute tentative de transposer des cadres ontologiques d'un contexte culturel à un autre.
 
 Elle s'appuie sur quatre démarches complémentaires :
 
@@ -61,7 +61,7 @@ Elle s'appuie sur quatre démarches complémentaires :
 
 ### Sites de recherche à Kyoto
 
-Ginkaku-ji · Kōdai-ji · Shinjuan · mui LAB · Calm Tech Institute
+Ginkaku-ji · Kōdai-ji · Shinjuan · mui LAB · Calm Tech Institute · Kyoto Design Lab
 
 ## Calendrier
 
