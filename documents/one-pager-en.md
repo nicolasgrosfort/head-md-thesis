@@ -14,13 +14,13 @@ July - November 2026 · Geneva & Kyoto
 
 ## Summary
 
-Spiritual Stochasticism is a research project that explores how the interface metaphors of autonomous AI agents - grounded in an anthropomorphic conversational model and characterised by multiple forms of opacity - shape the sociotechnical imaginaries that underpin our relationship with them and, more broadly, our way of being in the world.
+Spiritual Stochasticism is a research project that explores how the interface metaphors of autonomous AI agents - grounded in an anthropomorphic conversational model and characterised by multiple forms of opacity - shape the sociotechnical imaginaries that underpin our relationship with them and, more broadly, influence our way of being in the world.
 
 Rather than treating the opacity of these systems as a problem to be solved, the research proposes to make it the starting point for an exploration of ways of relating that may emerge from the *invisible*.
 
 Drawing on an animist ontology, the project takes the torii - gateway of Shinto shrines - as a lens through which to explore other ways of relating to phenomena that are neither fully accessible, nor entirely explicable, visible, or controllable.
  
-Conducted between Geneva and Kyoto from July to November 2026, it investigates what it means to relate to an alterity - whether technological or otherwise - by privileging attention, empathy and presence over control and efficiency.
+Conducted between Geneva and Kyoto from July to November 2026, this research investigates what it means to relate to an alterity - whether technological or otherwise - by moving away from the paradigm of immediacy to explore other forms of coexistence, grounded in attention, empathy, and wonder rather than control and efficiency.
 
 ## Research Question
 
