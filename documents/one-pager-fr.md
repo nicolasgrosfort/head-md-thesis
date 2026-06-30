@@ -34,7 +34,7 @@ Mené entre Genève et Kyoto de juillet à novembre 2026, ce travail cherche à 
 
 ## Méthodologie
 
-Cette recherche privilégie une démarche exploratoire, où les observations de terrain, les entretiens et la pratique de conception servent moins à valider des hypothèses qu'à faire émerger de nouvelles manières de formuler les questions.
+Cette recherche privilégie une démarche exploratoire, où les observations de terrain, les entretiens et la pratique de conception servent moins à valider des hypothèses qu'à faire émerger de nouvelles manières de formuler des questions.
 
 1. **Pratique réflexive** : journal auto-ethnographique d'une interaction quotidienne avec un agent d'IA autonome (Hermès).
 2. **Immersion située** : pratique hebdomadaire du zen à Genève puis à Kyoto.

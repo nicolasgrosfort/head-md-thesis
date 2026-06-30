@@ -77,7 +77,7 @@ J'ai identifié trois niveaux de risque que je chercherai à rendre explicites t
 
 ## Méthodologie
 
-Cette recherche s'appuie sur quatre démarches complémentaires afin d'explorer comment le design peut proposer d'autres manières de cohabiter avec la technologie.
+Cette recherche privilégie une démarche exploratoire, où les observations de terrain, les entretiens et la pratique de conception servent moins à valider des hypothèses qu'à faire émerger de nouvelles manières de formuler des questions.
 
 1. **Une pratique réflexive** 
 	Interagir quotidiennement avec un agent d'IA autonome (Hermès) afin d'observer comment l'incertitude, l'aléatoire et l'opacité de son fonctionnement participent à l'émergence de formes de relation. Cette expérimentation cherchera notamment à mettre en jeu les dimensions stochastiques de l'agent comme des occasions d'interprétation, de projection et de déplacement ontologique.

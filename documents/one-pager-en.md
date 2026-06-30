@@ -34,7 +34,7 @@ Conducted between Geneva and Kyoto from July to November 2026, it investigates w
 
 ## Methodology
 
-This research takes an exploratory approach, in which field observations, interviews, and design practice serve less to validate hypotheses than to bring to light new ways of framing the questions.
+This research takes an exploratory approach, in which field observations, interviews, and design practice serve less to validate hypotheses than to bring to light new ways of framing questions.
 
 It combines four complementary approaches:
 
