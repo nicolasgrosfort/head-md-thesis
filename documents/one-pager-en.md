@@ -26,7 +26,7 @@ Conducted between Geneva and Kyoto from July to November 2026, this research inv
 
 **In what ways do the interface metaphors of autonomous AI agents shape our way of being in the world - and to what extent could an animist ontology help us imagine other ways of relating?**
 
-#### Sub-questions
+### Sub-questions
 
 1. How do the interface metaphors of autonomous AI agents shape the ways we relate to them?
 2. In what ways could an animist ontology allow us to rethink our relationship with autonomous AI agents?
@@ -96,7 +96,7 @@ A selection of the most relevant references.
 | [De la bêtise artificielle](https://editions-allia.com/fr/livre/1077/de-la-betise-artificielle)                                                                                                                                           | Anne Alombert                    | Philosophy of Technology | Book     |
 | [Le désert de nous-même](https://www.lechappee.org/collections/pour-en-finir-avec/le-desert-de-nous-memes)                                                                                                                                | Eric Sadain                      | Symbolic impoverishment  | Book     |
 | [Kojiki](https://fr.wikipedia.org/wiki/Kojiki)                                                                                                                                                                                            | Hieda no Are & Ō no Yasumaro     | Japanese mythology       | Book     |
-| [Ways of Being](https://www.seuil.com/ouvrage/toutes-les-intelligences-du-monde-james-bridle/9782021480078)                                                                                                                               | James Bridle                     | Artificial Intelligence  | Book     |
+| [Ways of Being](https://jamesbridle.com/books/ways-of-being)                                                                                                                                                                              | James Bridle                     | Artificial Intelligence  | Book     |
 | [Zeros and Ones](https://sans-soleil.com/catalogue/v-theorie-critique/zeros-uns/)                                                                                                                                                         | Sadie Plant                      | Cyberfeminism            | Book     |
 | [A(I)nimism](https://www.media.mit.edu/projects/a-i-nimism/overview/)                                                                                                                                                                     | Diana Mykhaylychenko & al.       | LLO                      | Project  |
 | [Mur Mur](https://www.murmur.living/)                                                                                                                                                                                                     | OIO Studio                       | LLO                      | Project  |
