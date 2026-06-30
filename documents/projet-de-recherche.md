@@ -14,7 +14,7 @@ Plutôt que d'envisager l'opacité de ces systèmes comme un problème à résou
 
 À partir d'une ontologie animiste, le projet prend le torii - porte des sanctuaires shinto - comme prisme pour explorer d'autres manières d'être en relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visibles ou maîtrisables.
 
-Mené entre Genève et Kyoto de juillet à novembre 2026, ce travail cherche à interroger ce que faire relation avec une altérité - qu'elle soit technique ou non - peut vouloir dire, en privilégiant l'attention, l'empathie et la présence plutôt que le contrôle et l'efficience.
+Mené entre Genève et Kyoto de juillet à novembre 2026, ce travail cherche à interroger ce que faire relation avec une altérité - qu'elle soit technique ou non - peut vouloir dire, en s'écartant du paradigme de l'immédiateté pour explorer d'autres formes de coexistence, fondées sur l'attention, l'empathie et l'émerveillement plutôt que sur le contrôle et l'efficience.
 
 ## Point de départ
 
@@ -50,9 +50,11 @@ Il serait alors légitime de s'interroger sur la nécessité même de faire rela
 
 Dans cette perspective, le torii - porte des sanctuaires shinto - apparaît comme un terrain d'observation privilégié : il matérialise le seuil vers un espace où la pensée dualiste se suspend, où l'inanimé possède une forme d'agence, et où l'inconnu peut être rencontré dans toute son opacité [^11].
 
-Tout comme l'interface qui agit comme un portail donnant accès à un nouvel espace au-delà de l'écran [^14] - à travers les métaphores conceptuelles qu'elles mobilisent [^15] -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visibles ou maîtrisables.
+Tout comme l'interface qui agit comme un portail donnant accès à un nouvel espace au-delà de l'écran [^14] - à travers les métaphores conceptuelles qu'elles mobilisent [^15] -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visibles ou maîtrisables. Son franchissement invite à reconnaître la frontière ontologique qu'il matérialise et à suspendre le paradigme de l'immédiateté au profit d'une posture plus contemplative et réflexive.
   
-Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux [^23] pour laisser émerger d'autres manières de faire relation avec la technologie - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, celles-ci privilégieraient l'attention, la curiosité, l'empathie et la présence plutôt que l'efficience, la délégation et le contrôle.
+Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux [^23] pour explorer d'autres manières de faire relation avec la technologie, sans vernis anthropomorphiques et injonction à lefficience - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, il s'agit d'ouvrir un espace réflexif où d'autres modèles relationnels - fondées sur l'attention, la curiosité, la présence et l'altérité - deviennent possibles.
+
+Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux[^23] pour explorer d'autres manières de faire relation avec la technologie et, plus largement, avec l'altérité - affranchies des métaphores anthropomorphiques. Ancrée dans une ontologie relationnelle, cette démarche ouvre un espace où d'autres formes de coexistence peuvent émerger, fondées sur l'empathie et l'émerveillement plutôt que sur le contrôle et l'efficience.
 
 ## Question de recherche
 
@@ -86,7 +88,7 @@ Cette recherche privilégie une démarche exploratoire, où les observations de 
 	Mener une pratique hebdomadaire au Dojo Zen (Genève), puis au Ginkaku-ji (Kyoto), afin d'explorer les formes d'attention, de présence et de relation qui émergent de ces lieux, en s'ouvrant à ce qu'ils donnent à voir et à ressentir.
 	Documenter cette démarche par un journal réflexif en mobilisant une approche auto-ethnographique.
 3. **Une observation de terrain**
-	Observer et documenter le torii - son architecture, ses usages, les interactions et les formes de médiation qu'il organise — afin de comprendre comment il organise les relations entre humains, objets, espaces, rites et phénomènes, ainsi que les *scripts* inscrits dans ces dispositifs.
+	Observer et documenter le torii - son architecture, ses usages, les interactions et les formes de médiation qu'il organise - afin de comprendre comment il organise les relations entre humains, objets, espaces, rites et phénomènes, ainsi que les *scripts* inscrits dans ces dispositifs.
 	Cartographier les relations observées à partir de notes, de photographies, d'enregistrements sonores, de scans 3D et de relevés in situ. Ces matériaux alimenteront une cartographie relationnelle inspirée de la théorie de l'acteur-réseau, utilisée comme outil d'analyse.
 4. **Une démarche de conception**
 	Prototyper des métaphores d'interface alternatives afin d'explorer les formes de relation qu'elles rendent possibles.
@@ -278,7 +280,7 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 
 [^28]: CLAWD. (2025). *Soul.md*. Disponible à l'adresse : https://soul.md [consulté le 21.06.2026]
 
-[^29]: CASE, A. (2023). *Inside the Very Human Origin of the Term “Artificial Intelligence” — And Its Seven Decade Boom/Bust Cycle*.  Disponible à l'adresse : https://medium.com/block-science/inside-the-very-human-origin-of-the-term-artificial-intelligence-and-its-seven-decade-c36e0326245e [consulté le 04.04.2026]
+[^29]: CASE, A. (2023). *Inside the Very Human Origin of the Term “Artificial Intelligence” - And Its Seven Decade Boom/Bust Cycle*.  Disponible à l'adresse : https://medium.com/block-science/inside-the-very-human-origin-of-the-term-artificial-intelligence-and-its-seven-decade-c36e0326245e [consulté le 04.04.2026]
 
 [^30]: SUPERRR. (2025). About AI and Unlikelihood. Disponible à l'adresse : https://superrr.net/en/blog/about-ai-and-unlikelihood [consulté le 27.05.2026]
 
