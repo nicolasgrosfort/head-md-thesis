@@ -34,7 +34,7 @@ Conducted between Geneva and Kyoto from July to November 2026, it investigates w
 
 ## Methodology
 
-This research adopts a reflexive stance, acknowledging the risks of projection, instrumentalisation, and cultural appropriation that accompany any attempt to transpose ontological frameworks from one cultural context to another.
+This research takes an exploratory approach, in which field observations, interviews, and design practice serve less to validate hypotheses than to bring to light new ways of framing the questions.
 
 It combines four complementary approaches:
 
@@ -42,6 +42,10 @@ It combines four complementary approaches:
 2. **Situated immersion**: weekly Zen practice in Geneva, then in Kyoto.
 3. **Field observation**: documentation of the torii and relational mapping of the forms of mediation it organises.
 4. **Design approach**: exploration of alternative interface metaphors.
+
+### Posture
+
+This research adopts a reflexive stance, acknowledging the risks of projection, instrumentalisation, and cultural appropriation that accompany any attempt to transpose ontological frameworks from one cultural context to another.
 
 ### Interviews
 

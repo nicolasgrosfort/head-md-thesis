@@ -34,14 +34,16 @@ Mené entre Genève et Kyoto de juillet à novembre 2026, ce travail cherche à 
 
 ## Méthodologie
 
-Cette recherche adopte une posture réflexive, consciente des risques de projection, d'instrumentalisation et d'appropriation culturelle qui accompagnent toute tentative de transposer des cadres ontologiques d'un contexte culturel à un autre.
-
-Elle s'appuie sur quatre démarches complémentaires :
+Cette recherche privilégie une démarche exploratoire, où les observations de terrain, les entretiens et la pratique de conception servent moins à valider des hypothèses qu'à faire émerger de nouvelles manières de formuler les questions.
 
 1. **Pratique réflexive** : journal auto-ethnographique d'une interaction quotidienne avec un agent d'IA autonome (Hermès).
 2. **Immersion située** : pratique hebdomadaire du zen à Genève puis à Kyoto.
 3. **Observation de terrain** : documentation du torii et cartographie relationnelle des formes de médiation qu'il organise.
 4. **Démarche de conception** : exploration de métaphores d'interface alternatives.
+
+### Posture 
+
+Cette recherche adopte une posture réflexive, consciente des risques de projection, d'instrumentalisation et d'appropriation culturelle qui accompagnent toute tentative de transposer des cadres ontologiques d'un contexte culturel à un autre.
 
 ### Entretiens
 
