@@ -14,7 +14,7 @@ July - November 2026 · Geneva & Kyoto
 
 ## Summary
 
-Spiritual Stochasticism is a research project that explores how the interface metaphors of autonomous AI agents - grounded in an anthropomorphic conversational model and characterised by multiple forms of opacity - shape the sociotechnical imaginaries that underpin our relationship with them and, more broadly, influence our way of being in the world.
+*Spiritual Stochasticism* is a research project that explores how the interface metaphors of autonomous AI agents - grounded in an anthropomorphic conversational model and characterised by multiple forms of opacity - shape the sociotechnical imaginaries that underpin our relationship with them and, more broadly, influence our way of being in the world.
 
 Rather than treating the opacity of these systems as a problem to be solved, the research proposes to make it the starting point for an exploration of ways of relating that may emerge from the *invisible*.
 
@@ -69,14 +69,16 @@ Ginkaku-ji · Kōdai-ji · Shinjuan · mui LAB · Calm Tech Institute · Kyoto D
 
 ## Timeline
 
-| Month         | Phases                                         | Milestones                                 | Location |
-| ------------- | ---------------------------------------------- | ------------------------------------------ | -------- |
-| **June**      | Reading, preparation                           | Research project                           | Geneva   |
-| **July**      | Reading, interviews, observations, writing     | Interviews, Immersion                      | Geneva   |
-| **August**    | Interviews, observations, writing, prototyping | Interviews, Immersion, Observations        | Kyoto    |
-| **September** | Interviews, writing, presentation              | Interim presentation, 30,000 characters    | Kyoto    |
-| **October**   | Writing, layout                                | Interim presentation,<br>Research platform | Geneva   |
-| **November**  | Proofreading, finalisation                     | Final presentation, 50,000 characters      | Geneva   |
+● Primary activity · ◐ Secondary activity
+
+| **Month** | Reading | Writing | Interviews | Reflexive practice | Situated immersion | Field observation | Design exploration | Outputs                                             |
+| --------- | ------- | ------- | ---------- | ------------------ | ------------------ | ----------------- | ------------------ | --------------------------------------------------- |
+| June      | ●       | ◐       |            | ◐                  |                    |                   |                    | Research proposal, Hermès setup                     |
+| July      | ●       | ◐       | ●          | ●                  | ●                  | ●                 |                    | Research platform (v1)                              |
+| August    | ●       | ●       | ●          | ●                  | ●                  | ●                 | ●                  | Research platform (v2)                              |
+| September | ●       | ●       | ◐          | ●                  | ●                  | ●                 | ●                  | Interim presentation (Kyoto),<br>Draft thesis (30k) |
+| October   |         | ●       |            | ◐                  |                    |                   | ●                  | Interim presentation (Geneva)                       |
+| November  |         | ●       |            | ◐                  |                    |                   |                    | Final presentation (Geneva),<br>Final thesis (50k)  |
 
 ## Output
 

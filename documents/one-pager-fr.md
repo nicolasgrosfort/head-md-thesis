@@ -67,14 +67,16 @@ Ginkaku-ji · Kōdai-ji · Shinjuan · mui LAB · Calm Tech Institute · Kyoto D
 
 ## Calendrier
 
-| Mois          | Phases                                             | Jalons                                            | Localisation |
-| ------------- | -------------------------------------------------- | ------------------------------------------------- | ------------ |
-| **Juin**      | Lecture, préparation                               | Projet de recherche                               | Genève       |
-| **Juillet**   | Lecture, entretiens, observations, écriture        | Entretiens, <br>Immersion                         | Genève       |
-| **Août**      | Entretiens, observations, écriture,<br>prototypage | Entretiens, <br>Immersion,<br>Observations<br>    | Kyoto        |
-| **Septembre** | Entretiens, écriture, présentation                 | Présentation intermédiaire, <br>30'000 caractères | Kyoto        |
-| **Octobre**   | Écriture, mise en page                             | Présentation intermédiaire,<br>Dispositif web     | Genève       |
-| **Novembre**  | Relecture, finalisation                            | Présentation finale, 50'000 caractères            | Genève       |
+● Activité principale · ◐ Activité secondaire
+
+| **Mois**  | **Lecture** | **Écriture** | **Entretiens** | **Pratique réflexive** | **Immersion située** | **Observation de terrain** | **Démarche de conception** | **Livrables**                                                                 |
+| --------- | ----------- | ------------ | -------------- | ---------------------- | -------------------- | -------------------------- | -------------------------- | ----------------------------------------------------------------------------- |
+| Juin      | ●           | ◐            |                | ◐                      |                      |                            |                            | Projet de recherche, <br>Mise en place d'Hermès                               |
+| Juillet   | ●           | ◐            | ●              | ●                      | ●                    | ●                          |                            | Plateforme de recherche (v1)                                                  |
+| Août      | ●           | ●            | ●              | ●                      | ●                    | ●                          | ●                          | Plateforme de recherche (v2)                                                  |
+| Septembre | ●           | ●            | ◐              | ●                      | ●                    | ●                          | ●                          | Présentation intermédiaire (Kyoto),<br>Premier jet du mémoire (30'000 signes) |
+| Octobre   |             | ●            |                | ◐                      |                      |                            | ●                          | Présentation intermédiaire (Genève)                                           |
+| Novembre  |             | ◐            |                | ◐                      |                      |                            |                            | Présentation finale (Genève),<br>Mémoire final (50'000 signes)                |
 
 ## Restitution
 

@@ -51,8 +51,10 @@ Il serait alors légitime de s'interroger sur la nécessité même de faire rela
 Dans cette perspective, le torii - porte des sanctuaires shinto - apparaît comme un terrain d'observation privilégié : il matérialise le seuil vers un espace où la pensée dualiste se suspend, où l'inanimé possède une forme d'agence, et où l'inconnu peut être rencontré dans toute son opacité [^11].
 
 Tout comme l'interface qui agit comme un portail donnant accès à un nouvel espace au-delà de l'écran [^14] - à travers les métaphores conceptuelles qu'elles mobilisent [^15] -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visibles ou maîtrisables. Son franchissement invite à reconnaître la frontière ontologique qu'il matérialise et à suspendre le paradigme de l'immédiateté au profit d'une posture plus contemplative et réflexive.
+  
+Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux [^23] pour explorer d'autres manières de faire relation avec la technologie, sans vernis anthropomorphiques et injonction à lefficience - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, il s'agit d'ouvrir un espace réflexif où d'autres modèles relationnels - fondées sur l'attention, la curiosité, la présence et l'altérité - deviennent possibles.
 
-Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux[^23] pour explorer d'autres manières de faire relation avec la technologie et, plus largement, avec l'altérité - affranchies des métaphores anthropomorphiques. Ancrée dans une ontologie relationnelle, cette démarche ouvre un espace où d'autres formes de coexistence peuvent émerger, fondées sur l'empathie et l'émerveillement plutôt que sur le contrôle et l'efficience.
+Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux[^23] pour explorer d'autres manières de faire relation avec la technologie et, plus largement, avec l'altérité - affranchies des métaphores anthropomorphiques. Ancrée dans une ontologie relationnelle, cette démarche ouvre un espace où d'autres formes de coexistence peuvent émerger, fondés sur l'empathie et l'émerveillement plutôt que sur le contrôle et l'efficience.
 
 ## Question de recherche
 
@@ -110,14 +112,16 @@ Cette recherche privilégie une démarche exploratoire, où les observations de 
 
 ## Calendrier
 
-| Mois          | Phases                                             | Jalons                                                                              | Localisation |
-| ------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------ |
-| **Juin**      | Lecture, préparation                               | Projet de recherche, carnet de recherche, grille d'entretien, grille d'observations | Genève       |
-| **Juillet**   | Lecture, entretiens, observations, écriture        | Entretiens, <br>Immersion                                                           | Genève       |
-| **Août**      | Entretiens, observations, écriture,<br>prototypage | Entretiens, <br>Immersion,<br>Observations<br>                                      | Kyoto        |
-| **Septembre** | Entretiens, écriture, présentation                 | Présentation intermédiaire, <br>30'000 caractères                                   | Kyoto        |
-| **Octobre**   | Écriture, mise en page                             | Présentation intermédiaire,<br>Dispositif web                                       | Genève       |
-| **Novembre**  | Relecture, finalisation                            | Présentation finale, 50'000 caractères                                              | Genève       |
+● Activité principale · ◐ Activité secondaire
+
+| **Mois**  | **Lecture** | **Écriture** | **Entretiens** | **Pratique réflexive** | **Immersion située** | **Observation de terrain** | **Démarche de conception** | **Livrables**                                                                 |
+| --------- | ----------- | ------------ | -------------- | ---------------------- | -------------------- | -------------------------- | -------------------------- | ----------------------------------------------------------------------------- |
+| Juin      | ●           | ◐            |                | ◐                      |                      |                            |                            | Projet de recherche, <br>Mise en place d'Hermès                               |
+| Juillet   | ●           | ◐            | ●              | ●                      | ●                    | ●                          |                            | Plateforme de recherche (v1)                                                  |
+| Août      | ●           | ●            | ●              | ●                      | ●                    | ●                          | ●                          | Plateforme de recherche (v2)                                                  |
+| Septembre | ●           | ●            | ◐              | ●                      | ●                    | ●                          | ●                          | Présentation intermédiaire (Kyoto),<br>Premier jet du mémoire (30'000 signes) |
+| Octobre   |             | ●            |                | ◐                      |                      |                            | ●                          | Présentation intermédiaire (Genève)                                           |
+| Novembre  |             | ◐            |                | ◐                      |                      |                            |                            | Présentation finale (Genève),<br>Mémoire final (50'000 signes)                |
 
 ## Restitution
 
