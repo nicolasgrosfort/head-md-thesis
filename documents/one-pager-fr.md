@@ -37,7 +37,7 @@ Mené entre Genève et Kyoto de juillet à novembre 2026, ce travail cherche à 
 Cette recherche privilégie une démarche exploratoire, où les observations de terrain, les entretiens et la pratique de conception servent moins à valider des hypothèses qu'à faire émerger de nouvelles manières de formuler des questions.
 
 1. **Pratique réflexive** : journal auto-ethnographique d'une interaction quotidienne avec un agent d'IA autonome (Hermès).
-2. **Immersion située** : déambulation attentive au sein de sanctuaires, de temples et de leurs abords.
+2. **Immersion située** : déambulation attentive dans des sanctuaires, des temples et leurs abords.
 3. **Observation de terrain** : documentation du torii et cartographie relationnelle des formes de médiation qu'il organise.
 4. **Démarche de conception** : exploration de métaphores d'interface alternatives.
 
@@ -80,7 +80,7 @@ Ginkaku-ji · Kōdai-ji · Shinjuan · mui LAB · Calm Tech Institute · Kyoto D
 
 ## Restitution
 
-La restitution prendra la forme d'un dispositif web expérimental donnant accès aux observations, entretiens et journal de recherche, tout en explorant d'autres manières d'interagir avec un agent d'IA. Elle sera accompagnée d'un mémoire écrit de 50 000 signes. 
+La recherche prendra principalement la forme d'un dispositif web expérimental donnant accès aux observations, entretiens et journal de recherche, tout en explorant d'autres manières d'interagir avec un agent d'IA. Elle sera accompagnée d'un mémoire écrit de 50 000 signes. 
 
 ### Projet pratique
 

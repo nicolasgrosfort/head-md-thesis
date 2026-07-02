@@ -18,7 +18,7 @@ July - November 2026 · Geneva & Kyoto
 
 Rather than treating the opacity of these systems as a problem to be solved, the research proposes to make it the starting point for an exploration of ways of relating that may emerge from the *invisible*.
 
-Drawing on an animist ontology, the project takes the torii - gateway of Shinto shrines - as a lens through which to explore other ways of relating to phenomena that are neither fully accessible, nor entirely explicable, visible, or controllable.
+Drawing on an animist ontology, the project takes the torii - gateway to Shinto shrines - as a lens through which to explore other ways of relating to phenomena that are neither fully accessible, nor entirely explicable, visible, or controllable.
  
 Conducted between Geneva and Kyoto from July to November 2026, this research investigates what it means to relate to an alterity - whether technological or otherwise - by moving away from the paradigm of immediacy to explore other forms of coexistence, grounded in attention, empathy, and wonder rather than control and efficiency.
 
@@ -34,13 +34,13 @@ Conducted between Geneva and Kyoto from July to November 2026, this research inv
 
 ## Methodology
 
-This research takes an exploratory approach, in which field observations, interviews, and design practice serve less to validate hypotheses than to bring to light new ways of framing questions.
+This research takes an exploratory approach, in which field observations, interviews, and design practice serve less to validate hypotheses than to generate new ways of framing questions.
 
 It combines four complementary approaches:
 
 1. **Reflexive practice**: an auto-ethnographic journal documenting daily interactions with an autonomous AI agent (Hermès).
 2. **Situated immersion**: attentive wandering through shrines, temples, and their surroundings.
-3. **Field observation**: documentation of the torii and relational mapping of the forms of mediation it organises.
+3. **Field observation**: documentation of the torii and relational mapping of the forms of mediation it organizes.
 4. **Design approach**: exploration of alternative interface metaphors.
 
 ### Posture
@@ -82,11 +82,11 @@ Ginkaku-ji · Kōdai-ji · Shinjuan · mui LAB · Calm Tech Institute · Kyoto D
 
 ## Output
 
-The research will primarily take the form of a web-based research platform providing access to observations, interviews, and the research journal, while exploring other ways of interacting with an AI agent. It will be accompanied by a written thesis (approximately 50,000 characters).
+The research will primarily take the form of an experimental web platform providing access to observations, interviews, and the research journal, while exploring other ways of interacting with an AI agent. It will be accompanied by a written thesis (approximately 50,000 characters).
 
 ### Practical Project
 
-Following this research, between December 2026 and June 2027, a series of physical interface prototypes - inspired by *Large Language Objects* and *Calm Technology* - will explore other ways of relating to AI agents, interrogating their status, form and personality, inviting reflection on how we might relate differently to the *other*.
+Following this research, between December 2026 and June 2027, a series of physical interface prototypes - inspired by *Large Language Objects* and *Calm Technology* - will explore other ways of relating to AI agents, interrogating their status, form, and personality, while inviting reflection on how we might relate differently to the other.
 
 ## References
 
@@ -109,4 +109,4 @@ A selection of the most relevant references.
 
 ## Keywords
 
-Animist ontology · Relational ontology · Autonomous AI agents · Interface metaphors · Opacity · Alterity · Sociotechnical imaginaries · Torii · Liminal space · Care ethics · Speculative design · Auto-ethnography · Situated research · Mediation · Interface design · Shinto · Calm technology · Techno-animism
+Animist ontology · Relational ontology · Autonomous AI agents · Interface metaphors · Opacity · Alterity · Sociotechnical imaginaries · Torii · Liminal space · Care ethics · Speculative design · Auto-ethnography · Situated inquiry · Mediation · Interface design · Shinto · Calm technology · Techno-animism

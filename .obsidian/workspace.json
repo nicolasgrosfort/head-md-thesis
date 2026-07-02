@@ -6,7 +6,7 @@
       {
         "id": "256861b6051c954d",
         "type": "tabs",
-        "dimension": 46.14014251781472,
+        "dimension": 13.064133016627078,
         "children": [
           {
             "id": "8f6a272abbedf43e",
@@ -37,7 +37,7 @@
       {
         "id": "5f2fca7dc50d3b83",
         "type": "tabs",
-        "dimension": 19.71496437054632,
+        "dimension": 34.61995249406176,
         "children": [
           {
             "id": "11d8fc1f6371f54d",
@@ -68,7 +68,7 @@
       {
         "id": "337f887c076271f2",
         "type": "tabs",
-        "dimension": 34.14489311163896,
+        "dimension": 52.31591448931117,
         "children": [
           {
             "id": "97d37e9ca4dd9cd8",
@@ -255,10 +255,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "8f6a272abbedf43e",
+  "active": "97d37e9ca4dd9cd8",
   "lastOpenFiles": [
-    "documents/one-pager-fr.md",
     "documents/projet-de-recherche.md",
+    "documents/one-pager-fr.md",
     "documents/one-pager-en.md",
     "documents/archives/projet-de-recherche-(déprécié).md",
     "assets/images/2026-06-29-chat-dev.png",
