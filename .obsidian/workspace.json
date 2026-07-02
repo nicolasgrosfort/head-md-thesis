@@ -6,7 +6,7 @@
       {
         "id": "256861b6051c954d",
         "type": "tabs",
-        "dimension": 25.75516693163752,
+        "dimension": 46.14014251781472,
         "children": [
           {
             "id": "8f6a272abbedf43e",
@@ -37,7 +37,7 @@
       {
         "id": "5f2fca7dc50d3b83",
         "type": "tabs",
-        "dimension": 31.8362480127186,
+        "dimension": 19.71496437054632,
         "children": [
           {
             "id": "11d8fc1f6371f54d",
@@ -68,7 +68,7 @@
       {
         "id": "337f887c076271f2",
         "type": "tabs",
-        "dimension": 42.408585055643876,
+        "dimension": 34.14489311163896,
         "children": [
           {
             "id": "97d37e9ca4dd9cd8",
@@ -258,8 +258,8 @@
   "active": "8f6a272abbedf43e",
   "lastOpenFiles": [
     "documents/one-pager-fr.md",
-    "documents/one-pager-en.md",
     "documents/projet-de-recherche.md",
+    "documents/one-pager-en.md",
     "documents/archives/projet-de-recherche-(déprécié).md",
     "assets/images/2026-06-29-chat-dev.png",
     "assets/images/2026-06-29-claw-3d.png",

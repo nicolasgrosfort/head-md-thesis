@@ -51,10 +51,8 @@ Il serait alors légitime de s'interroger sur la nécessité même de faire rela
 Dans cette perspective, le torii - porte des sanctuaires shinto - apparaît comme un terrain d'observation privilégié : il matérialise le seuil vers un espace où la pensée dualiste se suspend, où l'inanimé possède une forme d'agence, et où l'inconnu peut être rencontré dans toute son opacité [^11].
 
 Tout comme l'interface qui agit comme un portail donnant accès à un nouvel espace au-delà de l'écran [^14] - à travers les métaphores conceptuelles qu'elles mobilisent [^15] -, le torii donne accès à un espace qui organise une relation avec des phénomènes ni entièrement accessibles, ni totalement explicables, visibles ou maîtrisables. Son franchissement invite à reconnaître la frontière ontologique qu'il matérialise et à suspendre le paradigme de l'immédiateté au profit d'une posture plus contemplative et réflexive.
-  
-Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux [^23] pour explorer d'autres manières de faire relation avec la technologie, sans vernis anthropomorphiques et injonction à lefficience - et, plus largement, avec l'altérité. Ancrées dans une ontologie relationnelle, il s'agit d'ouvrir un espace réflexif où d'autres modèles relationnels - fondées sur l'attention, la curiosité, la présence et l'altérité - deviennent possibles.
 
-Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux[^23] pour explorer d'autres manières de faire relation avec la technologie et, plus largement, avec l'altérité - affranchies des métaphores anthropomorphiques. Ancrée dans une ontologie relationnelle, cette démarche ouvre un espace où d'autres formes de coexistence peuvent émerger, fondés sur l'empathie et l'émerveillement plutôt que sur le contrôle et l'efficience.
+Ce travail propose alors de s'appuyer sur les formes de médiation observées dans ces espaces liminaux[^23] pour explorer d'autres manières de faire relation avec la technologie et, plus largement, avec l'altérité - affranchies des métaphores anthropomorphiques. Ancrée dans une ontologie relationnelle, cette démarche ouvre un espace où d'autres formes de coexistence peuvent émerger, fondées sur l'empathie et l'émerveillement plutôt que sur le contrôle et l'efficience.
 
 ## Question de recherche
 
@@ -83,10 +81,10 @@ Cette recherche privilégie une démarche exploratoire, où les observations de 
 
 1. **Une pratique réflexive** 
 	Interagir quotidiennement avec un agent d'IA autonome (Hermès) afin d'observer comment l'incertitude, l'aléatoire et l'opacité de son fonctionnement participent à l'émergence de formes de relation. Cette expérimentation cherchera notamment à mettre en jeu les dimensions stochastiques de l'agent comme des occasions d'interprétation, de projection et de déplacement ontologique.
-	Documenter cette démarche par un journal réflexif en mobilisant une approche auto-ethnographique.
+	Documenter cette démarche dans un journal réflexif en mobilisant une approche auto-ethnographique.
 2. **Une immersion située**
-	Mener une pratique hebdomadaire au Dojo Zen (Genève), puis au Ginkaku-ji (Kyoto), afin d'explorer les formes d'attention, de présence et de relation qui émergent de ces lieux, en s'ouvrant à ce qu'ils donnent à voir et à ressentir.
-	Documenter cette démarche par un journal réflexif en mobilisant une approche auto-ethnographique.
+	Fréquenter régulièrement des sanctuaires, des temples et leurs abords dans le cadre d'une déambulation attentive, afin de développer une attention aux formes de relation, aux usages, aux ambiances et aux médiations qui s'y déploient.
+	Documenter cette démarche dans un journal réflexif en mobilisant une approche auto-ethnographique.
 3. **Une observation de terrain**
 	Observer et documenter le torii - son architecture, ses usages, les interactions et les formes de médiation qu'il organise - afin de comprendre comment il organise les relations entre humains, objets, espaces, rites et phénomènes, ainsi que les *scripts* inscrits dans ces dispositifs.
 	Cartographier les relations observées à partir de notes, de photographies, d'enregistrements sonores, de scans 3D et de relevés in situ. Ces matériaux alimenteront une cartographie relationnelle inspirée de la théorie de l'acteur-réseau, utilisée comme outil d'analyse.
@@ -160,7 +158,7 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 | [How to be an explorer of the world](https://www.sjsu.edu/anthropology/docs/coursematerials/marlovits/HowtobeanExplorer.pdf)                                                                                                                                                                                       | Keri Smith                                             | Technique d'observation     | 20%             |
 | [How to speak Machine](https://blackwells.co.uk/bookshop/product/How-to-Speak-Machine-by-John-Maeda/9780262553179)                                                                                                                                                                                                 | John Maeda                                             | Intelligence artificielle   | 100 %           |
 | [Kojiki](https://fr.wikipedia.org/wiki/Kojiki)                                                                                                                                                                                                                                                                     | Hieda no Are & Ō no Yasumaro                           | Mythologie japonaise        | 0%              |
-| [Le désert de nous-même](https://www.lechappee.org/collections/pour-en-finir-avec/le-desert-de-nous-memes)                                                                                                                                                                                                         | Eric Sadin                                             | Misère symbolique           | 0%              |
+| [Le désert de nous-même](https://www.lechappee.org/collections/pour-en-finir-avec/le-desert-de-nous-memes)                                                                                                                                                                                                         | Éric Sadin                                             | Misère symbolique           | 0%              |
 | [Manifeste cyborg et autres essais sciences, fictions, féminismes](https://www.fr.fnac.ch/a1768690/Donna-Jeanne-Haraway-Manifeste-cyborg-et-autres-essais-sciences-fictions-feminismes)                                                                                                                            | Donna Jeanne Haraway                                   | Cyberféminisme              | 0%              |
 | [Persistance du merveilleux](https://www.lelivre.ch/Detail-persistance_du_merveilleux-4-9782850612473)                                                                                                                                                                                                             | Nicolas Nova                                           | Imaginaires technique       | 80 %            |
 | [Robopoiëse](https://editions-baconniere.ch/fr/catalogue/robopoieses)                                                                                                                                                                                                                                              | André Ourednik                                         | Intelligence Artificielle   | 20 %            |
@@ -213,16 +211,16 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 
 ### Lieux
 
-| Nom                     | Emplacement | Domaine                      |
-| ----------------------- | ----------- | ---------------------------- |
-| **Calm Tech Institute** | Kyoto       | Calm Technology              |
-| **Ginkaku-ji**          | Kyoto       | Temple bouddhiste (zen)      |
-| **Kōdai-ji**            | Kyoto       | Sanctuaire (techno-animisme) |
-| **mui LAB**             | Kyoto       | Design Studio                |
-| **Musée Ghibli**        | Tokyo       | Imaginaires                  |
-| **Nintendo museum**     | Kyoto       | Musée                        |
-| **Shinjuan**            | Kyoto       | Sanctuaire (tsukumogami)     |
-| **Zen Deshimaru**       | Genève      | Dojo zen                     |
+| Nom                     | Emplacement | Domaine                             |
+| ----------------------- | ----------- | ----------------------------------- |
+| **Calm Tech Institute** | Kyoto       | Calm Technology                     |
+| **Ginkaku-ji**          | Kyoto       | Temple bouddhiste (zen)             |
+| **Kōdai-ji**            | Kyoto       | Temple bouddhiste (techno-animisme) |
+| **mui LAB**             | Kyoto       | Design Studio                       |
+| **Musée Ghibli**        | Tokyo       | Imaginaires                         |
+| **Nintendo museum**     | Kyoto       | Musée                               |
+| **Shinjuan**            | Kyoto       | Temple bouddhiste (tsukumogami)     |
+| **Zen Deshimaru**       | Genève      | Dojo zen                            |
 
 ## Références
 
@@ -242,7 +240,7 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 
 [^8]: LOGLIO, M. (2026). _a world inside a speaker_. Oio News. Disponible à l'adresse https://www.oio.news/p/3 [consulté le 28 juin 2026]
 
-[^9]: MARENKO, B., VAN ALLEN, P. (2016). Animistic Design: How to Reimagine Digital Interaction between the Human and the Nonhuman. Disponible à l'adresse https://www.researchgate.net/publication/296836038_Animistic_Design_How_to_Reimagine_Digital_Interaction_between_the_Human_and_the_Nonhuman [consulté le w21.06.2026]
+[^9]: MARENKO, B., VAN ALLEN, P. (2016). Animistic Design: How to Reimagine Digital Interaction between the Human and the Nonhuman. Disponible à l'adresse https://www.researchgate.net/publication/296836038_Animistic_Design_How_to_Reimagine_Digital_Interaction_between_the_Human_and_the_Nonhuman [consulté le 21.06.2026]
 
 [^10]: BRIDLE, James. 2024. *Toutes les intelligences du monde : Animaux, plantes, machines*.
 

@@ -39,7 +39,7 @@ This research takes an exploratory approach, in which field observations, interv
 It combines four complementary approaches:
 
 1. **Reflexive practice**: an auto-ethnographic journal documenting daily interactions with an autonomous AI agent (Hermès).
-2. **Situated immersion**: weekly Zen practice in Geneva, then in Kyoto.
+2. **Situated immersion**: attentive wandering through shrines, temples, and their surroundings.
 3. **Field observation**: documentation of the torii and relational mapping of the forms of mediation it organises.
 4. **Design approach**: exploration of alternative interface metaphors.
 
@@ -96,7 +96,7 @@ A selection of the most relevant references.
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------ | -------- |
 | [Cultures du design numérique](https://www.editions205.fr/products/cultures-du-design-numerique-histoire-des-idees-et-enjeux-contemporains)                                                                                               | Nolwenn Maudet                   | Interface Design         | Book     |
 | [De la bêtise artificielle](https://editions-allia.com/fr/livre/1077/de-la-betise-artificielle)                                                                                                                                           | Anne Alombert                    | Philosophy of Technology | Book     |
-| [Le désert de nous-même](https://www.lechappee.org/collections/pour-en-finir-avec/le-desert-de-nous-memes)                                                                                                                                | Eric Sadin                       | Symbolic impoverishment  | Book     |
+| [Le désert de nous-même](https://www.lechappee.org/collections/pour-en-finir-avec/le-desert-de-nous-memes)                                                                                                                                | Éric Sadin                       | Symbolic impoverishment  | Book     |
 | [Kojiki](https://fr.wikipedia.org/wiki/Kojiki)                                                                                                                                                                                            | Hieda no Are & Ō no Yasumaro     | Japanese mythology       | Book     |
 | [Ways of Being](https://jamesbridle.com/books/ways-of-being)                                                                                                                                                                              | James Bridle                     | Artificial Intelligence  | Book     |
 | [Zeros and Ones](https://sans-soleil.com/catalogue/v-theorie-critique/zeros-uns/)                                                                                                                                                         | Sadie Plant                      | Cyberfeminism            | Book     |

@@ -37,7 +37,7 @@ Mené entre Genève et Kyoto de juillet à novembre 2026, ce travail cherche à 
 Cette recherche privilégie une démarche exploratoire, où les observations de terrain, les entretiens et la pratique de conception servent moins à valider des hypothèses qu'à faire émerger de nouvelles manières de formuler des questions.
 
 1. **Pratique réflexive** : journal auto-ethnographique d'une interaction quotidienne avec un agent d'IA autonome (Hermès).
-2. **Immersion située** : pratique hebdomadaire du zen à Genève puis à Kyoto.
+2. **Immersion située** : déambulation attentive au sein de sanctuaires, de temples et de leurs abords.
 3. **Observation de terrain** : documentation du torii et cartographie relationnelle des formes de médiation qu'il organise.
 4. **Démarche de conception** : exploration de métaphores d'interface alternatives.
 
@@ -93,7 +93,7 @@ Une sélection des références les plus pertinentes.
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------- | -------- |
 | [Cultures du design numérique](https://www.editions205.fr/products/cultures-du-design-numerique-histoire-des-idees-et-enjeux-contemporains)                                                                                               | Nolwenn Maudet                   | Design d'interface          | Livre    |
 | [De la bêtise artificielle](https://editions-allia.com/fr/livre/1077/de-la-betise-artificielle)                                                                                                                                           | Anne Alombert                    | Philosophie de la technique | Livre    |
-| [Le désert de nous-même](https://www.lechappee.org/collections/pour-en-finir-avec/le-desert-de-nous-memes)                                                                                                                                | Eric Sadin                       | Misère symbolique           | Livre    |
+| [Le désert de nous-même](https://www.lechappee.org/collections/pour-en-finir-avec/le-desert-de-nous-memes)                                                                                                                                | Éric Sadin                       | Misère symbolique           | Livre    |
 | [Kojiki](https://fr.wikipedia.org/wiki/Kojiki)                                                                                                                                                                                            | Hieda no Are & Ō no Yasumaro     | Mythologie japonaise        | Livre    |
 | [Toutes les intelligences du monde](https://www.seuil.com/ouvrage/toutes-les-intelligences-du-monde-james-bridle/9782021480078)                                                                                                           | James Bridle                     | Intelligence Artificielle   | Livre    |
 | [Zéro + Uns](https://sans-soleil.com/catalogue/v-theorie-critique/zeros-uns/)                                                                                                                                                             | Sadie Plant                      | Cyberféminisme              | Livre    |
