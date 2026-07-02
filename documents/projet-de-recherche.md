@@ -208,6 +208,7 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 | [Little Computer People](https://en.wikipedia.org/wiki/Little_Computer_People)                                                                  | David Crane &<br>Rich Gold | Simulation anthropomorphique | ![Little Computer People](../assets/images/2026-06-26-little-computer-people-david-crane.png) |
 | [Claw 3D](https://www.claw3d.ai/?utm_campaign=a-world-inside-a-speaker&utm_medium=referral&utm_source=www.oio.news)                             | Luke The Dev               | Simulation anthropomorphique | ![](../assets/images/2026-06-29-claw-3d.png)                                                  |
 | [ChatDev](https://github.com/OpenBMB/ChatDev/tree/chatdev1.0?utm_campaign=a-world-inside-a-speaker&utm_medium=referral&utm_source=www.oio.news) | OpenBMB                    | Simulation anthropomorphique | ![](../assets/images/2026-06-29-chat-dev.png)                                                 |
+| [Thronglets](https://www.netflix.com/tudum/articles/black-mirror-thronglets-mobile-game-news)                                                   | Netflix                    | Simulation de créature       | ![](../assets/images/2026-07-02-black-mirror-thronglets.jpeg)                                 |
 
 ### Lieux
 
