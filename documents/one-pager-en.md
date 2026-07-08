@@ -2,7 +2,7 @@
 création: 2026-06-29
 révision: 2026-06-29
 ---
-# Spiritual Stochasticism
+# Spiritual Stokhastik
 
 *One pager* [EN]
 
@@ -14,7 +14,7 @@ July - November 2026 · Geneva & Kyoto
 
 ## Summary
 
-*Spiritual Stochasticism* is a research project that explores how the interface metaphors of autonomous AI agents - grounded in an anthropomorphic conversational model and characterised by multiple forms of opacity - shape the sociotechnical imaginaries that underpin our relationship with them and, more broadly, influence our way of being in the world.
+*Spiritual Stokhastik* is a research project that explores how the interface metaphors of autonomous AI agents - grounded in an anthropomorphic conversational model and characterised by multiple forms of opacity - shape the sociotechnical imaginaries that underpin our relationship with them and, more broadly, influence our way of being in the world.
 
 Rather than treating the opacity of these systems as a problem to be solved, the research proposes to make it the starting point for an exploration of ways of relating that may emerge from the *invisible*.
 
