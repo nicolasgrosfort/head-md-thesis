@@ -94,19 +94,19 @@ Cette recherche privilégie une démarche exploratoire, où les observations de 
 
 ## Entretiens
 
-| **Personnes**             | **Lieu**               | **Thématiques**                                  |
-| ------------------------- | ---------------------- | ------------------------------------------------ |
-| **À définir**             | Kyoto                  | Philosophie et ontologie animistes               |
-| **À définir**             | Kyoto                  | Histoire du Japon et shintoïsme                  |
-| **Gergely Péter Barna**   | Kyoto                  | Machines, artisanat et traditions                |
-| **Ryo Terui**             | Kyoto                  | Actantialité et relations humain–non-humain      |
-| **À définir**             | Genève / Kyoto         | Expériences d'usage des agents d'IA              |
-| **Douglas Edric Stanley** | Genève                 | Relations humain–agent d'IA                      |
-| **Virginia Bjertnes**     | Genève                 | Conte, récits et ontologie animiste              |
-| **Alexa Steinbrück**      | Allemagne (à distance) | Intelligence artificielle                        |
-| **Anne Alombert**         | France (à distance)    | Perroquets stochastiques et délégation cognitive |
-| **André Ourednik**        | Lausanne (à distance)  | Machines spirituelles et oracles                 |
-| **Matteo Loglio**         | Tessin (à distance)    | Agents d'IA et projet *Mur Mur*                  |
+| **Personnes**             | **Lieu**               | **Thématiques**                                  | Status    |
+| ------------------------- | ---------------------- | ------------------------------------------------ | --------- |
+| **À définir**             | Kyoto                  | Philosophie et ontologie animistes               |           |
+| **À définir**             | Kyoto                  | Histoire du Japon et shintoïsme                  |           |
+| **Gergely Péter Barna**   | Kyoto                  | Machines, artisanat et traditions                |           |
+| **Ryo Terui**             | Kyoto                  | Actantialité et relations humain–non-humain      |           |
+| **À définir**             | Genève / Kyoto         | Expériences d'usage des agents d'IA              |           |
+| **Douglas Edric Stanley** | Genève                 | Relations humain–agent d'IA                      |           |
+| **Virginia Bjertnes**     | Genève                 | Conte, récits et ontologie animiste              | Plannifié |
+| **Alexa Steinbrück**      | Allemagne (à distance) | Intelligence artificielle                        |           |
+| **Anne Alombert**         | France (à distance)    | Perroquets stochastiques et délégation cognitive |           |
+| **André Ourednik**        | Lausanne (à distance)  | Machines spirituelles et oracles                 |           |
+| **Matteo Loglio**         | Tessin (à distance)    | Agents d'IA et projet *Mur Mur*                  |           |
 
 ## Calendrier
 
@@ -147,7 +147,7 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 | [Aesthetic Animism](https://books.google.ch/books/about/Aesthetic_Animism.html?id=chtWDAAAQBAJ&redir_esc=y)                                                                                                                                                                                                        | David Jhave Johnston                                   | Animisme                    | 0%              |
 | [AI Snake Oil](https://press.princeton.edu/books/hardcover/9780691249131/ai-snake-oil)                                                                                                                                                                                                                             | Arvind Narayanan, Sayash Kapoor                        | Intelligence artificielle   | 0 %             |
 | [Being Alive](https://www.routledge.com/Being-Alive-Essays-on-Movement-Knowledge-and-Description/Ingold/p/book/9781032052311?gad_source=1&gad_campaignid=23516140042&gbraid=0AAAAACWuhHVEbV7oOhwhJ8F1TDzxAk4s-&gclid=Cj0KCQjwxvjRBhC2ARIsAI7KJa2dg6SIbVtrYf7tKFkwwX7j-d0eoFpBlMyYFhYE5RytC85yaZxNu2MaAsRSEALw_wcB) | Tim Ingold                                             | Environnement               | 0%              |
-| [Cultures du design numérique](https://www.editions205.fr/products/cultures-du-design-numerique-histoire-des-idees-et-enjeux-contemporains)                                                                                                                                                                        | Nolwenn Maudet                                         | Interfaces                  | 80 %            |
+| [Cultures du design numérique](https://www.editions205.fr/products/cultures-du-design-numerique-histoire-des-idees-et-enjeux-contemporains)                                                                                                                                                                        | Nolwenn Maudet                                         | Interfaces                  | 100 %           |
 | [De la bêtise artificielle](https://editions-allia.com/fr/livre/1077/de-la-betise-artificielle)                                                                                                                                                                                                                    | Anne Alombert                                          | Philosophie de la technique | 100 %           |
 | [Dreamscapes of Modernity](https://press.uchicago.edu/ucp/books/book/chicago/D/bo20836025.html)                                                                                                                                                                                                                    | Sheila Jasanoff                                        | Imaginaires                 | 0%              |
 | [Du mode d'existence des objets techniques](https://www.payot.ch/Detail/9782700704280)                                                                                                                                                                                                                             | Gilbert Simondon                                       | Philosophie de la technique | 5 %             |
@@ -160,7 +160,7 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 | [Kojiki](https://fr.wikipedia.org/wiki/Kojiki)                                                                                                                                                                                                                                                                     | Hieda no Are & Ō no Yasumaro                           | Mythologie japonaise        | 0%              |
 | [Le désert de nous-même](https://www.lechappee.org/collections/pour-en-finir-avec/le-desert-de-nous-memes)                                                                                                                                                                                                         | Éric Sadin                                             | Misère symbolique           | 0%              |
 | [Manifeste cyborg et autres essais sciences, fictions, féminismes](https://www.fr.fnac.ch/a1768690/Donna-Jeanne-Haraway-Manifeste-cyborg-et-autres-essais-sciences-fictions-feminismes)                                                                                                                            | Donna Jeanne Haraway                                   | Cyberféminisme              | 0%              |
-| [Persistance du merveilleux](https://www.lelivre.ch/Detail-persistance_du_merveilleux-4-9782850612473)                                                                                                                                                                                                             | Nicolas Nova                                           | Imaginaires technique       | 80 %            |
+| [Persistance du merveilleux](https://www.lelivre.ch/Detail-persistance_du_merveilleux-4-9782850612473)                                                                                                                                                                                                             | Nicolas Nova                                           | Imaginaires technique       | 90 %            |
 | [Robopoiëse](https://editions-baconniere.ch/fr/catalogue/robopoieses)                                                                                                                                                                                                                                              | André Ourednik                                         | Intelligence Artificielle   | 20 %            |
 | [Schizophrénie numérique](https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique)                                                                                                                                                                                                                     | Anne Alombert                                          | Philosophie de la technique | 100 %           |
 | [The Question Concerning Technology in China](https://mitpress.mit.edu/9780995455009/the-question-concerning-technology-in-china/)                                                                                                                                                                                 | Yuk Hui                                                | Cosmotechnique, ontologie   | 0 %             |
@@ -172,21 +172,21 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 | **Référence**                                                                                                                                                                                                                             | **Auteur**                       | Domaine                        | **Progression** |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------ | --------------- |
 | [Animistic Design - How to Reimagine Digital Interaction between the Human and the Nonhuman](https://www.researchgate.net/publication/296836038_Animistic_Design_How_to_Reimagine_Digital_Interaction_between_the_Human_and_the_Nonhuman) | Betti Marenko & Philip van Allen | Design animiste                | 100%            |
-| [L'hypothèse cybernétique](https://translationcollective.wordpress.com/wp-content/uploads/2012/06/cybernetique.pdf)                                                                                                                       | Tiqqun                           | Cybernétique                   | 30%             |
+| [L'hypothèse cybernétique](https://translationcollective.wordpress.com/wp-content/uploads/2012/06/cybernetique.pdf)                                                                                                                       | Tiqqun                           | Cybernétique                   | 100%            |
 | [Jin Shin Jyutsu](https://www.jinshinjyutsu-asso.fr/origine/)                                                                                                                                                                             | Jin Shin Jyutsu                  | Soin                           | 100%            |
-| [Philippe Descola, Les formes du visible. Une anthropologie de la figuration](https://journals.openedition.org/lectures/56270)                                                                                                            | Corinne Delmas                   | Ontologie animiste             | 0%              |
+| [Philippe Descola, Les formes du visible. Une anthropologie de la figuration](https://journals.openedition.org/lectures/56270)                                                                                                            | Corinne Delmas                   | Ontologie animiste             | 100%            |
 | [The Corporation and the Counterculture](https://www.are.na/block/1285168)                                                                                                                                                                | Fred Turner                      | Cybernétique et contre-culture | 100%            |
-| [Viveiros de Castro et le « multinaturalisme » amazonien](https://www.nonfiction.fr/article-12660-viveiros-de-castro-et-le-multinaturalisme-amazonien.htm)                                                                                | Christian Ruby                   | Ontologie animiste             | 0%              |
+| [Viveiros de Castro et le « multinaturalisme » amazonien](https://www.nonfiction.fr/article-12660-viveiros-de-castro-et-le-multinaturalisme-amazonien.htm)                                                                                | Christian Ruby                   | Ontologie animiste             | 100%            |
 
 ### Filmographie
 
-| Référence                                                                                                         | Auteur          | Domaine         |
-| ----------------------------------------------------------------------------------------------------------------- | --------------- | --------------- |
-| [De simples jouets (Black Mirror)](https://en.wikipedia.org/wiki/Plaything_(Black_Mirror))                        | Charlie Brooker | Agentivité      |
-| [Her](https://fr.wikipedia.org/wiki/Her_(film))                                                                   | Spike Jonze     | Relation IA     |
-| [Le vent se lève](https://fr.wikipedia.org/wiki/Le_vent_se_lève_(film,_2013))                                     | Hayao Miyazaki  | Techno-animisme |
-| [Mon voisin Totoro](https://fr.wikipedia.org/wiki/Mon_voisin_Totoro)                                              | Hayao Miyazaki  | Altérité        |
-| [Nausicaä de la Vallée du Vent](https://fr.wikipedia.org/wiki/Nausicaä_de_la_Vallée_du_Vent_(film_d%27animation)) | Hayao Miyazaki  | Anthropocène    |
+| Référence                                                                                                         | Auteur          | Domaine         | Progression |
+| ----------------------------------------------------------------------------------------------------------------- | --------------- | --------------- | ----------- |
+| [De simples jouets (Black Mirror)](https://en.wikipedia.org/wiki/Plaything_(Black_Mirror))                        | Charlie Brooker | Agentivité      | 100%        |
+| [Her](https://fr.wikipedia.org/wiki/Her_(film))                                                                   | Spike Jonze     | Relation IA     | 100%        |
+| [Le vent se lève](https://fr.wikipedia.org/wiki/Le_vent_se_lève_(film,_2013))                                     | Hayao Miyazaki  | Techno-animisme | 0%          |
+| [Mon voisin Totoro](https://fr.wikipedia.org/wiki/Mon_voisin_Totoro)                                              | Hayao Miyazaki  | Altérité        | 100%        |
+| [Nausicaä de la Vallée du Vent](https://fr.wikipedia.org/wiki/Nausicaä_de_la_Vallée_du_Vent_(film_d%27animation)) | Hayao Miyazaki  | Anthropocène    | 100%        |
 
 ### Projets
 

@@ -254,13 +254,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "72152527786690d6",
+  "active": "11d8fc1f6371f54d",
   "lastOpenFiles": [
+    "bases/carte.base",
+    "documents/protocole-prise-de-données.md",
     "README.md",
+    "sdfasdfa.md",
+    "bases",
     "documents/projet-de-recherche.md",
+    "test.md",
+    "documents/one-pager-en.md",
     "Machine d'Anticythère.md",
     "documents/one-pager-fr.md",
-    "documents/one-pager-en.md",
     "assets/images/2026-07-04-tamagotchi.jpeg",
     "assets/images/2026-07-04-flow.webp",
     "assets/images/2026-07-02-pet-rock.jpg",
