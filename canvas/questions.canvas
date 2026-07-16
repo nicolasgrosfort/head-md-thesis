@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"7159faacf9738759","type":"text","text":" Comment les métaphores d'interface des agents d'IA autonomes organisent-elles notre manière d'entrer en relation avec eux ?","x":80,"y":-935,"width":370,"height":115},
+		{"id":"4b5a62882e563ed9","type":"text","text":"En quoi une ontologie animiste permettrait-elle de repenser notre relation aux agents d'IA autonomes ?","x":80,"y":-789,"width":370,"height":115},
+		{"id":"3c681b36c93f26c3","type":"text","text":"De quelles manières le torii médiatise-t-il la relation à l'altérité ?","x":80,"y":-618,"width":370,"height":85},
+		{"id":"24c62bbd6e84b2f5","type":"text","text":"**En quoi les métaphores d'interface des agents d'IA autonomes façonnent-elles notre manière d'être au monde - et dans quelle mesure une ontologie animiste permettrait-elle d'en imaginer d'autres ?**","x":-420,"y":-832,"width":370,"height":202},
+		{"id":"ae526f4f59581cc3","type":"text","text":"La plupart des métaphores ou analogies utilisées pour décrire le bestiaire merveilleux digital sont d'origine occidentale.","x":-545,"y":-220,"width":250,"height":202},
+		{"id":"85d812f4859398c4","type":"text","text":"QUID du Japon ?","x":-420,"y":-48,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1e3e07519906227a","fromNode":"24c62bbd6e84b2f5","fromSide":"right","toNode":"7159faacf9738759","toSide":"left"},
+		{"id":"c4585725f2fcd6d8","fromNode":"24c62bbd6e84b2f5","fromSide":"right","toNode":"4b5a62882e563ed9","toSide":"left"},
+		{"id":"a303bc0ab01eb288","fromNode":"24c62bbd6e84b2f5","fromSide":"right","toNode":"3c681b36c93f26c3","toSide":"left"}
+	]
+}
