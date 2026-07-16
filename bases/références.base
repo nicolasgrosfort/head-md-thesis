@@ -1,0 +1,78 @@
+views:
+  - type: table
+    name: Tout
+    filters:
+      and:
+        - file.inFolder("références")
+    order:
+      - création
+      - file.name
+      - domaines
+      - type
+      - urls
+      - progression
+      - intérêt
+    sort:
+      - property: intérêt
+        direction: DESC
+    columnSize:
+      file.name: 258
+      note.progression: 96
+      note.intérêt: 82
+  - type: table
+    name: En cours
+    filters:
+      and:
+        - file.inFolder("références")
+        - progression > 0
+        - progression < 100
+    order:
+      - création
+      - file.name
+      - domaines
+      - type
+      - urls
+      - progression
+      - intérêt
+    sort:
+      - property: intérêt
+        direction: DESC
+    columnSize:
+      file.name: 258
+      note.progression: 96
+      note.intérêt: 82
+  - type: table
+    name: Terminé
+    filters:
+      and:
+        - file.inFolder("références")
+        - progression == 100
+    order:
+      - création
+      - file.name
+      - domaines
+      - type
+      - urls
+    columnSize:
+      file.name: 258
+  - type: table
+    name: À faire
+    filters:
+      and:
+        - file.inFolder("références")
+        - progression == 0
+    order:
+      - création
+      - file.name
+      - domaines
+      - type
+      - urls
+      - progression
+      - intérêt
+    sort:
+      - property: intérêt
+        direction: DESC
+    columnSize:
+      file.name: 258
+      note.progression: 96
+      note.intérêt: 82

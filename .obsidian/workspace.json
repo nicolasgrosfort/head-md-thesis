@@ -4,40 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "256861b6051c954d",
-        "type": "tabs",
-        "dimension": 22.209026128266032,
-        "children": [
-          {
-            "id": "8f6a272abbedf43e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documents/one-pager-en.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "one-pager-en"
-            }
-          }
-        ]
-      },
-      {
         "id": "5f2fca7dc50d3b83",
         "type": "tabs",
-        "dimension": 54.69121140142518,
         "children": [
           {
             "id": "11d8fc1f6371f54d",
@@ -45,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documents/projet-de-recherche.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,38 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "projet-de-recherche"
-            }
-          }
-        ]
-      },
-      {
-        "id": "337f887c076271f2",
-        "type": "tabs",
-        "dimension": 23.09976247030879,
-        "children": [
-          {
-            "id": "97d37e9ca4dd9cd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documents/one-pager-fr.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "one-pager-fr"
+              "title": "README"
             }
           }
         ]
@@ -256,14 +193,27 @@
   },
   "active": "11d8fc1f6371f54d",
   "lastOpenFiles": [
-    "assets/images/2026-07-15-espace-latent.jpg",
+    "bases/carte.base",
+    "bases/références.base",
+    "références/eduardo-viveiros-de-castro.md",
+    "références/le-dit-du-genji.md",
+    "templates/référence.md",
+    "templates/journal.md",
+    "templates/référence.md.sb-9b8c3641-sBam90",
+    "templates/journal.md.sb-9b8c3641-qbKSY2",
+    "journal",
+    "README.md",
+    "templates/référence.md.sb-9b8c3641-vdVPVo",
+    "templates",
+    "canvas/questions.canvas",
+    "références",
     "documents/projet-de-recherche.md",
+    "canvas",
+    "assets/images/2026-07-15-espace-latent.jpg",
     "assets/images/2026-06-20-espace-liminaire.jpg",
     "documents/one-pager-en.md",
     "assets/images/2026-05-17-techno-naturalisme.jpg",
-    "bases/carte.base",
     "documents/protocole-prise-de-données.md",
-    "README.md",
     "sdfasdfa.md",
     "bases",
     "test.md",
@@ -278,14 +228,7 @@
     "assets/images/2026-06-29-claw-3d.png",
     "readme.md",
     "assets/images/2026-06-26-techno-animism-emi-kusano-1.jpeg",
-    "documents/archives",
-    "assets/images",
-    "assets",
-    "quartz/public/coucou.canvas.html",
     "documents/Coucou.canvas",
-    "quartz/public/test.base.html",
-    "documents/Untitled.canvas",
-    "documents/Test.base",
-    "documents/Untitled.base"
+    "documents/Untitled.canvas"
   ]
 }

@@ -14,6 +14,7 @@ Projet de recherche mené par Nicolas Grosfort dans le cadre d'un Master en Medi
 ## Bases
 
 - [Carte](bases/carte.base)
+- [Références](bases/références.base)
 
 ## Archives
 

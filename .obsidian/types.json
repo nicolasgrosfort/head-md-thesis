@@ -6,6 +6,13 @@
     "apa": "text",
     "références": "multitext",
     "page": "multitext",
-    "date": "date"
+    "date": "date",
+    "urls": "multitext",
+    "priorité": "number",
+    "progression": "number",
+    "domaines": "multitext",
+    "type": "multitext",
+    "création": "date",
+    "relations": "multitext"
   }
 }
