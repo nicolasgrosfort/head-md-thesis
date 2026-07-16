@@ -2,6 +2,6 @@ views:
   - type: map
     name: Carte
     center: "[7.86338, 0.7251]"
-    coordinates: note.coordinates
-    markerIcon: note.icon
-    markerColor: note.color
+    coordinates: note.coordonnées
+    markerIcon: note.icône
+    markerColor: note.couleur

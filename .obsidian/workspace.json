@@ -6,14 +6,15 @@
       {
         "id": "5f2fca7dc50d3b83",
         "type": "tabs",
+        "dimension": 57.49152542372882,
         "children": [
           {
-            "id": "11d8fc1f6371f54d",
+            "id": "de103116539bdbeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "entretiens/virginia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +29,62 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "virginia"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e327cdd6ca8e4bb5",
+        "type": "tabs",
+        "dimension": 19.93220338983051,
+        "children": [
+          {
+            "id": "64b71292f2671018",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "canvas/questions.canvas",
+                "viewState": {
+                  "x": 192.42551369863043,
+                  "y": -518.8116095890405,
+                  "zoom": -0.5550092786195283
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "questions"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d1e7e7627023f294",
+        "type": "tabs",
+        "dimension": 22.576271186440678,
+        "children": [
+          {
+            "id": "2a54e6fb22ff4dae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documents/projet-de-recherche.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "projet-de-recherche"
             }
           }
         ]
@@ -63,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"ontologie relationnelle\"",
+                "query": "coordina",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2ce155ca947964e",
@@ -191,31 +248,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "11d8fc1f6371f54d",
+  "active": "de103116539bdbeb",
   "lastOpenFiles": [
-    "bases/carte.base",
+    "entretiens/Untitled.md",
+    "entretiens/virginia.md",
+    "documents/projet-de-recherche.md",
+    "bases/entretiens.base",
     "bases/références.base",
-    "références/eduardo-viveiros-de-castro.md",
-    "références/le-dit-du-genji.md",
+    "README.md",
+    "bases/carte.base",
+    "entretiens/douglas.md",
+    "entretiens/matteo.md",
+    "canvas/questions.canvas",
     "templates/référence.md",
     "templates/journal.md",
+    "templates/entretiens.md",
+    "documents/protocole-prise-de-données.md",
+    "références/eduardo-viveiros-de-castro.md",
+    "entretiens",
+    "Untitled.md",
+    "références/le-dit-du-genji.md",
     "templates/référence.md.sb-9b8c3641-sBam90",
     "templates/journal.md.sb-9b8c3641-qbKSY2",
     "journal",
-    "README.md",
     "templates/référence.md.sb-9b8c3641-vdVPVo",
     "templates",
-    "canvas/questions.canvas",
     "références",
-    "documents/projet-de-recherche.md",
-    "canvas",
     "assets/images/2026-07-15-espace-latent.jpg",
     "assets/images/2026-06-20-espace-liminaire.jpg",
     "documents/one-pager-en.md",
     "assets/images/2026-05-17-techno-naturalisme.jpg",
-    "documents/protocole-prise-de-données.md",
     "sdfasdfa.md",
-    "bases",
     "test.md",
     "Machine d'Anticythère.md",
     "documents/one-pager-fr.md",

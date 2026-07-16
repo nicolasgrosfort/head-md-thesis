@@ -94,19 +94,19 @@ Cette recherche privilégie une démarche exploratoire, où les observations de 
 
 ## Entretiens
 
-| **Personnes**             | **Lieu**               | **Thématiques**                                  | Status     |
-| ------------------------- | ---------------------- | ------------------------------------------------ | ---------- |
-| **À définir**             | Kyoto                  | Philosophie et ontologie animistes               |            |
-| **À définir**             | Kyoto                  | Histoire du Japon et shintoïsme                  |            |
-| **Gergely Péter Barna**   | Kyoto                  | Machines, artisanat et traditions                |            |
-| **Ryo Terui**             | Kyoto                  | Actantialité et relations humain–non-humain      |            |
-| **À définir**             | Genève / Kyoto         | Expériences d'usage des agents d'IA              |            |
-| **Douglas Edric Stanley** | Genève                 | Relations humain–agent d'IA                      | En attente |
-| **Virginia Bjertnes**     | Genève                 | Conte, récits et ontologie animiste              | Planifié   |
-| **Alexa Steinbrück**      | Allemagne (à distance) | Intelligence artificielle                        |            |
-| **Anne Alombert**         | France (à distance)    | Perroquets stochastiques et délégation cognitive |            |
-| **André Ourednik**        | Lausanne (à distance)  | Machines spirituelles et oracles                 |            |
-| **Matteo Loglio**         | Tessin (à distance)    | Agents d'IA et projet *Mur Mur*                  | Prochain   |
+| **Personnes**                                         | **Lieu**               | **Thématiques**                                  | Status     |
+| ----------------------------------------------------- | ---------------------- | ------------------------------------------------ | ---------- |
+| **À définir**                                         | Kyoto                  | Philosophie et ontologie animistes               |            |
+| **À définir**                                         | Kyoto                  | Histoire du Japon et shintoïsme                  |            |
+| **Gergely Péter Barna**                               | Kyoto                  | Machines, artisanat et traditions                |            |
+| **Ryo Terui**                                         | Kyoto                  | Actantialité et relations humain–non-humain      |            |
+| **À définir**                                         | Genève / Kyoto         | Expériences d'usage des agents d'IA              |            |
+| [**Douglas Edric Stanley**](../entretiens/douglas.md) | Genève                 | Relations humain–agent d'IA                      | En attente |
+| [**Virginia Bjertnes**](../entretiens/virginia.md)    | Genève                 | Conte, récits et ontologie animiste              | Planifié   |
+| **Alexa Steinbrück**                                  | Allemagne (à distance) | Intelligence artificielle                        |            |
+| **Anne Alombert**                                     | France (à distance)    | Perroquets stochastiques et délégation cognitive |            |
+| **André Ourednik**                                    | Lausanne (à distance)  | Machines spirituelles et oracles                 |            |
+| [**Matteo Loglio**](../entretiens/matteo.md)          | Tessin (à distance)    | Agents d'IA et projet *Mur Mur*                  | Prochain   |
 
 ## Calendrier
 

@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Tout
+    filters:
+      and:
+        - file.inFolder("entretiens")
+    order:
+      - date
+      - file.name
+      - statut
+      - domaines
+    sort:
+      - property: date
+        direction: ASC

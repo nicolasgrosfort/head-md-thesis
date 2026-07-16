@@ -1,11 +1,11 @@
 ---
 création: 2026-07-14
 révision: 2026-07-14
-coordinates:
+coordonnées:
   - "46.18119569729086"
   - "6.139475125571111"
-icon: house
-color: red
+icône: house
+couleur: red
 ---
 # Protocole de prise de données
 

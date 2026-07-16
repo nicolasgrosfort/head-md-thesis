@@ -13,6 +13,7 @@
     "domaines": "multitext",
     "type": "multitext",
     "création": "date",
-    "relations": "multitext"
+    "relations": "multitext",
+    "statut": "multitext"
   }
 }
