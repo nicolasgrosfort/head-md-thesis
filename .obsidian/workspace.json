@@ -8,20 +8,57 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15d3db10aa9f2d6f",
+            "id": "67af7f1e35756c51",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "canvas/questions.canvas",
-                "viewState": {
-                  "x": 44.84312737428783,
-                  "y": -167.10384732003902,
-                  "zoom": -0.9095312333699677
+                "file": "entretiens/douglas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "questions"
+              "icon": "lucide-file",
+              "title": "douglas"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8f013a48cbbbbeec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "961836f6ddf9e8bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documents/projet-de-recherche.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "projet-de-recherche"
             }
           }
         ]
@@ -184,26 +221,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "15d3db10aa9f2d6f",
+  "active": "961836f6ddf9e8bd",
   "lastOpenFiles": [
+    "entretiens/virginia.md",
+    "entretiens/douglas.md",
+    "références/ai-snake-oil.md",
+    "références/talking-about-ai-a-call-for-more-nuanced-terminology.md",
+    "références/le-dit-du-genji.md",
+    "références/eduardo-viveiros-de-castro.md",
+    "références/alexa-steinbrück.md",
+    "templates/référence.md",
+    "canvas/questions.canvas",
     "documents/projet-de-recherche.md",
     "templates/entretiens.md",
-    "canvas/questions.canvas",
     "templates/journal.md",
-    "templates/référence.md",
-    "entretiens/virginia.md",
     "entretiens/Untitled.md",
     "bases/entretiens.base",
     "bases/références.base",
     "README.md",
     "bases/carte.base",
-    "entretiens/douglas.md",
     "entretiens/matteo.md",
     "documents/protocole-prise-de-données.md",
-    "références/eduardo-viveiros-de-castro.md",
     "entretiens",
     "Untitled.md",
-    "références/le-dit-du-genji.md",
     "templates/référence.md.sb-9b8c3641-sBam90",
     "templates/journal.md.sb-9b8c3641-qbKSY2",
     "journal",

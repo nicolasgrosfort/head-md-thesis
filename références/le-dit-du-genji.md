@@ -16,5 +16,6 @@ tags:
   - mythe
 description: Oeuvre de littérature japonaise, considéré comme le premier roman psychologique du monde.
 relations:
+auteurs:
 ---
 # Le Dit du Genji
