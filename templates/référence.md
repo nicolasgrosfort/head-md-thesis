@@ -5,6 +5,7 @@ type:
 domaines:
 création: "{{date}}"
 urls:
+cover:
 tags:
 description:
 relations:

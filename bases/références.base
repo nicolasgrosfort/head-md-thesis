@@ -76,3 +76,9 @@ views:
       file.name: 258
       note.progression: 96
       note.intérêt: 82
+  - type: cards
+    name: Vignettes
+    filters:
+      and:
+        - file.inFolder("références")
+    image: note.cover

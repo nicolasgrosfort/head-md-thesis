@@ -17,5 +17,6 @@ tags:
 description: Oeuvre de littérature japonaise, considéré comme le premier roman psychologique du monde.
 relations:
 auteurs:
+  - Murasaki Shikibu
 ---
 # Le Dit du Genji

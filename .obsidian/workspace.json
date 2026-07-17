@@ -13,36 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entretiens/douglas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "douglas"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8f013a48cbbbbeec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "961836f6ddf9e8bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "documents/projet-de-recherche.md",
                 "mode": "source",
                 "source": false,
@@ -59,6 +29,108 @@
               },
               "icon": "lucide-file",
               "title": "projet-de-recherche"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8f013a48cbbbbeec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53bb592ebe6ea1a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "références/alexa-steinbrück.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "alexa-steinbrück"
+            }
+          },
+          {
+            "id": "961836f6ddf9e8bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "références/roby.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "roby"
+            }
+          },
+          {
+            "id": "7c82d25b8bed2b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "références/many-intelligences.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "many-intelligences"
+            }
+          },
+          {
+            "id": "9973f644d60ee1bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "références/le-dit-du-genji.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "le-dit-du-genji"
             }
           }
         ]
@@ -81,7 +153,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -118,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 272.5
   },
   "right": {
     "id": "e2ce155ca947964e",
@@ -221,26 +293,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "961836f6ddf9e8bd",
+  "active": "67af7f1e35756c51",
   "lastOpenFiles": [
-    "entretiens/virginia.md",
-    "entretiens/douglas.md",
-    "références/ai-snake-oil.md",
-    "références/talking-about-ai-a-call-for-more-nuanced-terminology.md",
-    "références/le-dit-du-genji.md",
-    "références/eduardo-viveiros-de-castro.md",
     "références/alexa-steinbrück.md",
-    "templates/référence.md",
-    "canvas/questions.canvas",
+    "références/talking-about-ai-a-call-for-more-nuanced-terminology.md",
     "documents/projet-de-recherche.md",
+    "références/many-intelligences.md",
+    "références/le-dit-du-genji.md",
+    "références/roby.md",
+    "entretiens/matteo.md",
+    "bases/références.base",
+    "références/ai-snake-oil.md",
+    "assets/images/2026-07-17-roby.png",
+    "références/mur-mur.md",
+    "Capture d’écran 2026-07-17 à 11.37.20.png",
+    "templates/référence.md",
+    "assets/images/2026-07-17-many-intelligences.png",
+    "références/matteo-loglio.md",
+    "références/eduardo-viveiros-de-castro.md",
+    "entretiens/douglas.md",
+    "entretiens/virginia.md",
+    "canvas/questions.canvas",
     "templates/entretiens.md",
     "templates/journal.md",
     "entretiens/Untitled.md",
     "bases/entretiens.base",
-    "bases/références.base",
     "README.md",
     "bases/carte.base",
-    "entretiens/matteo.md",
     "documents/protocole-prise-de-données.md",
     "entretiens",
     "Untitled.md",
@@ -262,11 +341,6 @@
     "assets/images/2026-07-04-flow.webp",
     "assets/images/2026-07-02-pet-rock.jpg",
     "assets/images/2026-07-02-black-mirror-thronglets.jpeg",
-    "documents/archives/projet-de-recherche-(déprécié).md",
-    "assets/images/2026-06-29-chat-dev.png",
-    "assets/images/2026-06-29-claw-3d.png",
-    "readme.md",
-    "assets/images/2026-06-26-techno-animism-emi-kusano-1.jpeg",
     "documents/Coucou.canvas",
     "documents/Untitled.canvas"
   ]

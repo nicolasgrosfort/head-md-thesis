@@ -8,6 +8,7 @@ domaines:
 création: 2026-07-17
 urls:
   - "[Goodreads](https://www.goodreads.com/book/show/210319458-ai-snake-oil)"
+cover:
 tags:
   - intelligence-artificielle
   - technique
