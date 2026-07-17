@@ -98,15 +98,16 @@ Cette recherche privilégie une démarche exploratoire, où les observations de 
 | ----------------------------------------------------- | ---------------------- | ------------------------------------------------ | ---------- |
 | **À définir**                                         | Kyoto                  | Philosophie et ontologie animistes               |            |
 | **À définir**                                         | Kyoto                  | Histoire du Japon et shintoïsme                  |            |
-| **Gergely Péter Barna**                               | Kyoto                  | Machines, artisanat et traditions                |            |
-| **Ryo Terui**                                         | Kyoto                  | Actantialité et relations humain–non-humain      |            |
-| **À définir**                                         | Genève / Kyoto         | Expériences d'usage des agents d'IA              |            |
-| [**Douglas Edric Stanley**](../entretiens/douglas.md) | Genève                 | Relations humain–agent d'IA                      | En attente |
-| [**Virginia Bjertnes**](../entretiens/virginia.md)    | Genève                 | Conte, récits et ontologie animiste              | Planifié   |
+|                                                       |                        |                                                  |            |
 | **Alexa Steinbrück**                                  | Allemagne (à distance) | Intelligence artificielle                        |            |
-| **Anne Alombert**                                     | France (à distance)    | Perroquets stochastiques et délégation cognitive |            |
 | **André Ourednik**                                    | Lausanne (à distance)  | Machines spirituelles et oracles                 |            |
+| **Anne Alombert**                                     | France (à distance)    | Perroquets stochastiques et délégation cognitive |            |
+| [**Douglas Edric Stanley**](../entretiens/douglas.md) | Genève                 | Relations humain–agent d'IA                      | En attente |
+| **Gergely Péter Barna**                               | Kyoto                  | Machines, artisanat et traditions                |            |
 | [**Matteo Loglio**](../entretiens/matteo.md)          | Tessin (à distance)    | Agents d'IA et projet *Mur Mur*                  | Prochain   |
+| **Ryo Terui**                                         | Kyoto                  | Actantialité et relations humain–non-humain      |            |
+| [**Virginia Bjertnes**](../entretiens/virginia.md)    | Genève                 | Conte, récits et ontologie animiste              | Planifié   |
+| [Vytas Jankauskas](https://vjnks.com)                 | Genève                 | Artiste media designer qui travailler avec l'IA  | Prochain   |
 
 ## Calendrier
 

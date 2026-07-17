@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15f2f6504fa352c0",
+        "id": "36c9ff290ea3f74e",
         "type": "tabs",
         "children": [
           {
-            "id": "67af7f1e35756c51",
+            "id": "7003a787606e85dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,108 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "projet-de-recherche"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8f013a48cbbbbeec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "53bb592ebe6ea1a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "références/alexa-steinbrück.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "alexa-steinbrück"
-            }
-          },
-          {
-            "id": "961836f6ddf9e8bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "références/roby.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "roby"
-            }
-          },
-          {
-            "id": "7c82d25b8bed2b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "références/many-intelligences.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "many-intelligences"
-            }
-          },
-          {
-            "id": "9973f644d60ee1bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "références/le-dit-du-genji.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "le-dit-du-genji"
             }
           }
         ]
@@ -293,14 +191,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "67af7f1e35756c51",
+  "active": "7003a787606e85dc",
   "lastOpenFiles": [
+    "documents/projet-de-recherche.md",
+    "références/le-dit-du-genji.md",
+    "références/many-intelligences.md",
+    "références/roby.md",
     "références/alexa-steinbrück.md",
     "références/talking-about-ai-a-call-for-more-nuanced-terminology.md",
-    "documents/projet-de-recherche.md",
-    "références/many-intelligences.md",
-    "références/le-dit-du-genji.md",
-    "références/roby.md",
     "entretiens/matteo.md",
     "bases/références.base",
     "références/ai-snake-oil.md",
