@@ -1,6 +1,6 @@
 ---
 création: 2026-06-24
-révision: 2026-06-26
+révision: 2026-07-17
 ---
 # Spiritual Stokhastik
 
