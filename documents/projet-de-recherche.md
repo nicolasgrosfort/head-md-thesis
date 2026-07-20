@@ -102,9 +102,9 @@ Cette recherche privilégie une démarche exploratoire, où les observations de 
 | **Alexa Steinbrück**                                  | Allemagne (à distance) | Intelligence artificielle                        |            |
 | **André Ourednik**                                    | Lausanne (à distance)  | Machines spirituelles et oracles                 |            |
 | **Anne Alombert**                                     | France (à distance)    | Perroquets stochastiques et délégation cognitive |            |
-| [**Douglas Edric Stanley**](../entretiens/douglas.md) | Genève                 | Relations humain–agent d'IA                      | En attente |
+| [**Douglas Edric Stanley**](../entretiens/douglas.md) | Genève                 | Relations humain–agent d'IA                      | Planifié   |
 | **Gergely Péter Barna**                               | Kyoto                  | Machines, artisanat et traditions                |            |
-| [**Matteo Loglio**](../entretiens/matteo.md)          | Tessin (à distance)    | Agents d'IA et projet *Mur Mur*                  | Prochain   |
+| [**Matteo Loglio**](../entretiens/matteo.md)          | Tessin (à distance)    | Agents d'IA et projet *Mur Mur*                  | En attente |
 | **Ryo Terui**                                         | Kyoto                  | Actantialité et relations humain–non-humain      |            |
 | [**Virginia Bjertnes**](../entretiens/virginia.md)    | Genève                 | Conte, récits et ontologie animiste              | Planifié   |
 | [Vytas Jankauskas](https://vjnks.com)                 | Genève                 | Artiste media designer qui travailler avec l'IA  | Prochain   |
@@ -167,7 +167,7 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 | [Schizophrénie numérique](https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique)                                                                                                                                                                                                                     | Anne Alombert                                          | Philosophie de la technique  | 100%            |
 | [The Question Concerning Technology in China](https://mitpress.mit.edu/9780995455009/the-question-concerning-technology-in-china/)                                                                                                                                                                                 | Yuk Hui                                                | Cosmotechnique, ontologie    | 5%              |
 | [Toutes les intelligences du monde](https://www.seuil.com/ouvrage/toutes-les-intelligences-du-monde-james-bridle/9782021480078)                                                                                                                                                                                    | James Bridle                                           | Intelligence Artificielle    | 100%            |
-| [Zéro + Uns](https://sans-soleil.com/catalogue/v-theorie-critique/zeros-uns/)                                                                                                                                                                                                                                      | Sadie Plant                                            | Cyberféminisme               | 10%             |
+| [Zéro + Uns](https://sans-soleil.com/catalogue/v-theorie-critique/zeros-uns/)                                                                                                                                                                                                                                      | Sadie Plant                                            | Cyberféminisme               | 20%             |
 
 ### Articles
 
