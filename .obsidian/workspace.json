@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fragments/202607202118.md",
+                "file": "fragments/202607202109.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202607202118"
+              "title": "202607202109"
             }
           }
         ]
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fragments/202607202118.md",
+                "file": "fragments/202607202109.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202607202118"
+              "title": "Outline of 202607202109"
             }
           }
         ],
@@ -190,16 +190,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "copilot:Open Copilot Chat": false,
       "zk-prefixer:Create new unique note": false
     }
   },
   "active": "7003a787606e85dc",
   "lastOpenFiles": [
     "fragments/202607202116.md",
-    "fragments/202607202109.md",
     "fragments/202607202118.md",
     "templates/fragment.md",
+    "fragments/202607202109.md",
     "templates/entretien.md",
     "templates/journal.md",
     "README.md",
