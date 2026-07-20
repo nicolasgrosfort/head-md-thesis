@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documents/projet-de-recherche.md",
+                "file": "fragments/202607202118.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "projet-de-recherche"
+              "title": "202607202118"
             }
           }
         ]
@@ -164,20 +164,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "fragments/202607202118.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 202607202118"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 517.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,53 +189,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
   "active": "7003a787606e85dc",
   "lastOpenFiles": [
-    "entretiens/douglas.md",
-    "documents/projet-de-recherche.md",
-    "références/le-dit-du-genji.md",
-    "références/many-intelligences.md",
-    "références/roby.md",
-    "références/alexa-steinbrück.md",
-    "références/talking-about-ai-a-call-for-more-nuanced-terminology.md",
-    "entretiens/matteo.md",
-    "bases/références.base",
-    "références/ai-snake-oil.md",
-    "assets/images/2026-07-17-roby.png",
-    "références/mur-mur.md",
-    "Capture d’écran 2026-07-17 à 11.37.20.png",
-    "templates/référence.md",
-    "assets/images/2026-07-17-many-intelligences.png",
-    "références/matteo-loglio.md",
-    "références/eduardo-viveiros-de-castro.md",
-    "entretiens/virginia.md",
-    "canvas/questions.canvas",
-    "templates/entretiens.md",
+    "fragments/202607202116.md",
+    "fragments/202607202118.md",
+    "fragments/202607202109.md",
+    "templates/fragment.md",
+    "templates/entretien.md",
     "templates/journal.md",
-    "entretiens/Untitled.md",
-    "bases/entretiens.base",
     "README.md",
+    "fragments/Untitled 1.md",
+    "fragments/Untitled.md",
+    "documents/projet-de-recherche.md",
+    "fragments",
+    "bases/références.base",
+    "assets/images/2026-07-17-roby.png",
+    "Capture d’écran 2026-07-17 à 11.37.20.png",
+    "assets/images/2026-07-17-many-intelligences.png",
+    "canvas/questions.canvas",
+    "bases/entretiens.base",
     "bases/carte.base",
-    "documents/protocole-prise-de-données.md",
     "entretiens",
-    "Untitled.md",
     "templates/référence.md.sb-9b8c3641-sBam90",
     "templates/journal.md.sb-9b8c3641-qbKSY2",
-    "journal",
-    "templates/référence.md.sb-9b8c3641-vdVPVo",
-    "templates",
-    "références",
     "assets/images/2026-07-15-espace-latent.jpg",
     "assets/images/2026-06-20-espace-liminaire.jpg",
-    "documents/one-pager-en.md",
     "assets/images/2026-05-17-techno-naturalisme.jpg",
-    "sdfasdfa.md",
-    "test.md",
-    "Machine d'Anticythère.md",
-    "documents/one-pager-fr.md",
     "assets/images/2026-07-04-tamagotchi.jpeg",
     "assets/images/2026-07-04-flow.webp",
     "assets/images/2026-07-02-pet-rock.jpg",

@@ -1,5 +1,5 @@
 ---
-date:
+date: "{{date}}"
 domaines:
 coordonnées:
 icône: user
