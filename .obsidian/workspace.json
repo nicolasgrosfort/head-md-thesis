@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fragments/202607211043.md",
+                "file": "fragments/202607211121.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202607211043"
+              "title": "202607211121"
             }
           }
         ]
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fragments/202607211043.md",
+                "file": "fragments/202607211057.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202607211043"
+              "title": "Outline of 202607211057"
             }
           }
         ],
@@ -194,13 +194,27 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "236de3048fb48773",
+  "active": "72152527786690d6",
   "lastOpenFiles": [
+    "fragments/Untitled.base",
+    "fragments/202607211121.md",
+    "fragments/202607211119.md",
+    "fragments/202607211117.md",
+    "fragments/202607211115.md",
+    "fragments/202607211114.md",
+    "fragments/202607211112.md",
+    "fragments/202607211111.md",
+    "fragments/202607211109.md",
+    "fragments/202607211107.md",
+    "fragments/202607211106.md",
+    "fragments/202607211102.md",
+    "références/de-la-bêtise-artificielle.md",
+    "fragments/202607211057.md",
+    "fragments/202607202118.md",
+    "fragments/202607202109.md",
     "fragments/202607211032.md",
     "fragments/202607211043.md",
-    "fragments/202607202118.md",
     "fragments/202607202116.md",
-    "fragments/202607202109.md",
     "templates/fragment.md",
     "templates/référence.md",
     "templates/journal.md",
@@ -209,22 +223,8 @@
     "templates/entretien.md",
     "README.md",
     "fragments/Untitled 1.md",
-    "fragments/Untitled.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-conversations/Document_sur_les_objets@20260720_210155.md",
-    "documents/projet-de-recherche.md",
     "fragments",
     "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "bases/références.base",
@@ -235,7 +235,6 @@
     "bases/entretiens.base",
     "bases/carte.base",
     "entretiens",
-    "templates/référence.md.sb-9b8c3641-sBam90",
     "assets/images/2026-07-15-espace-latent.jpg",
     "assets/images/2026-06-20-espace-liminaire.jpg",
     "assets/images/2026-05-17-techno-naturalisme.jpg",
