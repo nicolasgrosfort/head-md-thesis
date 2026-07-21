@@ -11,24 +11,13 @@
             "id": "236de3048fb48773",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "fragments/202607211121.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "bases/fragments.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "202607211121"
+              "icon": "lucide-table",
+              "title": "fragments"
             }
           }
         ]
@@ -194,10 +183,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "72152527786690d6",
+  "active": "236de3048fb48773",
   "lastOpenFiles": [
-    "fragments/Untitled.base",
+    "bases/références.base",
+    "fragments/202607202109.md",
+    "bases/fragments.base",
     "fragments/202607211121.md",
+    "fragments/Untitled.base",
     "fragments/202607211119.md",
     "fragments/202607211117.md",
     "fragments/202607211115.md",
@@ -211,14 +203,12 @@
     "références/de-la-bêtise-artificielle.md",
     "fragments/202607211057.md",
     "fragments/202607202118.md",
-    "fragments/202607202109.md",
     "fragments/202607211032.md",
     "fragments/202607211043.md",
     "fragments/202607202116.md",
     "templates/fragment.md",
     "templates/référence.md",
     "templates/journal.md",
-    "bases/fragments.base",
     "références/persistance-du-merveilleux.md",
     "templates/entretien.md",
     "README.md",
@@ -227,7 +217,6 @@
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "bases/références.base",
     "assets/images/2026-07-17-roby.png",
     "Capture d’écran 2026-07-17 à 11.37.20.png",
     "assets/images/2026-07-17-many-intelligences.png",

@@ -20,3 +20,16 @@ views:
     separator: " - "
     indentProperties: true
     markers: none
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("fragments")
+    order:
+      - file.name
+      - titre
+      - type
+      - citation
+    columnSize:
+      file.name: 140
+      note.titre: 458
