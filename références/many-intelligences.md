@@ -3,7 +3,7 @@ progression: 0
 intérêt: 0
 type:
   - livre
-domaines:
+thématiques:
   - intelligence
 création: 2026-07-17
 urls:

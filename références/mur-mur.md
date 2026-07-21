@@ -3,7 +3,7 @@ progression: 70
 intérêt: 10
 type:
   - projet
-domaines:
+thématiques:
   - agent
   - intelligence-artificielle
 création: 2026-07-17

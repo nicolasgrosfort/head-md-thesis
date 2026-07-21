@@ -3,7 +3,7 @@ progression: 30
 intérêt: 10
 type:
   - personne
-domaines:
+thématiques:
 création: 2026-07-17
 urls:
 tags:

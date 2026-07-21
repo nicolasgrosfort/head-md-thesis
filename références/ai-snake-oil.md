@@ -3,7 +3,7 @@ progression: 0
 intérêt: 7
 type:
   - livre
-domaines:
+thématiques:
   - intelligence-artificielle
 création: 2026-07-17
 urls:

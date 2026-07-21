@@ -3,7 +3,7 @@ progression: 0
 intérêt: 6
 type:
   - livre
-domaines:
+thématiques:
   - mythologie
 création: 2026-07-16
 urls:

@@ -10,11 +10,11 @@
     "urls": "multitext",
     "priorité": "number",
     "progression": "number",
-    "domaines": "multitext",
     "type": "multitext",
     "création": "date",
     "relations": "multitext",
     "statut": "multitext",
-    "auteurs": "multitext"
+    "auteurs": "multitext",
+    "thématiques": "multitext"
   }
 }

@@ -3,7 +3,7 @@ progression: 20
 intérêt: 7
 type:
   - personne
-domaines:
+thématiques:
   - multinaturalisme
 création: 2026-07-16
 urls:

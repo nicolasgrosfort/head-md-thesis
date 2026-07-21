@@ -1,0 +1,22 @@
+views:
+  - type: list
+    name: Liste
+    filters:
+      and:
+        - file.inFolder("fragments")
+    order:
+      - titre
+      - file.name
+      - création
+      - révision
+      - thématiques
+      - citation
+    columnSize:
+      note.titre: 570
+      file.name: 135
+    rowHeight: extra
+    imageAspectRatio: 1.05
+    cardSize: 250
+    separator: " - "
+    indentProperties: true
+    markers: none

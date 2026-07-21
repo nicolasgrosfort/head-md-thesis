@@ -1,6 +1,6 @@
 ---
 création: "{{date}}"
-domaines:
+thématiques:
 tags:
 coordonnées:
 icône: book-heart

@@ -1,6 +1,6 @@
 ---
 date: "{{date}}"
-domaines:
+thématiques:
 coordonnées:
 icône: user
 couleur: blue

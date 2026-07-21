@@ -3,7 +3,7 @@ progression: 20
 intérêt: 8
 type:
   - personne
-domaines:
+thématiques:
   - intelligence-artificielle
 création: 2026-07-17
 urls:

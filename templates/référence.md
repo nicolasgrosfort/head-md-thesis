@@ -2,7 +2,7 @@
 progression: 0
 intérêt: 0
 type:
-domaines:
+thématiques:
 création: "{{date}}"
 urls:
 cover:

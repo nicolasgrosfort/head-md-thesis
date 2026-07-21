@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "36c9ff290ea3f74e",
+        "id": "c98a2bed7348145a",
         "type": "tabs",
         "children": [
           {
-            "id": "7003a787606e85dc",
+            "id": "236de3048fb48773",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fragments/202607202109.md",
+                "file": "fragments/202607211043.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202607202109"
+              "title": "202607211043"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coordina",
+                "query": "[\"description\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,21 +164,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fragments/202607202109.md",
+                "file": "fragments/202607211043.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202607202109"
+              "title": "Outline of 202607211043"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 517.5
+    "width": 517.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,14 +194,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7003a787606e85dc",
+  "active": "236de3048fb48773",
   "lastOpenFiles": [
-    "fragments/202607202116.md",
+    "fragments/202607211032.md",
+    "fragments/202607211043.md",
     "fragments/202607202118.md",
+    "fragments/202607202116.md",
     "fragments/202607202109.md",
     "templates/fragment.md",
-    "templates/entretien.md",
+    "templates/référence.md",
     "templates/journal.md",
+    "bases/fragments.base",
+    "références/persistance-du-merveilleux.md",
+    "templates/entretien.md",
     "README.md",
     "fragments/Untitled 1.md",
     "fragments/Untitled.md",
@@ -219,10 +225,6 @@
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "bases/références.base",
@@ -234,7 +236,6 @@
     "bases/carte.base",
     "entretiens",
     "templates/référence.md.sb-9b8c3641-sBam90",
-    "templates/journal.md.sb-9b8c3641-qbKSY2",
     "assets/images/2026-07-15-espace-latent.jpg",
     "assets/images/2026-06-20-espace-liminaire.jpg",
     "assets/images/2026-05-17-techno-naturalisme.jpg",

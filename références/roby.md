@@ -3,7 +3,7 @@ progression: 10
 intérêt: 9
 type:
   - agent
-domaines:
+thématiques:
   - intelligence-artificielle
 création: 2026-07-17
 urls:

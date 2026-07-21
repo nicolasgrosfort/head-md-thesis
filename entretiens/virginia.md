@@ -1,6 +1,6 @@
 ---
 date: 2026-07-17
-domaines:
+thématiques:
 coordonnées:
   - "46.205662"
   - "6.165135"
