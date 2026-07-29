@@ -48,6 +48,15 @@ L'objectif de ce document est de définir les outils, la méthodologie et la typ
 | **Audio**             | Ambiance et entretiens                                                                                       | Retranscription, [plateforme de recherche](https://stokhastik.xyz) |
 | **Notes manuscrites** | Faits significatifs/important, vie intérieur (émotions, doutes, ...), vie extérieur (observations, non-dits) | Écriture, [plateforme de recherche](https://stokhastik.xyz)        |
 
+### Retranscription
+
+Utilisation de [Scriberr](https://github.com/rishikanthc/Scriberr). Une fois installé, il suffit de lancer la commande suivante :
+
+```bash
+scriberr
+```
+
+Aller ensuite sur : [http://localhost:8080](http://localhost:8080/)
 ## Lectures
 
 *Définis le type de données à récolter.*

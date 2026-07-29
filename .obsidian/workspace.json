@@ -11,13 +11,24 @@
             "id": "236de3048fb48773",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "bases/fragments.base",
-                "viewName": "Table"
+                "file": "documents/protocole-prise-de-données.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "fragments"
+              "icon": "lucide-file",
+              "title": "protocole-prise-de-données"
             }
           }
         ]
@@ -185,9 +196,9 @@
   },
   "active": "236de3048fb48773",
   "lastOpenFiles": [
+    "bases/fragments.base",
     "bases/références.base",
     "fragments/202607202109.md",
-    "bases/fragments.base",
     "fragments/202607211121.md",
     "fragments/Untitled.base",
     "fragments/202607211119.md",
