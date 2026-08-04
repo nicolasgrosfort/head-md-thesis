@@ -94,20 +94,20 @@ Cette recherche privilégie une démarche exploratoire, où les observations de 
 
 ## Entretiens
 
-| **Personnes**                                         | **Lieu**               | **Thématiques**                                  | Status   |
-| ----------------------------------------------------- | ---------------------- | ------------------------------------------------ | -------- |
-| **À définir**                                         | Kyoto                  | Philosophie et ontologie animistes               |          |
-| **À définir**                                         | Kyoto                  | Histoire du Japon et shintoïsme                  |          |
-|                                                       |                        |                                                  |          |
-| **Alexa Steinbrück**                                  | Allemagne (à distance) | Intelligence artificielle                        |          |
-| **André Ourednik**                                    | Lausanne (à distance)  | Machines spirituelles et oracles                 |          |
-| **Anne Alombert**                                     | France (à distance)    | Perroquets stochastiques et délégation cognitive |          |
-| [**Douglas Edric Stanley**](../entretiens/douglas.md) | Genève                 | Relations humain–agent d'IA                      | Terminé  |
-| **Gergely Péter Barna**                               | Kyoto                  | Machines, artisanat et traditions                | Prochain |
-| [**Matteo Loglio**](../entretiens/matteo.md)          | Tessin (à distance)    | Agents d'IA et projet *Mur Mur*                  | Planifié |
-| **Ryo Terui**                                         | Kyoto                  | Actantialité et relations humain–non-humain      | Prochain |
-| [**Virginia Bjertnes**](../entretiens/virginia.md)    | Genève                 | Conte, récits et ontologie animiste              | Terminé  |
-| [Vytas Jankauskas](https://vjnks.com)                 | Genève                 | Artiste media designer qui travailler avec l'IA  | Prochain |
+| **Personnes**                                         | **Lieu**               | **Thématiques**                                  | Status     |
+| ----------------------------------------------------- | ---------------------- | ------------------------------------------------ | ---------- |
+| **À définir**                                         | Kyoto                  | Philosophie et ontologie animistes               | À définir  |
+| **À définir**                                         | Kyoto                  | Histoire du Japon et shintoïsme                  | À définir  |
+| **Alexa Steinbrück**                                  | Allemagne (à distance) | Intelligence artificielle                        |            |
+| **André Ourednik**                                    | Lausanne (à distance)  | Machines spirituelles et oracles                 |            |
+| **Anne Alombert**                                     | France (à distance)    | Perroquets stochastiques et délégation cognitive |            |
+| [Vytas Jankauskas](https://vjnks.com)                 | Genève                 | Artiste media designer qui travailler avec l'IA  |            |
+| **mui LAB**                                           | Kyoto                  |                                                  | En attente |
+| **Gergely Péter Barna**                               | Kyoto                  | Machines, artisanat et traditions                | En attente |
+| **Ryo Terui**                                         | Kyoto                  | Actantialité et relations humain–non-humain      | En attente |
+| [**Matteo Loglio**](../entretiens/matteo.md)          | Tessin (à distance)    | Agents d'IA et projet *Mur Mur*                  | Planifié   |
+| [**Douglas Edric Stanley**](../entretiens/douglas.md) | Genève                 | Relations humain–agent d'IA                      | Terminé    |
+| [**Virginia Bjertnes**](../entretiens/virginia.md)    | Genève                 | Conte, récits et ontologie animiste              | Terminé    |
 
 ## Calendrier
 
@@ -165,7 +165,7 @@ L'objectif de ce projet pratique sera donc d'interroger les formes de relation q
 | [Persistance du merveilleux](https://www.lelivre.ch/Detail-persistance_du_merveilleux-4-9782850612473)                                                                                                                                                                                                             | Nicolas Nova                                           | Imaginaires technique        | 100%            |
 | [Robopoiëse](https://editions-baconniere.ch/fr/catalogue/robopoieses)                                                                                                                                                                                                                                              | André Ourednik                                         | Intelligence Artificielle    | 20%             |
 | [Schizophrénie numérique](https://www.editions-allia.com/fr/livre/961/schizophrenie-numerique)                                                                                                                                                                                                                     | Anne Alombert                                          | Philosophie de la technique  | 100%            |
-| [The Question Concerning Technology in China](https://mitpress.mit.edu/9780995455009/the-question-concerning-technology-in-china/)                                                                                                                                                                                 | Yuk Hui                                                | Cosmotechnique, ontologie    | 20%             |
+| [The Question Concerning Technology in China](https://mitpress.mit.edu/9780995455009/the-question-concerning-technology-in-china/)                                                                                                                                                                                 | Yuk Hui                                                | Cosmotechnique, ontologie    | 30%             |
 | [Toutes les intelligences du monde](https://www.seuil.com/ouvrage/toutes-les-intelligences-du-monde-james-bridle/9782021480078)                                                                                                                                                                                    | James Bridle                                           | Intelligence Artificielle    | 100%            |
 | [Zéro + Uns](https://sans-soleil.com/catalogue/v-theorie-critique/zeros-uns/)                                                                                                                                                                                                                                      | Sadie Plant                                            | Cyberféminisme               | 100%            |
 #### Calendrier
