@@ -1,12 +1,12 @@
 ---
-date:
-thématiques:
+date: 2026-08-05
 coordonnées:
 icône: user
 couleur: blue
 statut:
-  - À faire
+  - terminé
 description:
+thématiques:
 ---
 # Entretien avec Douglas Edric Stanley
 

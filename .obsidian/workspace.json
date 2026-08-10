@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documents/projet-de-recherche.md",
+                "file": "entretiens/naimi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,37 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "projet-de-recherche"
+              "title": "naimi"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b1aa1fc8ad97f024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "006a3e7471cfde3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "entretiens/matteo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "matteo"
             }
           }
         ]
@@ -198,6 +228,10 @@
   },
   "active": "86b86f3e93050bbc",
   "lastOpenFiles": [
+    "entretiens/matteo.md",
+    "entretiens/naimi.md",
+    "entretiens/virginia.md",
+    "entretiens/douglas.md",
     "documents/projet-de-recherche.md",
     "documents/protocole-prise-de-données.md",
     "bases/fragments.base",
@@ -223,10 +257,6 @@
     "fragments/202607202116.md",
     "templates/fragment.md",
     "templates/référence.md",
-    "templates/journal.md",
-    "références/persistance-du-merveilleux.md",
-    "templates/entretien.md",
-    "README.md",
     "fragments",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",

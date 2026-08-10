@@ -1,13 +1,13 @@
 ---
 date: 2026-07-17
-thématiques:
 coordonnées:
   - "46.205662"
   - "6.165135"
 icône: user
 couleur: blue
 statut:
-  - En cours
+  - terminé
+thématiques:
 description:
 ---
 # Entretien avec Virginia Bjertnes
