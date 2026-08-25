@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f24856cfe672e409",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "86b86f3e93050bbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entretiens/naimi.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "naimi"
-            }
-          }
-        ]
-      },
-      {
         "id": "b1aa1fc8ad97f024",
         "type": "tabs",
         "children": [
@@ -43,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entretiens/matteo.md",
+                "file": "documents/what-the-fuck-i-m-doing-here.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "matteo"
+              "title": "what-the-fuck-i-m-doing-here"
             }
           }
         ]
@@ -120,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2ce155ca947964e",
@@ -226,17 +197,21 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "86b86f3e93050bbc",
+  "active": "006a3e7471cfde3e",
   "lastOpenFiles": [
+    "documents/what-the-fuck-i-m-doing-here.md",
+    "fragments/202607211106.md",
+    "fragments/202607211057.md",
+    "fragments/202607202118.md",
+    "fragments/202607202109.md",
+    "documents/protocole-prise-de-données.md",
     "entretiens/matteo.md",
     "entretiens/naimi.md",
     "entretiens/virginia.md",
     "entretiens/douglas.md",
     "documents/projet-de-recherche.md",
-    "documents/protocole-prise-de-données.md",
     "bases/fragments.base",
     "bases/références.base",
-    "fragments/202607202109.md",
     "fragments/202607211121.md",
     "fragments/Untitled.base",
     "fragments/202607211119.md",
@@ -247,16 +222,12 @@
     "fragments/202607211111.md",
     "fragments/202607211109.md",
     "fragments/202607211107.md",
-    "fragments/202607211106.md",
     "fragments/202607211102.md",
     "références/de-la-bêtise-artificielle.md",
-    "fragments/202607211057.md",
-    "fragments/202607202118.md",
     "fragments/202607211032.md",
     "fragments/202607211043.md",
     "fragments/202607202116.md",
     "templates/fragment.md",
-    "templates/référence.md",
     "fragments",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",

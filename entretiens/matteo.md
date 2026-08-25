@@ -22,7 +22,7 @@ My research is about the relationship we have with AI agents and how it impacts 
 - Quelle relation entretien-il avec les agents d'IA ?
 - Qu'est-ce que sont ces agents ? Comment devons-nous les considérer ?
 
-- Présente ces projets : notamment mur mur et Roby. Quelques mots sur Many Intelligence
+- Présente ces projets : notamment ==Mur Mur== et ==Roby==. Quelques mots sur M==any Intelligence==
 
 	- Pourquoi avoir fait le projet mur-mur ?
 	- Pourquoi vouloir sortir du modèle de l'hyperproductivité en imaginant un monde ou ces agents vivent tranquillement leur vie de musicien ?
@@ -34,4 +34,21 @@ My research is about the relationship we have with AI agents and how it impacts 
 
 # Notes
 
-...
+Le role de la métaphore, le mot agent...
+Quelle autre forme de métaphore ?
+Assigner un job
+
+Les intelligences sont multiples, humains, aniamales, et de plus en plus aussi créer dans les labs. 
+
+1. Anthropomorphisation de l'intelligence → science fiction → systpme intellingent → finalemnt comme toutes les autres app - skeuomoprhisme
+2. Les deux formes d'intelligences
+3. La doination
+
+Stochastik parrot ? Juste un outil qu'on
+
+Différent prototype : 
+
+
+
+What about local ai ?
+Est-ce qu0on a besoin de nouvelles étaphores ?
