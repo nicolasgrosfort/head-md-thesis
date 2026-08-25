@@ -10,13 +10,13 @@ version: "0.1"
 
 # What the Fuck Am I Doing Here?
 
-I'am a creative technologist, currently doing a Master's in Media Design @ HEAD – Geneva. I'm spending some time making field observations at Shinto shrines here in Kyoto, where I'm staying for two months.
+I'm a creative technologist, currently doing a Master's in Media Design at HEAD - Geneva. I'm spending two months in Kyoto, where part of my time is dedicated to field observations in Shinto shrines.
 
 So, what the fuck am I doing here? 
 
 To answer that, I need to go back to what an interface actually is.
 
-Digital technology is made of layers of electronic components, electrical currents, materials and code that, when assembled, can perform very complexe calculations. I propose to call this calculated matter.
+Digital technology is made of layers of electronic components, electrical currents, materials and code that, when assembled, can perform very complex calculations. I propose to call this *calculated matter*.
 
 Calculated matter needs an interface to become intelligible. Without one, what happens inside remains mostly invisible, impossible for most of us to perceive or interpret. Just as a cell needs a microscope to appear to us as a phenomenon, the digital needs interfaces to move from something inaccessible to something we can experience.
 
@@ -34,11 +34,11 @@ We don't even really know what to call it: artificial intelligence, machine lear
 
 Everyone seems to be trying to make sense of what the fuck is going on.
 
-One particularly common strategy is anthropomorphism. We make machines talk. We give them names, personalities and human roles: assistant, agent, copilot. We make them appear human while maintaining an almost absolute relationship of domination over them. We order, they execute.
+One particularly common strategy is anthropomorphism. We make machines talk. We give them names, personalities and human roles: assistant, agent, copilot. We make them appear human while maintaining an almost absolute relationship of domination over them. We command, they execute.
 
 What kind of relationship are we designing here?
 
-This question is also personal. For years, I internalized a similar obsession with productivity and efficiency. At some point, I started perceiving human unproductivity almost as a defect - ambiguity as noise, hesitation as wasted time, error as failure. In trying to become more efficient, I somehow turned myself into a machine.
+This question is also personal. For years, I internalized a similar obsession with productivity and efficiency. At some point, I started perceiving human inefficiency almost as a defect - ambiguity as noise, hesitation as wasted time, error as failure. In trying to become more efficient, I somehow turned myself into a machine.
 
 And this is where Kyoto comes in.
 
@@ -54,7 +54,7 @@ So perhaps I did not come to Kyoto looking for a new metaphor for AI.
 
 Perhaps I came here looking for another kind of relationship with otherness.
 
-I try to understand whether the relational devices used to interact with the *Shinto invisible* can help me imagine technological interfaces based less on domination, control and hyper-productivity - and more on ambiguity, attention, care and coexistence.
+I'm trying to understand whether the relational devices used to interact with the *Shinto invisible* can help me imagine technological interfaces based less on domination, control and hyper-productivity - and more on ambiguity, attention, care and coexistence.
 
 So, what the fuck am I doing here?
 

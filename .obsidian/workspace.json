@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documents/projet-de-recherche.md",
+                "file": "documents/what-the-fuck-i-m-doing-here.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "projet-de-recherche"
+              "title": "what-the-fuck-i-m-doing-here"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "006a3e7471cfde3e",
   "lastOpenFiles": [
+    "documents/projet-de-recherche.md",
     "documents/what-the-fuck-i-m-doing-here.md",
     "fragments/202607211106.md",
     "fragments/202607211057.md",
@@ -208,7 +209,6 @@
     "entretiens/naimi.md",
     "entretiens/virginia.md",
     "entretiens/douglas.md",
-    "documents/projet-de-recherche.md",
     "bases/fragments.base",
     "bases/références.base",
     "fragments/202607211121.md",
