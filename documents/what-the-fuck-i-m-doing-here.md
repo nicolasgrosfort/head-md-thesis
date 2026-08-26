@@ -11,7 +11,7 @@ version: "0.2"
 
 So, to answer that question, I need to go back to what an interface actually is.
 
-Digital technology is made of layers of electronic components, electrical currents, materials and code that, when assembled, can perform very complex calculations. I propose to call this *calculated matter*.
+Digital technology is made of layers of electronic components, electrical currents, various materials and code that, when assembled, can perform highly complex calculations. I propose to call this _calculated matter_, drawing on the work of philosopher and researcher Stéphane Vial.
 
 Calculated matter needs an interface to become intelligible. Without one, what happens inside remains mostly invisible, impossible for most of us to perceive or interpret. Just as a cell needs a microscope to appear to us as a phenomenon, the digital needs interfaces to move from something inaccessible to something we can experience.
 
