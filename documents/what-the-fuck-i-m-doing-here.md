@@ -1,20 +1,15 @@
 ---
 création: 2026-08-25
-révision: 2026-08-25
-version: "0.1"
+révision: 2026-08-26
+version: "0.2"
 ---
-> [!Note]
-> I wrote it partly because I've been struggling to explain my research. I've been asked almost every day what I'm doing here, to the point where I started asking myself the same question.
-
-*This text is still a work in progress.* 
-
 # What the Fuck Am I Doing Here?
 
-I'm a creative technologist, currently doing a Master's in Media Design at HEAD - Geneva. I'm spending two months in Kyoto, where part of my time is dedicated to field observations in Shinto shrines.
+*I'm a creative technologist, currently doing a Master's in Media Design at HEAD - Geneva. I'm spending two months in Kyoto, where part of my time is dedicated to field observations in Shinto shrines.*
 
-So, what the fuck am I doing here? 
+"What the fuck am I doing here?" is a way of talking about the ambivalence of my research project and how I inhabit my days here in Japan. It echoes the posture I am exploring here: a new way of dealing with the hyperproductivity in which I have immersed myself for so many years. 
 
-To answer that, I need to go back to what an interface actually is.
+So, to answer that question, I need to go back to what an interface actually is.
 
 Digital technology is made of layers of electronic components, electrical currents, materials and code that, when assembled, can perform very complex calculations. I propose to call this *calculated matter*.
 
