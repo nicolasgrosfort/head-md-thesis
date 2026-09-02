@@ -6,5 +6,8 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "showInlineTitle": false,
-  "attachmentFolderPath": "/"
+  "attachmentFolderPath": "/",
+  "userIgnoreFilters": [
+    "quartz/"
+  ]
 }
