@@ -7,6 +7,8 @@ statut:
   - terminé
 description:
 thématiques:
+type:
+  - entretien
 ---
 # Entretien avec Douglas Edric Stanley
 
@@ -18,7 +20,7 @@ Douglas réalise, et a réalisé, un grand nombre de projets autour de l'intelli
 
 D'un autre côté, il l'enseigne dans ses cours comme un outil pouvant aider à la réflexion. Mise en place d'une certaine manière, elle peut se transformer en garde-fou, en mentor, ou en une sorte d'agent capable de porter un regard différent sur un contenu donné et, ainsi, de poser des questions. Cela inverse en quelque sorte la dynamique habituelle : ce n'est plus seulement l'humain qui interroge la machine, mais aussi la machine qui interroge l'humain.
 
-Enfin, nos discussions m'ont, à de nombreuses reprises, aidé à y voir plus clair dans les problématiques auxquelles je faisais face. C'est notamment lui qui m'a fait découvrir les travaux d'[Alexa Steinbrück](Readings/alexa-steinbrück.md), qui m'ont ensuite conduit vers l'ouvrage [Snake Oil](Readings/ai-snake-oil.md). Ce parcours m'a amené à questionner l'opacité même du terme "IA", notamment à travers l'exemple de la comparaison entre l'avion et le vélo comme deux moyens de transport : une analogie qui met en évidence la diversité des réalités regroupées sous une même appellation et qui vient compléter les réflexions sur la dimension anthropomorphique du terme.
+Enfin, nos discussions m'ont, à de nombreuses reprises, aidé à y voir plus clair dans les problématiques auxquelles je faisais face. C'est notamment lui qui m'a fait découvrir les travaux d'[Alexa Steinbrück](Sources/alexa-steinbrück.md), qui m'ont ensuite conduit vers l'ouvrage [Snake Oil](Sources/ai-snake-oil.md). Ce parcours m'a amené à questionner l'opacité même du terme "IA", notamment à travers l'exemple de la comparaison entre l'avion et le vélo comme deux moyens de transport : une analogie qui met en évidence la diversité des réalités regroupées sous une même appellation et qui vient compléter les réflexions sur la dimension anthropomorphique du terme.
 
 ## Cadre de la discussion
 

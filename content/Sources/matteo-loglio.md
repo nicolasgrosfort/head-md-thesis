@@ -10,6 +10,6 @@ tags:
 description:
 relations:
 auteurs:
-  - "[Matteo Loglio](Readings/matteo-loglio.md)"
+  - "[Matteo Loglio](Sources/matteo-loglio.md)"
 ---
 # Matteo Loglio

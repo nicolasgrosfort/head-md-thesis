@@ -18,6 +18,6 @@ tags:
 description: Roby est le premier directeur créatif de l'IA non humaine d'oio. Il nous aide à trouver de nouvelles idées et de nouveaux produits, modère la communauté Discord et gère son propre compte Instagram.
 relations:
 auteurs:
-  - "[Matteo Loglio](Readings/matteo-loglio.md)"
+  - "[Matteo Loglio](Sources/matteo-loglio.md)"
 ---
 # Roby

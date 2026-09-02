@@ -13,8 +13,8 @@ tags:
   - terminologie
 description:
 relations:
-  - "[AI Snake Oil](Readings/ai-snake-oil.md)"
+  - "[AI Snake Oil](Sources/ai-snake-oil.md)"
 auteurs:
-  - "[Alexa Steinbrück](Readings/alexa-steinbrück.md)"
+  - "[Alexa Steinbrück](Sources/alexa-steinbrück.md)"
 ---
 # Talking about "AI" – a call for more nuanced terminology

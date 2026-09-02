@@ -15,6 +15,6 @@ tags:
 description: Anthropologue brésilien qui a travaillé sur la notion de multinaturalisme
 relations:
 auteurs:
-  - "[Eduardo Viveiros De Castro](Readings/eduardo-viveiros-de-castro.md)"
+  - "[Eduardo Viveiros De Castro](Sources/eduardo-viveiros-de-castro.md)"
 ---
 # Eduardo Viveiros De Castro

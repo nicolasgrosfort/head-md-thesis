@@ -14,6 +14,6 @@ tags:
 description:
 relations:
 auteurs:
-  - "[Alexa Steinbrück](Readings/alexa-steinbrück.md)"
+  - "[Alexa Steinbrück](Sources/alexa-steinbrück.md)"
 ---
 # Alexa Steinbrück
