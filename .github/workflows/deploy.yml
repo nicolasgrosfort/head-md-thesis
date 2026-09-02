@@ -1,0 +1,35 @@
+name: Deploy to "garden.stokhastik.xyz"
+on:
+  workflow_dispatch:
+concurrency: ftp_deploy_production
+jobs:
+  web-deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get latest code
+        uses: actions/checkout@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+          cache: "yarn"
+
+      - name: Build Next.js
+        run: |
+          cd quartz
+          npm install
+          npx quartz build
+
+      - name: List output files
+        run: find quartz/public/ -print
+
+      - name: Deploy on "garden.stokhastik.xyz"
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+        with:
+          server: ${{ secrets.SERVER }}
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
+          server-dir: /
+          local-dir: quartz/public/
