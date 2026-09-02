@@ -6,6 +6,7 @@
       {
         "id": "b1aa1fc8ad97f024",
         "type": "tabs",
+        "dimension": 38.36104513064133,
         "children": [
           {
             "id": "006a3e7471cfde3e",
@@ -29,6 +30,62 @@
               },
               "icon": "lucide-file",
               "title": "what-the-fuck-i-m-doing-here"
+            }
+          },
+          {
+            "id": "95d98f3ccaab8d49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "documents/mais-qu-est-ce-que-je-fou-ici.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "mais-qu-est-ce-que-je-fou-ici"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c3488ea71a24b642",
+        "type": "tabs",
+        "dimension": 61.63895486935868,
+        "children": [
+          {
+            "id": "75e4699fb99f3ed9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
         ]
@@ -90,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 608.1875
   },
   "right": {
     "id": "e2ce155ca947964e",
@@ -196,55 +253,56 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "006a3e7471cfde3e",
+  "active": "75e4699fb99f3ed9",
   "lastOpenFiles": [
-    "documents/projet-de-recherche.md",
-    "documents/what-the-fuck-i-m-doing-here.md",
-    "fragments/202607211106.md",
-    "fragments/202607211057.md",
-    "fragments/202607202118.md",
-    "fragments/202607202109.md",
-    "documents/protocole-prise-de-données.md",
-    "entretiens/matteo.md",
-    "entretiens/naimi.md",
-    "entretiens/virginia.md",
-    "entretiens/douglas.md",
-    "bases/fragments.base",
-    "bases/références.base",
-    "fragments/202607211121.md",
-    "fragments/Untitled.base",
-    "fragments/202607211119.md",
-    "fragments/202607211117.md",
-    "fragments/202607211115.md",
-    "fragments/202607211114.md",
-    "fragments/202607211112.md",
-    "fragments/202607211111.md",
-    "fragments/202607211109.md",
-    "fragments/202607211107.md",
-    "fragments/202607211102.md",
-    "références/de-la-bêtise-artificielle.md",
-    "fragments/202607211032.md",
-    "fragments/202607211043.md",
-    "fragments/202607202116.md",
-    "templates/fragment.md",
-    "fragments",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "assets/images/2026-07-17-roby.png",
-    "Capture d’écran 2026-07-17 à 11.37.20.png",
-    "assets/images/2026-07-17-many-intelligences.png",
+    "quartz/public/postscript-3eea7814.js",
+    "quartz/public/prescript-2bfc6315.js",
+    "quartz/public/index-bb6c1746.css",
+    "quartz/public/static/scripts/script-0-f7c52b6a.js",
+    "quartz/public/static/scripts/script-9-296b30c3.js",
+    "quartz/public/static/scripts/script-8-632b2822.js",
+    "quartz/public/static/scripts/script-7-5ef560a8.js",
+    "quartz/public/static/scripts/script-6-7e107d7e.js",
+    "quartz/public/static/scripts/script-5-cc8afa9d.js",
+    "quartz/public/static/scripts/script-4-2a102aaa.js",
+    "quartz/public/static/scripts/script-3-1f9394e6.js",
+    "quartz/public/index-og-image.webp",
+    "quartz/public/static/og-image.png",
+    "quartz/public/static/icon.png",
+    "quartz/public/tags/index-og-image.webp",
+    "quartz/public/observations/index-og-image.webp",
+    "quartz/content/index.md",
+    "quartz/node_modules/@quartz-community/remark-obsidian/README.md",
+    "quartz/node_modules/@quartz-community/rehype-obsidian/README.md",
+    "quartz/node_modules/@myriaddreamin/typst-ts-node-compiler/README.md",
+    "quartz/node_modules/@quartz-community/graph/README.md",
+    "quartz/node_modules/esbuild-sass-plugin/README.md",
+    "quartz/node_modules/@quartz-community/explorer/README.md",
+    "quartz/node_modules/@quartz-community/graph/CHANGELOG.md",
+    "quartz/node_modules/@quartz-community/explorer/CHANGELOG.md",
+    "quartz/node_modules/@quartz-community/table-of-contents/README.md",
+    "quartz/node_modules/@quartz-community/table-of-contents/CHANGELOG.md",
+    "quartz/node_modules/@quartz-community/content-meta/README.md",
+    "quartz/node_modules/@quartz-community/recent-notes/README.md",
+    "quartz/node_modules/@quartz-community/content-meta/CHANGELOG.md",
+    "quartz/node_modules/@quartz-community/recent-notes/CHANGELOG.md",
+    "quartz/node_modules/@quartz-community/quartz-fonts/README.md",
+    "quartz/node_modules/@quartz-community/breadcrumbs/README.md",
+    "quartz/node_modules/@quartz-community/backlinks/README.md",
+    "quartz/node_modules/@quartz-community/reader-mode/README.md",
+    "quartz/node_modules/@quartz-community/quartz-fonts/CHANGELOG.md",
+    "quartz/node_modules/@quartz-community/spacer/README.md",
+    "quartz/node_modules/@quartz-community/breadcrumbs/CHANGELOG.md",
+    "quartz/node_modules/@quartz-community/backlinks/CHANGELOG.md",
+    "quartz/node_modules/@quartz-community/content-index/README.md",
+    "quartz/node_modules/@quartz-community/reader-mode/CHANGELOG.md",
+    "quartz/quartz/static/og-image.png",
+    "quartz/quartz/static/icon.png",
+    "quartz/docs/images/social-image-preview-light.png",
+    "quartz/docs/images/social-image-preview-dark.png",
+    "quartz/docs/images/quartz-layout-tablet.png",
+    "quartz/docs/Canvas.canvas",
     "canvas/questions.canvas",
-    "bases/entretiens.base",
-    "bases/carte.base",
-    "entretiens",
-    "assets/images/2026-07-15-espace-latent.jpg",
-    "assets/images/2026-06-20-espace-liminaire.jpg",
-    "assets/images/2026-05-17-techno-naturalisme.jpg",
-    "assets/images/2026-07-04-tamagotchi.jpeg",
-    "assets/images/2026-07-04-flow.webp",
-    "assets/images/2026-07-02-pet-rock.jpg",
-    "assets/images/2026-07-02-black-mirror-thronglets.jpeg",
     "documents/Coucou.canvas",
     "documents/Untitled.canvas"
   ]
