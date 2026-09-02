@@ -9,9 +9,10 @@ configuration:
   locale: en-US
   baseUrl: garden.stokhastik.xyz
   ignorePatterns:
+    - Archives
+    - .obsidian
     - private
     - templates
-    - .obsidian
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
