@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Stokhastik
+  pageTitleSuffix: " - Stokhastik"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -16,9 +16,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: JetBrains Mono
+      body: JetBrains Mono
+      code: JetBrains Mono
     colors:
       lightMode:
         light: "#faf8f8"
@@ -100,6 +100,12 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      useThemeFonts: false
+      fontOrigin: googleFonts
+      body: JetBrains Mono
+      header: JetBrains Mono
+      code: JetBrains Mono
   - source: "@quartz-themes/core"
     enabled: false
     options:
@@ -217,7 +223,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: "@quartz-community/footer"
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
