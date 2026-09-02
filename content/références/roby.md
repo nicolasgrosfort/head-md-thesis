@@ -10,7 +10,7 @@ urls:
   - "[Instagram](https://www.instagram.com/roby.oio)"
   - "[LinkedIn](https://www.linkedin.com/in/roby-oio-94757a249/)"
   - "[Matlo](https://www.matlo.me/roby)"
-cover: "[[../assets/images/2026-07-17-roby.png]]"
+cover: "[[Assets/Images/2026-07-17-roby.png]]"
 tags:
   - agent
   - studio

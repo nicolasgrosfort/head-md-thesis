@@ -9,7 +9,7 @@ thématiques:
 création: 2026-07-17
 urls:
   - https://www.murmur.living/
-cover: "[[../assets/images/2026-06-26-mur-mur-oio-studio.png]]"
+cover: "[[Assets/Images/2026-06-26-mur-mur-oio-studio.png]]"
 tags:
   - objet
   - musique

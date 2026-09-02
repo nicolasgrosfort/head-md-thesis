@@ -31,7 +31,7 @@ L'objectif de ce document est de définir les outils, la méthodologie et la typ
 | Données               | Description                               | Usage                                                                                                  |
 | --------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | **Photo**             | Ambiance, archivage, trace                | Gaussian Splatting, documentation                                                                      |
-| **Coordonnées GPS**   | Lattitude, longitude                      | Positionnement sur la [carte](../bases/carte.base), [pèlateforme de recherche](https://stokhastik.xyz) |
+| **Coordonnées GPS**   | Lattitude, longitude                      | Positionnement sur la [carte](Collections/carte.base), [pèlateforme de recherche](https://stokhastik.xyz) |
 | **Audio**             | Ambiance                                  | [Plateforme de recherche](https://stokhastik.xyz)                                                      |
 | **Scan 3D**           | Objet, monument, espace                   | [Plateforme de recherche](https://stokhastik.xyz)                                                      |
 | **Notes manuscrites** | Emotions, doutes, questions, observations | Démarche auto-ethnographique                                                                           |

@@ -2,12 +2,11 @@
   "showLineNumber": true,
   "newFileLocation": "current",
   "newFileFolderPath": "/assets",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "showInlineTitle": false,
   "attachmentFolderPath": "/",
-  "userIgnoreFilters": [
-    "quartz/"
-  ]
+  "userIgnoreFilters": null,
+  "showUnsupportedFiles": true
 }

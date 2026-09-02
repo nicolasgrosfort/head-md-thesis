@@ -8,7 +8,7 @@ thématiques:
 création: 2026-07-17
 urls:
   - "[Matlo](https://www.matlo.me/many-intelligences)"
-cover: "[[../assets/images/2026-07-17-many-intelligences.png]]"
+cover: "[[Assets/Images/2026-07-17-many-intelligences.png]]"
 tags:
   - intelligence-artificielle
   - nature

@@ -1,6 +1,4 @@
 ---
-title: Hello World
+title: Stokhastik Garden
 ---
-Hello World
-
-[Observations](Observations/Observations.md)
+Here is a blog where I publish content related to my thesis. 
