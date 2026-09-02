@@ -3,7 +3,7 @@ création: 2026-06-08
 révision: 2026-06-24
 ---
 > [!Warning] Document déprécié
-> Ce document est conservé à titre d’archive. Merci de consulter la version actuelle : [Projet de recherche](../projet-de-recherche.md).
+> Ce document est conservé à titre d’archive. Merci de consulter la version actuelle : [Projet de recherche](Writings/projet-de-recherche.md).
 
 # Spiritual Stochasticism 
 

@@ -10,7 +10,7 @@ Master in Media Design · HEAD Geneva
 Nicolas Grosfort · Supervised by Sabrina Calvo
 July - November 2026 · Geneva & Kyoto
 
-[Full research project (FR)](projet-de-recherche.md)
+[Full research project (FR)](Writings/projet-de-recherche.md)
 
 ## Summary
 

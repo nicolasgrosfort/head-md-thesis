@@ -16,7 +16,7 @@ tags:
 description: Le livre est une exploration ludique des nombreuses nuances d'intelligence à travers l'univers, des animaux et des plantes jusqu'à l'IA et aux objets sensibles. À quoi pensent les robots, les étoiles de mer et les grille-pain ?
 relations:
 auteurs:
-  - "[Matteo Loglio](matteo-loglio.md)"
+  - "[Matteo Loglio](Readings/matteo-loglio.md)"
 ---
 # Many Intelligences
 

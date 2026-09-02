@@ -19,6 +19,6 @@ tags:
 description: Mur Mur est une enceinte qui diffuse les sons ambiants du minuscule univers qu'elle renferme. Elle ne diffuse ni boucles préenregistrées ni pistes audio en streaming. Chaque Mur Mur est un lieu vivant, et ce que vous entendez, ce sont les sons qu'il produit.
 relations:
 auteurs:
-  - "[Matteo Loglio](matteo-loglio.md)"
+  - "[Matteo Loglio](Readings/matteo-loglio.md)"
 ---
 # Mur Mur
