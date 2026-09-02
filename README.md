@@ -1,25 +1,31 @@
 # Master Thesis
 
-Projet de recherche mené par Nicolas Grosfort dans le cadre d'un Master en Media Design à la HEAD - Genève, sous la direction de Sabrina Calvo.
+Research project conducted by Nicolas Grosfort as part of a Master's degree in Media Design at HEAD - Geneva, under the supervision of Sabrina Calvo.
+
+The project content is published on the website [garden.stokhastik.xyz](https://garden.stokhastik.xyz).
+
+## Obsidian
+
+Obsidian is used to produce the content. Linking notes `[[...]]` do not work with GitHub.
 
 ## Quartz
 
-Le contenu du projet est publié sur le site web garden.stokhastik.xyz, généré avec Quartz. 
+Quartz is used to generate a blog based on Obsidian notes.
 
-### Première installation
+### First installation
 
 ```bash
 cd quartz
 npm install
 ```
 
-### Lancer le serveur de développement
+### Running the development server
 
 ```bash
 cd quartz
 npx quartz build --serve
 ```
-### Lancer le serveur de production
+### Running the production server
 
 ```bash
 cd quartz
@@ -28,18 +34,6 @@ cd public
 npx serve@latest
 ```
 
-## Documentation
+## Deployment
 
-- One pager [(fr)](documents/one-pager-fr.md) · [(en)](documents/one-pager-en.md) 
-- [Projet de recherche](documents/projet-de-recherche.md)
-- [Protocole de prise de données](documents/protocole-prise-de-données.md)
-
-## Bases
-
-- [Carte](bases/carte.base)
-- [Entretiens](bases/entretiens.base)
-- [Références](bases/références.base)
-
-## Archives
-
--  [Projet de recherche (déprécié)](documents/archives/projet-de-recherche-(déprécié).md)
+Run the [Deploy to garden.stokhastik.xyz](.github/workflows/deploy.yml) workflow in the GitHub Actions tab.
