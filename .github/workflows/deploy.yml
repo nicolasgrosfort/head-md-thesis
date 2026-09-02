@@ -1,11 +1,15 @@
-name: Deploy to "garden.stokhastik.xyz"
+name: Deploy to garden.stokhastik.xyz
+
 on:
   workflow_dispatch:
+
 concurrency: ftp_deploy_production
+
 jobs:
   web-deploy:
     name: Deploy
     runs-on: ubuntu-latest
+
     steps:
       - name: Get latest code
         uses: actions/checkout@v5
@@ -14,18 +18,21 @@ jobs:
         uses: actions/setup-node@v5
         with:
           node-version: "22"
-          cache: "yarn"
+          cache: "npm"
+          cache-dependency-path: quartz/package-lock.json
 
-      - name: Build Next.js
-        run: |
-          cd quartz
-          npm install
-          npx quartz build
+      - name: Install dependencies
+        working-directory: quartz
+        run: npm ci
+
+      - name: Build Quartz
+        working-directory: quartz
+        run: npx quartz build
 
       - name: List output files
         run: find quartz/public/ -print
 
-      - name: Deploy on "garden.stokhastik.xyz"
+      - name: Deploy on garden.stokhastik.xyz
         uses: SamKirkland/FTP-Deploy-Action@v4.3.6
         with:
           server: ${{ secrets.SERVER }}
