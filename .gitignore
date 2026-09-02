@@ -19,6 +19,6 @@ Icon
 .com.apple.timemachine.donotpresent
 
 # Obsidian
-.obsidian/plugins
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+content/.obsidian/plugins/
+content/.obsidian/workspace.json
+content/.obsidian/workspace-mobile.json
