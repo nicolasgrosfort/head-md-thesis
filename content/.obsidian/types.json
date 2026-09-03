@@ -15,6 +15,9 @@
     "relations": "multitext",
     "statut": "multitext",
     "auteurs": "multitext",
-    "thématiques": "multitext"
+    "thématiques": "multitext",
+    "sources": "multitext",
+    "concepts": "multitext",
+    "fragments": "multitext"
   }
 }

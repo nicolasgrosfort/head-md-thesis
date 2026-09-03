@@ -7,5 +7,14 @@
       ],
       "key": "B"
     }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "0"
+    }
   ]
 }

@@ -1,24 +1,11 @@
 views:
   - type: table
-    name: Observations
+    name: All
     filters:
       and:
-        - file.inFolder("content/Observations")
-        - file.name != "Observations"
-  - type: table
-    name: Writings
-    filters:
-      and:
-        - file.inFolder("Writings")
-        - file.name != "Writings"
+        - file.inFolder("01-Writings")
     order:
       - file.name
       - création
       - révision
       - version
-  - type: table
-    name: Readings
-    filters:
-      and:
-        - file.inFolder("content/Readings")
-        - file.name != "Readings"
