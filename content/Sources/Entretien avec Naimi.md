@@ -8,8 +8,6 @@ statut:
 description:
 thématiques:
 ---
-# Entretien avec Naimi
-
 Naimi est un étudiant à KIT en master Information Science - Computational Intelligence and Systems. Je le rencontre dans une salle d'escalade, ainsi qu'au Mcafé, ce lieu de rencontre et d'échange relié à l'université. 
 
 Je suis intéressé à avoir le récit d'un ingénieur sur la manière dont il relationne avec l'IA, comment il la considère et ce que c'est pour lui.

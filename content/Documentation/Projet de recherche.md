@@ -106,7 +106,7 @@ Cette recherche privilégie une démarche exploratoire, où les observations de 
 | **Gergely Péter Barna**                               | Kyoto                  | Machines, artisanat et traditions                | En attente |
 | **mui LAB**                                           | Kyoto                  | Métaphores, Calm Technology                      | Planifié   |
 | **Ryo Terui**                                         | Kyoto                  | Actantialité et relations humain–non-humain      | Planifié   |
-| [**Matteo Loglio**](Sources/entretien-matteo.md)          | Tessin (à distance)    | Agents d'IA et projet *Mur Mur*                  | Terminé    |
+| [**Matteo Loglio**](Sources/Entretien%20avec%20Matteo%20Loglio.md)          | Tessin (à distance)    | Agents d'IA et projet *Mur Mur*                  | Terminé    |
 | [**Douglas Edric Stanley**](Sources/Entretien%20avec%20Douglas%20Edric%20Stanley.md) | Genève                 | Relations humain–agent d'IA                      | Terminé    |
 | [**Virginia Bjertnes**](Sources/Entretien%20avec%20Virginia%20Bjertnes.md)    | Genève                 | Conte, récits et ontologie animiste              | Terminé    |
 | **Naimi**                                             | Kyoto                  |                                                  | Terminé    |
