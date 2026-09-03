@@ -22,4 +22,6 @@ apa:
 
 # Citations
 
-Ici, le terme « ==cosmogramme== » ==désigne les manières dont « un objet ordinaire peut contenir tout un cosmos », tandis que, tout aussi important, « un cosmos peut être traité comme n'importe quelle autre chose » (Tresch, 2007 : 84).==
+==En tant que « technologies de perception » (Bigelow, 2009), les films de Miyazaki émergent et se meuvent comme des instances de cosmogrammes shinto high-tech pour le XXIe siècle, réinventant des attachements animistes==.
+
+Ici, le terme « ==cosmogramme== » ==désigne les manières dont « un objet ordinaire peut contenir tout un cosmos », tandis que, tout aussi important, « un cosmos peut être traité comme n'importe quelle autre chose » (Tresch, 2007 : 84).== ^7759cb

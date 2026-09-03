@@ -3,10 +3,9 @@ titre:
 création: "{{date}}"
 révision:
 relations:
-références:
+sources:
+concepts:
 type:
-citation:
-embedding:
-analyse:
-thématiques:
+tags:
+aliases:
 ---

@@ -18,6 +18,7 @@
     "thématiques": "multitext",
     "sources": "multitext",
     "concepts": "multitext",
-    "fragments": "multitext"
+    "fragments": "multitext",
+    "publication": "date"
   }
 }
