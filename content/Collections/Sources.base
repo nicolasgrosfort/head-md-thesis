@@ -1,0 +1,13 @@
+views:
+  - type: list
+    name: De la bêtise artificielle
+    filters:
+      and:
+        - file.inFolder("Fragments")
+        - sources == ["[[Sources/De La Bêtise Artificielle|De La Bêtise Artificielle]]"]
+    order:
+      - citation
+      - file.name
+    separator: " - "
+    markers: none
+    indentProperties: true

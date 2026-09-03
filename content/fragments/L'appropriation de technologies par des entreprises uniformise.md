@@ -14,6 +14,7 @@ tags:
   - culture
   - appropriation
 aliases:
+citation: Ce ne sont pas les technologies numériques en tant que telles qui provoquent la prolétarisation de l'expression, l'uniformisation culturelle et la désinformation industrielle mais leur appropriation exclusive par des entreprises quasi monopolistiques, qui les développent dans le sens de la disruption et de l'automatisation
 ---
 # Citation
 

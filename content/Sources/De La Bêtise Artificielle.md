@@ -14,6 +14,4 @@ description:
 apa:
 aliases:
 ---
-==Ce ne sont pas les technologies numériques en tant que telles qui provoquent la prolétarisation de l'expression, l'uniformisation culturelle et la désinformation industrielle mais leur appropriation exclusive par des entreprises quasi monopolistiques, qui les développent dans le sens de la disruption et de l'automatisation.== ^53f3bf
-
-Jean Cattan et Célia Zolynski, spécialistes du droit du numérique, parlent d'"==intelligences artificielles extractives"' pour souligner l'exploitation des ressources culturelles sur laquelle ces systèmes sont fondés== - outre le non-respect de la protection des données personnelles et de la propriété intellectuelle. ^58aa63
+![[Collections/Sources.base#De la bêtise artificielle]]
