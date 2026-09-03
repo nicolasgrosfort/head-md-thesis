@@ -1,12 +1,18 @@
 ---
+auteurs:
+  - Nicolas Grosfort
 type:
   - observation
-thématiques:
-création: 2026-09-02
+concepts:
+publication: 2026-09-02
 urls:
 cover:
 tags:
-description:
 relations:
-auteurs:
+description:
+apa:
+aliases:
+coordonnées:
+icône:
+couleur:
 ---

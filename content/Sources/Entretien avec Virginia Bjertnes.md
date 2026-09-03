@@ -1,14 +1,17 @@
 ---
-date: 2026-07-17
-coordonnées:
-  - "46.205662"
-  - "6.165135"
-icône: user
-couleur: blue
-statut:
-  - terminé
-thématiques:
+auteurs:
+  - Virginia Bjertness
+type:
+  - entretien
+concepts:
+date:
+urls:
+cover:
+tags:
+relations:
 description:
+apa:
+aliases:
 ---
 *Virginia est directrice de la mesure [Parcours PAN](https://parcourspan.ch). Parmi ses nombreuses casquettes dans les domaines social, environnemental et culturel, elle porte aussi celle de conteuse et d'anthropologue.*
 ## Pourquoi la rencontrer ?

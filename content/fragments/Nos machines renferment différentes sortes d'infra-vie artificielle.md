@@ -6,7 +6,7 @@ relations:
   - "[[Sources/Techno-animism in Japan - Shinto Cosmograms, Actor-network Theory, and the Enabling Powers of Non-human Agencies|Techno-animism in Japan - Shinto Cosmograms, Actor-network Theory, and the Enabling Powers of Non-human Agencies]]"
 sources:
   - "[[Sources/Persistance Du Merveilleux|Persistance Du Merveilleux]]"
-concept:
+concepts:
 type:
   - livre
 tags:
@@ -14,6 +14,8 @@ tags:
   - vie
   - métaphore
   - ontologie
+  - monde
+  - animisme
 aliases:
 ---
 # Citation
@@ -22,6 +24,4 @@ aliases:
 
 # Analyse
 
-S'agit-il de plusieurs mondes ? De plusieurs ontologies ? Quel rôle jouent ces métaphores ?
-
-[A FAIRE LIEN AVEC [[Sources/Techno-animism in Japan - Shinto Cosmograms, Actor-network Theory, and the Enabling Powers of Non-human Agencies|Techno-animism in Japan - Shinto Cosmograms, Actor-network Theory, and the Enabling Powers of Non-human Agencies]]] au sujet des multiples ontologies
+S'agit-il de [[Sources/Techno-animism in Japan - Shinto Cosmograms, Actor-network Theory, and the Enabling Powers of Non-human Agencies#^404fab|plusieurs mondes]] ? De plusieurs ontologies ? Quel rôle jouent ces métaphores ?

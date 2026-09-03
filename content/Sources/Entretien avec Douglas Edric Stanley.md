@@ -1,17 +1,18 @@
 ---
-date: 2026-08-05
-coordonnées:
-icône: user
-couleur: blue
-statut:
-  - terminé
-description:
-thématiques:
+auteurs:
+  - Douglas Edric Stanley
 type:
   - entretien
+concepts:
+publication: 2026-08-05
+urls:
+cover:
+tags:
+relations:
+description:
+apa:
+aliases:
 ---
-# Entretien avec Douglas Edric Stanley
-
 *[Douglas](https://www.hesge.ch/head/annuaire/douglas-edric-stanley) est enseignant au Master Media Design de la HEAD, mais aussi artiste, chercheur et développeur. Je l'ai rencontré pour la première fois en 2022, lors d'un workshop de Creative Coding. J'ai alors été marqué par le titre de son support de cours, How to Talk to a Robot?, qui a déclenché chez moi une série de questionnements sur ma relation à l'intelligence artificielle. Ces interrogations n'ont cessé de m'accompagner depuis et constituent aujourd'hui l'un des points de départ de cette recherche.*
 
 ## Pourquoi le rencontrer ?
@@ -20,7 +21,7 @@ Douglas réalise, et a réalisé, un grand nombre de projets autour de l'intelli
 
 D'un autre côté, il l'enseigne dans ses cours comme un outil pouvant aider à la réflexion. Mise en place d'une certaine manière, elle peut se transformer en garde-fou, en mentor, ou en une sorte d'agent capable de porter un regard différent sur un contenu donné et, ainsi, de poser des questions. Cela inverse en quelque sorte la dynamique habituelle : ce n'est plus seulement l'humain qui interroge la machine, mais aussi la machine qui interroge l'humain.
 
-Enfin, nos discussions m'ont, à de nombreuses reprises, aidé à y voir plus clair dans les problématiques auxquelles je faisais face. C'est notamment lui qui m'a fait découvrir les travaux d'[Alexa Steinbrück](Sources/alexa-steinbrück.md), qui m'ont ensuite conduit vers l'ouvrage [Snake Oil](Sources/ai-snake-oil.md). Ce parcours m'a amené à questionner l'opacité même du terme "IA", notamment à travers l'exemple de la comparaison entre l'avion et le vélo comme deux moyens de transport : une analogie qui met en évidence la diversité des réalités regroupées sous une même appellation et qui vient compléter les réflexions sur la dimension anthropomorphique du terme.
+Enfin, nos discussions m'ont, à de nombreuses reprises, aidé à y voir plus clair dans les problématiques auxquelles je faisais face. C'est notamment lui qui m'a fait découvrir les travaux d'[Alexa Steinbrück](Sources/Alexa%20Steinbrück.md), qui m'ont ensuite conduit vers l'ouvrage [Snake Oil](Sources/AI%20Snake%20Oil%20-%20What%20Artificial%20Intelligence%20Can%20Do,%20What%20It%20Can't,%20and%20How%20to%20Tell%20the%20Difference.md). Ce parcours m'a amené à questionner l'opacité même du terme "IA", notamment à travers l'exemple de la comparaison entre l'avion et le vélo comme deux moyens de transport : une analogie qui met en évidence la diversité des réalités regroupées sous une même appellation et qui vient compléter les réflexions sur la dimension anthropomorphique du terme.
 
 ## Cadre de la discussion
 
