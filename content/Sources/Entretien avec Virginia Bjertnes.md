@@ -10,8 +10,6 @@ statut:
 thématiques:
 description:
 ---
-# Entretien avec Virginia Bjertnes
-
 *Virginia est directrice de la mesure [Parcours PAN](https://parcourspan.ch). Parmi ses nombreuses casquettes dans les domaines social, environnemental et culturel, elle porte aussi celle de conteuse et d'anthropologue.*
 ## Pourquoi la rencontrer ?
 
@@ -110,3 +108,7 @@ Quelques éléments permettant d'approfondir certains thème si ils n'apparaisse
 - Métaphores anthropomorphiques.
 - Cybernétique : contrôle, maitrise, efficience
 - Aléatoire, chaos, flou, incertitude
+
+# Transcription
+
+Et puis, pour moi, il y a une analogie avec l'IA à ce niveau-là, parce qu'en fait ==c'est quelque chose qui a profondément changé la société quand on a commencé à mettre les choses par écrit, le rapport au savoir et le rapport à l'autre, comment on relationnait les uns avec les autres==, de moments où tu pouvais le mettre par écrit, tu pouvais le différer dans le temps, dans la distance, d'une manière complètement différente, et puis ==tu pouvais figer à certains savoirs que tu pouvais pas quand t'étais que dans la réalité==.  ^7afb35

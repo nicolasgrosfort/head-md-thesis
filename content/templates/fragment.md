@@ -1,5 +1,4 @@
 ---
-titre:
 création: "{{date}}"
 révision:
 relations:
