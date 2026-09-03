@@ -3,8 +3,6 @@ création: 2026-08-25
 révision: 2026-08-26
 version: "0.1"
 ---
-# Mais qu'est-ce que je fou ici ?
-
 Je suis creative technologist, actuellement en 2ème année de master Media Design à la HEAD - Genève. Je fais un stage de deux mois à Kyoto, au Kyoto Institute of Technology (KIT) dans le laboratoire  [Global Collaborative Design Practice](http://www.gcdp.kit.ac.jp) (GCDP) [un master double degrés](https://www.design-architecture.kit.ac.jp/ja/news/p.php?c=2&id=68) entre KIT et University of the Arts London (UAL).
 
 Mes journées sont composées de lectures, d'observations dans des sanctuaires shinto, d'entretiens avec des personnes que je rencontre sur place, d'expérimentations et de recherches d'autres moyens d'interagir avec les agents d'IA qui sont basés sur les données que je récolte. Il s'agit donc d'un stage libre dans lequel je me consacre pleinement à la découverte des lieux et à ma thèse de master. 

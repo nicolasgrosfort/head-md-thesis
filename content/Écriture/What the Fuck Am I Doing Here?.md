@@ -3,8 +3,6 @@ création: 2026-08-25
 révision: 2026-08-26
 version: "0.2"
 ---
-# What the Fuck Am I Doing Here?
-
 *I'm a creative technologist, currently doing a Master's in Media Design at HEAD – Geneva. I'm spending two months in Kyoto, where I'm dedicating part of my time to field observations in Shinto shrines, in search of new ways of relating to the invisible.*
 
 "What the fuck am I doing here?" is a short essay that tries to capture the ambivalence of my position as a researcher and the way I inhabit my days in Japan. It echoes the posture I am exploring: a new way of dealing with the pursuit of a frictionless hyperproductivity in which I have immersed myself for so many years. in which the "interface" becomes a means of relating to the invisible rather than a tool of domination

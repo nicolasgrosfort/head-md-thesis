@@ -17,4 +17,3 @@ Stokhastik Garden est un espace de recherche, d'écriture et de réflexion dédi
 | **Écriture**      | Textes produits                  |                                       |
 
 L'objectif du présent blog est de pouvoir retracer le réseau d'acteurs que constituent ces multiples sources, qu'il s'agisse d'observations, de lectures, d'observations, ...
-
