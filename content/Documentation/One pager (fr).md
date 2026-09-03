@@ -1,6 +1,7 @@
 ---
 création: 2026-06-29
 révision: 2026-06-29
+version: "0.1"
 ---
 # Spiritual Stokhastik
 
@@ -10,7 +11,7 @@ Master en Media Design · HEAD Genève
 Nicolas Grosfort · Sous la direction de Sabrina Calvo
 Juillet - Novembre 2026 · Genève & Kyoto
 
-[Projet de recherche complet (FR)](Documentation/projet-de-recherche.md)
+[Projet de recherche complet (FR)](Documentation/Projet%20de%20recherche.md)
 
 ## Résumé
 

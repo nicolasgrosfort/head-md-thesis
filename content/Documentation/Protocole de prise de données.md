@@ -1,11 +1,7 @@
 ---
 création: 2026-07-14
 révision: 2026-07-14
-coordonnées:
-  - "46.18119569729086"
-  - "6.139475125571111"
-icône: house
-couleur: red
+version: "0.1"
 ---
 # Protocole de prise de données
 
@@ -31,7 +27,7 @@ L'objectif de ce document est de définir les outils, la méthodologie et la typ
 | Données               | Description                               | Usage                                                                                                  |
 | --------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | **Photo**             | Ambiance, archivage, trace                | Gaussian Splatting, documentation                                                                      |
-| **Coordonnées GPS**   | Lattitude, longitude                      | Positionnement sur la [carte](Collections/carte.base), [pèlateforme de recherche](https://stokhastik.xyz) |
+| **Coordonnées GPS**   | Lattitude, longitude                      | Positionnement sur la [carte](Collections/Carte.base), [pèlateforme de recherche](https://stokhastik.xyz) |
 | **Audio**             | Ambiance                                  | [Plateforme de recherche](https://stokhastik.xyz)                                                      |
 | **Scan 3D**           | Objet, monument, espace                   | [Plateforme de recherche](https://stokhastik.xyz)                                                      |
 | **Notes manuscrites** | Emotions, doutes, questions, observations | Démarche auto-ethnographique                                                                           |
