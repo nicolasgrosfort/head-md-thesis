@@ -15,7 +15,6 @@ configuration:
     - templates
     - Templates
     - Canvas
-    - Collections
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
